@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgctxt "alarm.name"
+msgid "Alarm"
+msgstr ""
+
+msgctxt "alarm.plurals"
+msgid "Alarm,Alarms"
+msgstr ""
+
+msgctxt "buffer.name"
+msgid "Buffer"
+msgstr ""
+
+msgctxt "buffer.plurals"
+msgid "Buffer,Buffers"
+msgstr ""
+
+msgctxt "call.name"
+msgid "Call"
+msgstr ""
+
+msgctxt "call.plurals"
+msgid "Call,Calls"
+msgstr ""
+
+msgctxt "charge.name"
+msgid "Charge"
+msgstr ""
+
+msgctxt "charge.plurals"
+msgid "Charge,Charges"
+msgstr ""
+
+msgctxt "herb.name"
+msgid "Herb"
+msgstr ""
+
+msgctxt "herb.plurals"
+msgid "Herb,Herbs"
+msgstr ""
+
+msgctxt "dart.name"
+msgid "Dart"
+msgstr ""
+
+msgctxt "dart.plurals"
+msgid "Dart,Darts"
+msgstr ""
+
+msgctxt "drop.name"
+msgid "Drop"
+msgstr ""
+
+msgctxt "drop.plurals"
+msgid "Drop,Drops"
+msgstr ""
+
+msgctxt "echo.name"
+msgid "Echo"
+msgstr ""
+
+msgctxt "echo.plurals"
+msgid "Echo,Echoes"
+msgstr ""
+
+msgctxt "entry.name"
+msgid "Entry"
+msgstr ""
+
+msgctxt "entry.plurals"
+msgid "Entry,Entries"
+msgstr ""
+
+msgctxt "glint.name"
+msgid "Glint"
+msgstr ""
+
+msgctxt "glint.plurals"
+msgid "Glint,Glints"
+msgstr ""
+
+msgctxt "inkrill.name"
+msgid "Inkrill"
+msgstr ""
+
+msgctxt "inkrill.plurals"
+msgid "Inkrill,Inkrills"
+msgstr ""
+
+msgctxt "length.name"
+msgid "Length"
+msgstr ""
+
+msgctxt "length.plurals"
+msgid "Length,Lengths"
+msgstr ""
+
+msgctxt "marker.name"
+msgid "Marker"
+msgstr ""
+
+msgctxt "marker.plurals"
+msgid "Marker,Markers"
+msgstr ""
+
+msgctxt "morsel.name"
+msgid "Morsel"
+msgstr ""
+
+msgctxt "morsel.plurals"
+msgid "Morsel,Morsels"
+msgstr ""
+
+msgctxt "pocket.name"
+msgid "Pocker"
+msgstr ""
+
+msgctxt "pocket.plurals"
+msgid "Pocket,Pockets"
+msgstr ""
+
+msgctxt "profile.name"
+msgid "Profile"
+msgstr ""
+
+msgctxt "profile.plurals"
+msgid "Profile,Profiles"
+msgstr ""
+
+msgctxt "pulse.name"
+msgid "Pulse"
+msgstr ""
+
+msgctxt "pulse.plurals"
+msgid "Pulse,Pulses"
+msgstr ""
+
+msgctxt "sensor.name"
+msgid "Sensor"
+msgstr ""
+
+msgctxt "sensor.plurals"
+msgid "Sensor,Sensors"
+msgstr ""
+
+msgctxt "session.name"
+msgid "Session"
+msgstr ""
+
+msgctxt "session.plurals"
+msgid "Session,Sessions"
+msgstr ""
+
+msgctxt "sip.name"
+msgid "Sip"
+msgstr ""
+
+msgctxt "sip.plurals"
+msgid "Sip,Sips"
+msgstr ""
+
+msgctxt "snare.name"
+msgid "Snare"
+msgstr ""
+
+msgctxt "snare.plurals"
+msgid "Snare,Snares"
+msgstr ""
+
+msgctxt "song.name"
+msgid "Song"
+msgstr ""
+
+msgctxt "song.plurals"
+msgid "Song,Songs"
+msgstr ""
+
+msgctxt "stride.name"
+msgid "Stride"
+msgstr ""
+
+msgctxt "stride.plurals"
+msgid "Stride,Strides"
+msgstr ""
+
+msgctxt "track.name"
+msgid "Track"
+msgstr ""
+
+msgctxt "track.plurals"
+msgid "Track,Tracks"
+msgstr ""
+
+msgctxt "vision.name"
+msgid "Vision"
+msgstr ""
+
+msgctxt "vision.plurals"
+msgid "Vision,Visions"
+msgstr ""
+
+msgctxt "vittle.name"
+msgid "Vittle"
+msgstr ""
+
+msgctxt "vittle.plurals"
+msgid "Vittle,Vittles"
+msgstr ""

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgctxt "gear.name"
+msgid "Gear"
+msgstr ""
+
+msgctxt "attachment.name"
+msgid "Attachment"
+msgstr ""
+
+msgctxt "moment.name"
+msgid "Moment"
+msgstr ""
+
+msgctxt "role.name"
+msgid "Role"
+msgstr ""
+
+msgctxt "aspect.name"
+msgid "Aspect"
+msgstr ""
+
+msgctxt "attribute.name"
+msgid "Attribute"
+msgstr ""
+
+msgctxt "being.name"
+msgid "Being"
+msgstr ""
+
+msgctxt "feature.name"
+msgid "Feature"
+msgstr ""
+
+msgctxt "stat.name"
+msgid "Stat"
+msgstr ""
+
+msgctxt "malady.name"
+msgid "Malady"
+msgstr ""
+
+msgctxt "mission.name"
+msgid "Mission"
+msgstr ""
+
+msgctxt "location.name"
+msgid "Location"
+msgstr ""

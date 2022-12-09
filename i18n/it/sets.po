@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgctxt "artisan.name"
+msgid "Artisan"
+msgstr ""
+
+msgctxt "forager.name"
+msgid "Forager"
+msgstr ""
+
+msgctxt "shepherd.name"
+msgid "Shepherd"
+msgstr ""
+
+msgctxt "traveler.name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "artificer.name"
+msgid "Artificer"
+msgstr ""
+
+msgctxt "conciliator.name"
+msgid "Conciliator"
+msgstr ""
+
+msgctxt "shaper.name"
+msgid "Shaper"
+msgstr ""
+
+msgctxt "explorer.name"
+msgid "Explorer"
+msgstr ""
+
+msgctxt "personality.name"
+msgid "Personality"
+msgstr ""

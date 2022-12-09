@@ -1,0 +1,1610 @@
+msgid ""
+msgstr ""
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgctxt "01001.name"
+msgid "Eagle Eye"
+msgstr ""
+
+msgctxt "01001.traits"
+msgid "Skill"
+msgstr ""
+
+msgctxt "01001.text"
+msgid "Scout 3 path cards, then draw 1 path card."
+msgstr ""
+
+msgctxt "01001.flavor"
+msgid "When you were young, you and your father would climb the Mound of the Navigator and look over the Valley. From that high vantage, he taught you to see the subtlest movements and minute detail of the flora and fauna far below."
+msgstr ""
+
+msgctxt "01002.name"
+msgid "Paths We’ve Roamed Before"
+msgstr ""
+
+msgctxt "01002.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01002.text"
+msgid "Choose up to 4 total moments or attributes from any number of Ranger discards. Place the chosen cards facedown on the top of their Ranger’s fatigue stack."
+msgstr ""
+
+msgctxt "01002.flavor"
+msgid "As you walk the Valley, you recall the wisdom gained during the seasonal wanderings of your youth."
+msgstr ""
+
+msgctxt "01003.name"
+msgid "Strider"
+msgstr ""
+
+msgctxt "01003.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01003.text"
+msgid "You can only commit this attribute when interacting with a trail."
+msgstr ""
+
+msgctxt "01003.flavor"
+msgid "From the day you took your first steps, you haven't stopped moving. Your heart yearns to scale distant peaks and wander untrodden vistas. You continually look toward the horizon, never content to sit still."
+msgstr ""
+
+msgctxt "01004.name"
+msgid "Trail Mix"
+msgstr ""
+
+msgctxt "01004.traits"
+msgid "Food / Aid"
+msgstr ""
+
+msgctxt "01004.text"
+msgid "<b>Exhaust (use 1 morsel):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [FIT] in their energy pool."
+msgstr ""
+
+msgctxt "01004.flavor"
+msgid "It's a delicious medley of cherry moss pemmican, marbled great beans, starpeas, almonds, and a few surprises."
+msgstr ""
+
+msgctxt "01006.name"
+msgid "Perfect Recall"
+msgstr ""
+
+msgctxt "01006.traits"
+msgid "Skill"
+msgstr ""
+
+msgctxt "01006.text"
+msgid ""
+"Play a moment from your discard pile without paying its energy cost (X is equal to the chosen moment’s cost).\n"
+"This card can be played at the time specified on the chosen moment."
+msgstr ""
+
+msgctxt "01005.name"
+msgid "Reverb Locket"
+msgstr ""
+
+msgctxt "01005.traits"
+msgid "Tech / Expert"
+msgstr ""
+
+msgctxt "01005.text"
+msgid ""
+"When you play this gear, attach a moment to it from your hand.\n"
+"<b>Exhaust (use 1 echo):</b> Play the attached moment as if it were in your hand. It remains attached to this gear instead of being discarded."
+msgstr ""
+
+msgctxt "01007.name"
+msgid "Adaptable Multitool"
+msgstr ""
+
+msgctxt "01007.traits"
+msgid "Tech / Tool"
+msgstr ""
+
+msgctxt "01007.text"
+msgid "<b>Exhaust (use 1 charge):</b> Spend 1 energy to gain 1 energy of any type."
+msgstr ""
+
+msgctxt "01007.flavor"
+msgid "There's no better companion than a memlev multitool. It's like having an artificer's workshop in the palm of your hand, but not nearly as heavy."
+msgstr ""
+
+msgctxt "01008.name"
+msgid "Ironwool Boots"
+msgstr ""
+
+msgctxt "01008.traits"
+msgid "Clothing"
+msgstr ""
+
+msgctxt "01008.text"
+msgid ""
+"Unique.\n"
+"<b>Response:</b> After you play a moment, soothe 1 fatigue."
+msgstr ""
+
+msgctxt "01008.flavor"
+msgid "Your mother taught you many things as you walked by her side, trekking across the Valley and back, but of all her teachings, none were more useful than this: always wear comfortable shoes."
+msgstr ""
+
+msgctxt "01009.name"
+msgid "Meditation Pillow"
+msgstr ""
+
+msgctxt "01009.traits"
+msgid "Aid"
+msgstr ""
+
+msgctxt "01009.text"
+msgid "[FOC] + [connection]<b> (use 1 session): Meditate</b> <i>on your journey</i> to shuffle a number of cards from your fatigue stack into your Ranger deck equal to your effort."
+msgstr ""
+
+msgctxt "01009.flavor"
+msgid "You feel that quiet meditation is essential to daily life, and that the ability to enjoy moments of stillness is paramount to one's well-being."
+msgstr ""
+
+msgctxt "01010.name"
+msgid "The Right Tool"
+msgstr ""
+
+msgctxt "01010.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01010.text"
+msgid "Choose a ranger. That ranger may discard one of their equipped gear to search their ranger deck for a gear and equip it without paying its energy cost."
+msgstr ""
+
+msgctxt "01010.flavor"
+msgid "Your mother taught you how to work with a great number of tools, and from her you gained an intimate knowledge of their function and practical application."
+msgstr ""
+
+msgctxt "01011.name"
+msgid "Pocketed Belt Pouch"
+msgstr ""
+
+msgctxt "01011.traits"
+msgid "Clothing"
+msgstr ""
+
+msgctxt "01011.text"
+msgid ""
+"Reduce the equip value of your gear by 1 (to a minimum of 1).\n"
+"[AWA] + [reason] <b>use 1 pocket: Open</b> <i>your belt pouch and reach inside</i> to search your Ranger deck for a gear and add it to your hand."
+msgstr ""
+
+msgctxt "01014.name"
+msgid "The Mother of Invention"
+msgstr ""
+
+msgctxt "01014.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01014.text"
+msgid "Choose an attachment in a Ranger’s discard. That Ranger may immediately play that attachment as if it were in their hand."
+msgstr ""
+
+msgctxt "01014.flavor"
+msgid "You know that inspiration does not simply come when called. When it strikes, you must act."
+msgstr ""
+
+msgctxt "01015.name"
+msgid "Moment of Desperation"
+msgstr ""
+
+msgctxt "01015.traits"
+msgid "Experience / Weapon"
+msgstr ""
+
+msgctxt "01015.text"
+msgid "Discard one of your equipped gear to add [harm] to a being equal to the number of tokens on the discarded gear."
+msgstr ""
+
+msgctxt "01015.flavor"
+msgid "You'll never forget the look on your brother's face we he saw that raccoon out of the corner of his eye, believing it was a bearsloth. You also remember the raccoon, struck by a belt pouch, yet unperturbed."
+msgstr ""
+
+msgctxt "01016.name"
+msgid "Masterwork"
+msgstr ""
+
+msgctxt "01016.traits"
+msgid "Mod / Expert"
+msgstr ""
+
+msgctxt "01016.text"
+msgid ""
+"Attach to a Ranger’s equipped gear.\n"
+"<b>Response:</b> When a Ranger performs a test from the attached gear, commit 1 effort."
+msgstr ""
+
+msgctxt "01016.flavor"
+msgid "During your apprenticeship at the carbon forge, you learned much from Elder Orlin."
+msgstr ""
+
+msgctxt "01012.name"
+msgid "Universal Power Cells"
+msgstr ""
+
+msgctxt "01012.traits"
+msgid "Mod / Tech"
+msgstr ""
+
+msgctxt "01012.text"
+msgid ""
+"Attach to a Ranger’s equipped tech.\n"
+"When you play this attachment, add 3 tokens to the attached gear.\n"
+"<b>Response:</b> When this card becomes unattached, discard 3 tokens from the attached gear."
+msgstr ""
+
+msgctxt "01013.name"
+msgid "Functional Replica"
+msgstr ""
+
+msgctxt "01013.traits"
+msgid "Tool / Tech"
+msgstr ""
+
+msgctxt "01013.text"
+msgid "<b>Exhaust (use 1 charge):</b> Choose a Ranger’s equipped gear. Resolve the chosen gear’s effect as if you had used a token from it and/or exhausted it."
+msgstr ""
+
+msgctxt "01013.flavor"
+msgid "So you would discover the artistry in even the simplest of objects, your mentor encouraged you to mimic the work of master craftspeople."
+msgstr ""
+
+msgctxt "01017.name"
+msgid "Favorite Gear"
+msgstr ""
+
+msgctxt "01017.traits"
+msgid "Mod"
+msgstr ""
+
+msgctxt "01017.text"
+msgid ""
+"Attach to one of your equipped gear.\n"
+"<b>Response:</b> After you use a token from the attached gear, soothe 1 fatigue."
+msgstr ""
+
+msgctxt "01017.flavor"
+msgid "When you are at work, you are at peace, and when you work with your favorite gear, you are filled with a deep sense of purpose, fully in the moment and alive."
+msgstr ""
+
+msgctxt "01018.name"
+msgid "Energized Hiking Greaves"
+msgstr ""
+
+msgctxt "01018.traits"
+msgid "Tech / Aid"
+msgstr ""
+
+msgctxt "01018.text"
+msgid "<b>Use X buffers:</b> When you perform a test, suffer X fewer fatigue from each card between you and the card with which you are interacting."
+msgstr ""
+
+msgctxt "01018.flavor"
+msgid "You crafted these hiking greaves from dolewood bark, overlaid them with a veneer of forged carbon, then applied a kinesthetic lining as the finishing touch."
+msgstr ""
+
+msgctxt "01019.name"
+msgid "One Eye Open"
+msgstr ""
+
+msgctxt "01019.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01019.text"
+msgid "<b>Response:</b> When you rest, exhaust up to one being for each [AWA] in your energy pool."
+msgstr ""
+
+msgctxt "01019.flavor"
+msgid "While tending your flock of ironwool sheep, under the sun and moon, you learned the importance of staying alert, even when all seems still."
+msgstr ""
+
+msgctxt "01020.name"
+msgid "Riri the Sparrow Hawk"
+msgstr ""
+
+msgctxt "01020.traits"
+msgid "Companion / Avian"
+msgstr ""
+
+msgctxt "01020.text"
+msgid ""
+"Friendly. Persistent. Unique.\n"
+"<b>Exhaust:</b> Add 1[harm] to a being within reach.\n"
+"[AWA] + [reason]<b>: Survey</b> <i>the way ahead to</i> scout path cards equal to your effort, then draw 1 path card."
+msgstr ""
+
+msgctxt "01021.name"
+msgid "A Gentle Nudge"
+msgstr ""
+
+msgctxt "01021.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01021.text"
+msgid "Each Ranger may discard 1[progress] from a being within reach of them to move that being."
+msgstr ""
+
+msgctxt "01021.flavor"
+msgid "You've spent countless days, year after year, in relative solitude, alone but for your flock. In that time you've learned that any being can be reasoned with. You just need to ask nicely (and put your back into it)."
+msgstr ""
+
+msgctxt "01022.name"
+msgid "Homeward Bound"
+msgstr ""
+
+msgctxt "01022.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01022.text"
+msgid "Move all [progress] from a being to a feature."
+msgstr ""
+
+msgctxt "01022.flavor"
+msgid "Your uncle loves to regale any who'll listen with the Tale of the Shepherd and the Relgerbeast. The shepherd in the tale saves his flock not by harming the beast, but by riding it back to the village. It then becomes a valued member of the community, rooting out Scrofs in the field."
+msgstr ""
+
+msgctxt "01023.name"
+msgid "Paratrepsis Whistle"
+msgstr ""
+
+msgctxt "01023.traits"
+msgid "Tool / Aid"
+msgstr ""
+
+msgctxt "01023.text"
+msgid "<b>Exhaust (use 1 call):</b> When a Ranger would suffer an injury by a predator or [harm] would be added to a being, cancel that effect."
+msgstr ""
+
+msgctxt "01023.flavor"
+msgid "You were gifted this whistle during a brief summer romance, and each time you blow it, you're reminded of a flower-scented breeze beneath a high, glimmering sun."
+msgstr ""
+
+msgctxt "01024.name"
+msgid "A Deeper Understanding"
+msgstr ""
+
+msgctxt "01024.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01024.text"
+msgid "Choose a being. Move [progress] from the chosen being to each other card in play, up to 1[progress] per card."
+msgstr ""
+
+msgctxt "01024.flavor"
+msgid "In your solitude, you once observed the wind describing its course across the plain and came to a place of peace. You saw your life as the wind, ephemeral and beautiful, and you were grateful for it."
+msgstr ""
+
+msgctxt "01025.name"
+msgid "Healing Touch"
+msgstr ""
+
+msgctxt "01025.traits"
+msgid "Skill / Aid"
+msgstr ""
+
+msgctxt "01025.text"
+msgid ""
+"<b>Choose one:</b>\n"
+"Discard 1[harm] from a being to add 3[progress] to it.\n"
+"Heal 1 injury from a Ranger."
+msgstr ""
+
+msgctxt "01025.flavor"
+msgid "The spirit speaker of Meadow mentored you in the healing arts of your ancestors. You have never forgotten those lessons."
+msgstr ""
+
+msgctxt "01026.name"
+msgid "Calming Presence"
+msgstr ""
+
+msgctxt "01026.traits"
+msgid "Skill"
+msgstr ""
+
+msgctxt "01026.text"
+msgid ""
+"Attach to a predator.\n"
+"Attached card loses the predator trait.\n"
+"<b>Response:</b> Before a challenge effect on the attached card would resolve, you may discard 2[progress] from it to cancel the effect."
+msgstr ""
+
+msgctxt "01027.name"
+msgid "Oru the Sheep Dog"
+msgstr ""
+
+msgctxt "01027.traits"
+msgid "Companion / Mammal / Expert"
+msgstr ""
+
+msgctxt "01027.text"
+msgid ""
+"Friendly. Persistent. Unique.\n"
+"<b>Exhaust:</b> Move a being and add 2[progress] to it.\n"
+"[FIT] + [connection]<b>: Pet</b> <i>your canine companion</i> to ready this being and soothe 1 fatigue."
+msgstr ""
+
+msgctxt "01028.name"
+msgid "Green Thumb"
+msgstr ""
+
+msgctxt "01028.traits"
+msgid "Skill / Expert"
+msgstr ""
+
+msgctxt "01028.text"
+msgid ""
+"Search the path deck and discard for a flora and put it into play with this skill attached.\n"
+"Increase the attached flora’s [harm] threshold by 2."
+msgstr ""
+
+msgctxt "01029.name"
+msgid "Local Fare"
+msgstr ""
+
+msgctxt "01029.traits"
+msgid "Experience / Nature"
+msgstr ""
+
+msgctxt "01029.text"
+msgid "<b>Response:</b> When a Ranger performs a test, they may add 1[harm] to a flora to dodge each being in the same area as that flora."
+msgstr ""
+
+msgctxt "01029.flavor"
+msgid "Your great aunt taught you that when the artilope are in the field, the way through the forest becomes clear."
+msgstr ""
+
+msgctxt "01030.name"
+msgid "Puffercrawler Spores"
+msgstr ""
+
+msgctxt "01030.traits"
+msgid "Nature"
+msgstr ""
+
+msgctxt "01030.text"
+msgid ""
+"Attach to any Ranger’s equipped gear.\n"
+"<b>Response:</b> When you add [harm] to a being with the attached gear, exhaust that being and attach this card to it.\n"
+"The attached being gains the flora trait."
+msgstr ""
+
+msgctxt "01031.name"
+msgid "Familiar Ground"
+msgstr ""
+
+msgctxt "01031.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01031.text"
+msgid "Add 1 [harm] to a flora to add 3 [progress] to a trail."
+msgstr ""
+
+msgctxt "01031.flavor"
+msgid "During family foraging excursions, your parents would call your attention to subtle passages created by sitka deer. These convenient shortcuts led to many fruit-bearing plants like sunberry brambles and cherry moss."
+msgstr ""
+
+msgctxt "01032.name"
+msgid "Carbonforged Trowel"
+msgstr ""
+
+msgctxt "01032.traits"
+msgid "Tool / Weapon"
+msgstr ""
+
+msgctxt "01032.text"
+msgid ""
+"[SPI] + [reason]<b>: Tend</b> <i>to the local plants to</i> add or remove [harm] from a flora equal to your effort.\n"
+"[FIT] + [conflict]<b>: Strike [2]</b> <i>out with your gardening tool to</i> add 1[harm] to a being for every 2 effort. If you fail, suffer 1 injury."
+msgstr ""
+
+msgctxt "01033.name"
+msgid "Secret Garden"
+msgstr ""
+
+msgctxt "01033.traits"
+msgid "Nature"
+msgstr ""
+
+msgctxt "01033.text"
+msgid ""
+"Attach to a feature.\n"
+"Attached feature gains the flora trait."
+msgstr ""
+
+msgctxt "01033.flavor"
+msgid "You grew up exploring the Valley's hidden places, where miniature ecologies thrive in the secluded glades, and dolewood stumps shelter life in abundance."
+msgstr ""
+
+msgctxt "01034.name"
+msgid "Loose-Leaf Tea Kit"
+msgstr ""
+
+msgctxt "01034.traits"
+msgid "Food"
+msgstr ""
+
+msgctxt "01034.text"
+msgid ""
+"<b>Response:</b> After you add 1 or more [harm] to a flora, you may add 1 herb to this gear.\n"
+"<b>Exhaust (use 1 herb):</b> Choose a Ranger. That Ranger gains 1 energy of any type."
+msgstr ""
+
+msgctxt "01035.name"
+msgid "Nature's Abundance"
+msgstr ""
+
+msgctxt "01035.traits"
+msgid "Experience / Nature"
+msgstr ""
+
+msgctxt "01035.text"
+msgid "Each Ranger may add 1 [harm] to a flora to soothe 1 fatigue and gain 1 energy of any type. When you add [harm] to a flora in this way, you may not exceed its [harm] threshold."
+msgstr ""
+
+msgctxt "01035.flavor"
+msgid "Your summers spent sifting sunberries in the shade of the cedars has led to a deep affinity for the freshest of fruits."
+msgstr ""
+
+msgctxt "01036.name"
+msgid "Static Sifter"
+msgstr ""
+
+msgctxt "01036.traits"
+msgid "Tool / Food"
+msgstr ""
+
+msgctxt "01036.text"
+msgid ""
+"<b>Response:</b> After you add 1 or more [harm] to a flora, you may add 1 vittle to this gear.\n"
+"<b>Exhaust (use 1 vittle):</b> Choose a Ranger. That Ranger soothes 2 fatigue."
+msgstr ""
+
+msgctxt "01036.flavor"
+msgid "When held near a fruit-bearing plant, the sifter comes to life, crackling with energy as it attracts the plant's ripened bounty."
+msgstr ""
+
+msgctxt "01037.name"
+msgid "Undaunted Seeker"
+msgstr ""
+
+msgctxt "01037.text"
+msgid "<b>Exhaust:</b> When you perform a test, dodge 1 card."
+msgstr ""
+
+msgctxt "01038.name"
+msgid "Peerless Pathfinder"
+msgstr ""
+
+msgctxt "01038.text"
+msgid "<b>Exhaust:</b> Move your [ranger] to a feature. That feature fatigues you."
+msgstr ""
+
+msgctxt "01039.name"
+msgid "A Leaf in the Breeze"
+msgstr ""
+
+msgctxt "01039.traits"
+msgid "Skill"
+msgstr ""
+
+msgctxt "01039.text"
+msgid "<b>Response:</b> When you Traverse, dodge up to 3 cards."
+msgstr ""
+
+msgctxt "01039.flavor"
+msgid "You sense the flow of energy in the life around you and heed its subtle cues as you pass unnoticed along your path."
+msgstr ""
+
+msgctxt "01040.name"
+msgid "Hydrolens Goggles"
+msgstr ""
+
+msgctxt "01040.traits"
+msgid "Clothing / Tech"
+msgstr ""
+
+msgctxt "01040.text"
+msgid "<b>[AWA] + [reason] (use 1 drop): Clarify</b> <i>your view of the environment around you</i> to scout path cards equal to your effort, then draw 1 path card."
+msgstr ""
+
+msgctxt "01040.flavor"
+msgid "You depress the applicator, and one small drop of water bubbles and expands to form a single clarifying lens."
+msgstr ""
+
+msgctxt "01041.name"
+msgid "Share in the Valley’s Secrets"
+msgstr ""
+
+msgctxt "01041.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01041.text"
+msgid "Exhaust each obstacle. Suffer fatigue equal to the number of obstacles exhausted this way."
+msgstr ""
+
+msgctxt "01041.flavor"
+msgid "Your mentor once took you into the hills beyond Lone Tree, blindfolded, and had you lead the way home in the night, with only the stars to guide you."
+msgstr ""
+
+msgctxt "01042.name"
+msgid "Boundary Sensor"
+msgstr ""
+
+msgctxt "01042.traits"
+msgid "Tech"
+msgstr ""
+
+msgctxt "01042.text"
+msgid "<b>Exhaust (use 1 sensor):</b> When a Ranger performs a <b>Traverse</b> test, commit 1 effort."
+msgstr ""
+
+msgctxt "01042.flavor"
+msgid "A soft hum briefly emits from the device, and you suddenly feel more confident in your steps, certain of the way forward."
+msgstr ""
+
+msgctxt "01043.name"
+msgid "Orlin Hiking Stave"
+msgstr ""
+
+msgctxt "01043.traits"
+msgid "Tool / Tech / Weapon"
+msgstr ""
+
+msgctxt "01043.text"
+msgid ""
+"<b>Exhaust (use 1 stride):</b> Add 1[progress] to a trail.\n"
+"<b>[FIT] + [conflict]: Strike [2]</b> <i>out with your walking implement to</i> add 1[harm] to a being for every 2 effort. If you fail, suffer 1 injury."
+msgstr ""
+
+msgctxt "01044.name"
+msgid "Afforded by Nature"
+msgstr ""
+
+msgctxt "01044.traits"
+msgid "Experience / Weapon"
+msgstr ""
+
+msgctxt "01044.text"
+msgid "Discard any number of [progress] from a trail to add an equal number of [harm] to a being."
+msgstr ""
+
+msgctxt "01044.flavor"
+msgid "You've learned from experience that sometimes a persistent predator can only be dissuaded from its meal by a faceful of rocks or a decaying log suddenly dropped in its path."
+msgstr ""
+
+msgctxt "01045.name"
+msgid "Phonoscopic Headset"
+msgstr ""
+
+msgctxt "01045.traits"
+msgid "Clothing / Tech"
+msgstr ""
+
+msgctxt "01045.text"
+msgid "<b>Exhaust:</b> When a Ranger scouts, increase the number of cards scouted by 1."
+msgstr ""
+
+msgctxt "01045.flavor"
+msgid "You tap the sensor at your temple, and sight and sound converge to evoke a scene in your mind beyond what your ears and eyes can normally comprehend."
+msgstr ""
+
+msgctxt "01046.name"
+msgid "Field Journal"
+msgstr ""
+
+msgctxt "01046.traits"
+msgid "Book"
+msgstr ""
+
+msgctxt "01046.text"
+msgid ""
+"<b>Response:</b> When you rest, add entries equal to the number of [FOC] in your energy pool.\n"
+"<b>Use 1 entry:</b> When a Ranger interacts with a feature, commit 1 effort."
+msgstr ""
+
+msgctxt "01047.name"
+msgid "Hidden Trail"
+msgstr ""
+
+msgctxt "01047.traits"
+msgid "Trail"
+msgstr ""
+
+msgctxt "01047.text"
+msgid ""
+"<b>Response:</b> When you travel, if this trail is attached to the location, travel to a location up to two paths away. Use the terrain of the second path when building the path deck.\n"
+"<b>Clear [progress]:</b> Attach this trail to the location."
+msgstr ""
+
+msgctxt "01048.name"
+msgid "Walk With Me"
+msgstr ""
+
+msgctxt "01048.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01048.text"
+msgid "<b>Response:</b> After you succeed at a <b>Traverse</b> test, add [progress] to a being equal to your effort. This is in addition to the test’s standard effect."
+msgstr ""
+
+msgctxt "01048.flavor"
+msgid "Through practice and intention, you've learned to show others the vastness of possibility before them. There are no limits save the ones we place on ourselves."
+msgstr ""
+
+msgctxt "01049.name"
+msgid "Breathe Into It"
+msgstr ""
+
+msgctxt "01049.traits"
+msgid "Skill"
+msgstr ""
+
+msgctxt "01049.text"
+msgid "<b>Response:</b> When you perform a test, discard any number of cards from your fatigue stack to commit 1 effort to that test for every 2 cards discarded this way."
+msgstr ""
+
+msgctxt "01050.name"
+msgid "Cradled by the Earth"
+msgstr ""
+
+msgctxt "01050.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01050.text"
+msgid "Choose a trail. Soothe fatigue equal to the number of [progress] on that trail. This fatigue may be divided as you choose between all Rangers."
+msgstr ""
+
+msgctxt "01050.flavor"
+msgid "You lie back and breathe deep. In this moment you are keenly aware of your connection to the earth and to all living things."
+msgstr ""
+
+msgctxt "01051.name"
+msgid "Masterful Engineer"
+msgstr ""
+
+msgctxt "01051.text"
+msgid "<b>Exhaust:</b> Ready a tech."
+msgstr ""
+
+msgctxt "01052.name"
+msgid "Exceptional Tinkerer"
+msgstr ""
+
+msgctxt "01052.text"
+msgid "<b>Exhaust:</b> Spend 1 energy to add 1 token to a tech."
+msgstr ""
+
+msgctxt "01053.name"
+msgid "Ferinodex"
+msgstr ""
+
+msgctxt "01053.traits"
+msgid "Book / Tech"
+msgstr ""
+
+msgctxt "01053.text"
+msgid "<b>Exhaust (use 1 profile):</b> When a Ranger performs an Avoid test, commit 1 effort."
+msgstr ""
+
+msgctxt "01053.flavor"
+msgid "The telescopic sensor extending from the spine identifies nearby fauna then reveals information regarding their biology and behavior from within the tome."
+msgstr ""
+
+msgctxt "01054.name"
+msgid "Carbonforged Cable"
+msgstr ""
+
+msgctxt "01054.traits"
+msgid "Tool / Tech"
+msgstr ""
+
+msgctxt "01054.text"
+msgid ""
+"Attach to a predator.\n"
+"<b>Use 1 length:</b> When the attached predator would ready, it remains exhausted.\n"
+"[FIT] + [conflict]<b>: Lead</b> <i>the animal to</i> move the attached predator."
+msgstr ""
+
+msgctxt "01055.name"
+msgid "Dayhowler"
+msgstr ""
+
+msgctxt "01055.traits"
+msgid "Tech"
+msgstr ""
+
+msgctxt "01055.text"
+msgid ""
+"Discard this gear from play to exhaust beings equal to the number of charges on this gear.\n"
+"<b>Response:</b> After you succeed at an Avoid test, add 1 charge to this gear."
+msgstr ""
+
+msgctxt "01056.name"
+msgid "Trail Markers"
+msgstr ""
+
+msgctxt "01056.traits"
+msgid "Tool"
+msgstr ""
+
+msgctxt "01056.text"
+msgid ""
+"Attach to a location or feature.\n"
+"The attached card gains the trail trait.\n"
+"<b>Response:</b> When 1 or more [progress] is added to the attached trail, increase the number of [progress] added by 1."
+msgstr ""
+
+msgctxt "01057.name"
+msgid "Spiderpad Gloves"
+msgstr ""
+
+msgctxt "01057.traits"
+msgid "Clothing / Tech"
+msgstr ""
+
+msgctxt "01057.text"
+msgid ""
+"During your turn, you may treat obstacles as if they did not have the obstacle keyword.\n"
+"[FIT] + [reason] <b>(use 1 charge): Climb</b> <i>the obstructing terrain with the agility of a spider to</i> move your [ranger] to an obstacle."
+msgstr ""
+
+msgctxt "01058.name"
+msgid "Wrist-mounted Darter"
+msgstr ""
+
+msgctxt "01058.traits"
+msgid "Tech / Weapon"
+msgstr ""
+
+msgctxt "01058.text"
+msgid "<b>[FOC] + [conflict] (use 1 dart): Shoot</b> <i>one of the featherlight darts to</i> add [harm] to a being equal to your effort. Whether you succeed or fail, dodge all cards between you and that being."
+msgstr ""
+
+msgctxt "01059.name"
+msgid "Infusion Canteen"
+msgstr ""
+
+msgctxt "01059.traits"
+msgid "Tech / Tool"
+msgstr ""
+
+msgctxt "01059.text"
+msgid ""
+"When you play this gear, choose an aspect (you may place a spare energy token here as a reminder).\n"
+"<b>Exhaust (use 1 sip):</b> Gain 1 energy matching the chosen aspect."
+msgstr ""
+
+msgctxt "01060.name"
+msgid "Memorill Sketchpad"
+msgstr ""
+
+msgctxt "01060.traits"
+msgid "Book / Tech"
+msgstr ""
+
+msgctxt "01060.text"
+msgid ""
+"<b>Response:</b> After a path card is cleared, add 1 inkrill to this gear.\n"
+"<b>Use 1 inkrill:</b> When a Ranger interacts with a feature, commit 1 effort."
+msgstr ""
+
+msgctxt "01061.name"
+msgid "Memlev Trekking Poles"
+msgstr ""
+
+msgctxt "01061.traits"
+msgid "Tool / Tech"
+msgstr ""
+
+msgctxt "01061.text"
+msgid "<b>Exhaust (use 1 charge):</b> When you perform a <b>Traverse</b> test, use [FOC] instead of [FIT]."
+msgstr ""
+
+msgctxt "01061.flavor"
+msgid "With each step, your trekking poles spring upward, easing your burden as they provide buoyancy to your limbs."
+msgstr ""
+
+msgctxt "01062.name"
+msgid "A Stone in the River"
+msgstr ""
+
+msgctxt "01062.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01062.text"
+msgid "<b>Response:</b> After you succeed at an Avoid test, exhaust 1 additional being"
+msgstr ""
+
+msgctxt "01062.flavor"
+msgid "Whether in your workshop or in nature,  you are able to reach a state of being where you are at one with with your surroundings, moving with an ease that suggests an intrinsic understanding of creation."
+msgstr ""
+
+msgctxt "01063.name"
+msgid "Camoweave Cloak"
+msgstr ""
+
+msgctxt "01063.traits"
+msgid "Clothing / Tech"
+msgstr ""
+
+msgctxt "01063.text"
+msgid "<b>Use 1 charge:</b> When you would suffer 1 or more fatigue from a path card, reduce the fatigue suffered to 0."
+msgstr ""
+
+msgctxt "01063.flavor"
+msgid "With a clockwise rotation of the clasp, the surface of the cloak adopts the patterns and coloration of your environment, making you all but invisible to the untrained eye."
+msgstr ""
+
+msgctxt "01064.name"
+msgid "Thoroughly Prepared"
+msgstr ""
+
+msgctxt "01064.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01064.text"
+msgid "<b>Reponse:</b> When a Ranger would suffer 1 or more fatigue, they soothe that amount of fatigue instead."
+msgstr ""
+
+msgctxt "01064.flavor"
+msgid "You never leave your workshop without the tools essential to survival in the wilderness.The right tool can turn even the most exhausting of endeavors into a moment of exhilaration."
+msgstr ""
+
+msgctxt "01065.name"
+msgid "Guardian"
+msgstr ""
+
+msgctxt "01065.text"
+msgid "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of your turn."
+msgstr ""
+
+msgctxt "01066.name"
+msgid "Voice of the Elders"
+msgstr ""
+
+msgctxt "01066.text"
+msgid "<b>Exhaust:</b> Spend 1 energy to add 1 token to an aid card."
+msgstr ""
+
+msgctxt "01067.name"
+msgid "Surveyed Land"
+msgstr ""
+
+msgctxt "01067.traits"
+msgid "Experience / Aid"
+msgstr ""
+
+msgctxt "01067.text"
+msgid ""
+"Attach to a feature.\n"
+"Reduce the attached feature’s presence by 1 for each marker on this attachment."
+msgstr ""
+
+msgctxt "01068.name"
+msgid "Tranquilisnare"
+msgstr ""
+
+msgctxt "01068.traits"
+msgid "Aid"
+msgstr ""
+
+msgctxt "01068.text"
+msgid ""
+"Attach to a being.\n"
+"Reduce the attached being’s presence by 1 for each snare on this attachment."
+msgstr ""
+
+msgctxt "01068.flavor"
+msgid "The mesh of interlocking snares hums with a gentle, harmonic energy that can soothe even the most aggressive of beings."
+msgstr ""
+
+msgctxt "01069.name"
+msgid "One With Nature"
+msgstr ""
+
+msgctxt "01069.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01069.text"
+msgid "Reduce the presence of each card in play to 0 until the end of the next turn."
+msgstr ""
+
+msgctxt "01069.flavor"
+msgid "For years you've preserved the harmony of your village by not only fostering love and compassion in your community, but by spending time in the surrounding mountains and forests, connecting with the natural world."
+msgstr ""
+
+msgctxt "01070.name"
+msgid "Follow in Footsteps"
+msgstr ""
+
+msgctxt "01070.traits"
+msgid "Skill"
+msgstr ""
+
+msgctxt "01070.text"
+msgid "<b>Response:</b> After you succeed at a <b>Connect</b> test, add [progress] to a feature equal to your effort. This is in addition to the test’s standard effect."
+msgstr ""
+
+msgctxt "01070.flavor"
+msgid "You believe that greater understanding and insight can always be reached if you spend time following in the footsteps of those who came before."
+msgstr ""
+
+msgctxt "01071.name"
+msgid "Orlin Thumper"
+msgstr ""
+
+msgctxt "01071.traits"
+msgid "Tech / Weapon"
+msgstr ""
+
+msgctxt "01071.text"
+msgid "<b>[FIT] + [conflict] (use 1 pulse): Strike [2]</b> <i>with a pulse of kinetic energy to</i> add 1[harm] to a being and exhaust it. If you fail, discard 1[progress] from that being; if you cannot, it fatigues you instead."
+msgstr ""
+
+msgctxt "01072.name"
+msgid "Tracked"
+msgstr ""
+
+msgctxt "01072.traits"
+msgid "Tech / Weapon"
+msgstr ""
+
+msgctxt "01072.text"
+msgid ""
+"Attach to a being.\n"
+"<b>Response:</b> After a challenge effect on the attached being resolves, add 1 track.\n"
+"<b>Use 1 track:</b> When a Ranger performs a test, commit 1 effort."
+msgstr ""
+
+msgctxt "01073.name"
+msgid "Intention Translator"
+msgstr ""
+
+msgctxt "01073.traits"
+msgid "Tech / Aid"
+msgstr ""
+
+msgctxt "01073.text"
+msgid "<b>Exhaust (use 1 charge):</b> When a Ranger performs a <b>Connect</b> test, commit 1 effort."
+msgstr ""
+
+msgctxt "01073.flavor"
+msgid "When this device is activated, you feel somehow incapable of misunderstanding those around you. Each word and gesture conveys a purity of thought perceivable by only the most empathetic of beings."
+msgstr ""
+
+msgctxt "01074.name"
+msgid "Safeguard"
+msgstr ""
+
+msgctxt "01074.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01074.text"
+msgid "<b>Response:</b> When a Ranger would suffer an injury or [harm] would be added to a being, cancel that effect. Suffer 1 injury."
+msgstr ""
+
+msgctxt "01074.flavor"
+msgid "You are selfless in your defense of others, knowing that all wounds are temporary, and the scars you carry are reminders of your sworn duty."
+msgstr ""
+
+msgctxt "01075.name"
+msgid "Nidocyte Sentinel"
+msgstr ""
+
+msgctxt "01075.traits"
+msgid "Tech / Aid"
+msgstr ""
+
+msgctxt "01075.text"
+msgid ""
+"Attach to a being.\n"
+"<b>Use 1 alarm:</b> When a challenge effect on the attached being would resolve, cancel that effect."
+msgstr ""
+
+msgctxt "01075.flavor"
+msgid "A small ceramic device worn at your waist sends a pulse of energy to your chest, altering you to potential dangers."
+msgstr ""
+
+msgctxt "01076.name"
+msgid "Ancestral Teachings"
+msgstr ""
+
+msgctxt "01076.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01076.text"
+msgid "Exhaust a being. Then add [progress] to that being equal to the number of exhausted beings within reach."
+msgstr ""
+
+msgctxt "01076.flavor"
+msgid "Our ancestors hold a wealth of knowledge and experience. To venture forth into life as paupers is both foolish and unnecessary. With their help we may preserve that which they've gifted to us and prosper."
+msgstr ""
+
+msgctxt "01077.name"
+msgid "Pokodo the Ferret"
+msgstr ""
+
+msgctxt "01077.traits"
+msgid "Companion / Mammal"
+msgstr ""
+
+msgctxt "01077.text"
+msgid ""
+"Friendly. Persistent. Unique.\n"
+"<b>Exhaust:</b> Discard 1[progress] from this being to add 1 token to an Aid card and 2[progress] to another being."
+msgstr ""
+
+msgctxt "01077.flavor"
+msgid "Pokodo is unswervingly loyal and adored by all who meet her."
+msgstr ""
+
+msgctxt "01078.name"
+msgid "A Dear Friend"
+msgstr ""
+
+msgctxt "01078.traits"
+msgid "Experience / Expert"
+msgstr ""
+
+msgctxt "01078.text"
+msgid ""
+"Search the path deck and discard for a human and put them into play with this card attached.\n"
+"<b>Response:</b> When the attached human is cleared, move the [progress] from it to any number of other beings, divided as you choose"
+msgstr ""
+
+msgctxt "01079.name"
+msgid "Adherent of the First Ideal"
+msgstr ""
+
+msgctxt "01079.text"
+msgid "<b>Exhaust:</b> Scout 1 challenge card."
+msgstr ""
+
+msgctxt "01080.name"
+msgid "Prodigy of the Floating Tower"
+msgstr ""
+
+msgctxt "01080.text"
+msgid "<b>Exhaust:</b> Choose a manifestation in your discard, and add it to your hand."
+msgstr ""
+
+msgctxt "01081.name"
+msgid "Root Snare"
+msgstr ""
+
+msgctxt "01081.traits"
+msgid "Manifestation / Nature"
+msgstr ""
+
+msgctxt "01081.text"
+msgid ""
+"Manifestation.\n"
+"Attach to a feature, and add 2[progress] to it.\n"
+"<b>Response:</b> When a Ranger performs a test, they may discard 1 or more [progress] from the attached feature to dodge an equal number of cards in the same area."
+msgstr ""
+
+msgctxt "01082.name"
+msgid "Sky Whip"
+msgstr ""
+
+msgctxt "01082.traits"
+msgid "Manifestation / Weapon"
+msgstr ""
+
+msgctxt "01082.text"
+msgid ""
+"Manifestation. <i>(To play a manifestation, discard 1 token from a conduit.)</i>\n"
+"<b>[AWA] + [conflict]: Strike</b> <i>with a whirling coil of wind and water to</i> add [harm] to a being equal to your effort. Then exhaust that being."
+msgstr ""
+
+msgctxt "01083.name"
+msgid "Stave of the Sun"
+msgstr ""
+
+msgctxt "01083.traits"
+msgid "Conduit / Expert"
+msgstr ""
+
+msgctxt "01083.text"
+msgid ""
+"Conduit. Setup.\n"
+"<b>Response:</b> After the challenge deck is shuffled, add 1 glint to this conduit.\n"
+"<b>Exhaust (use X glints):</b> Scout X path cards."
+msgstr ""
+
+msgctxt "01084.name"
+msgid "What Should Never Be"
+msgstr ""
+
+msgctxt "01084.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01084.text"
+msgid ""
+"Manifestation.\n"
+"<b>Response:</b> When drawing challenge cards during a test, draw and discard challenge cards until you draw one with a +1 in the used aspect. Use that challenge card for this test, and suffer fatigue equal the number of cards discarded this way."
+msgstr ""
+
+msgctxt "01085.name"
+msgid "Shape the Earth"
+msgstr ""
+
+msgctxt "01085.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01085.text"
+msgid ""
+"Manifestation. <i>(To play a manifestation, discard 1 token from a conduit.)</i>\n"
+"Add 1[progress] to each feature and location. Then you may redistribute any number of [progress] between them."
+msgstr ""
+
+msgctxt "01086.name"
+msgid "Staff of the Wanderer"
+msgstr ""
+
+msgctxt "01086.traits"
+msgid "Conduit / Expert"
+msgstr ""
+
+msgctxt "01086.text"
+msgid ""
+"Conduit. Setup.\n"
+"<b>Response:</b> After you succeed at a <b>Traverse</b> test, add 1 stride to this conduit.\n"
+"<b>Exhaust (use X strides):</b> Add X[progress] to a trail."
+msgstr ""
+
+msgctxt "01087.name"
+msgid "Throng of Life"
+msgstr ""
+
+msgctxt "01087.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01087.text"
+msgid ""
+"Manifestation. <i>(To play a manifestation, discard 1 token from a conduit.)</i>\n"
+"<b>Response:</b> When a Ranger reveals a challenge card during a test, choose which modifier to use from that card. Then choose an additional challenge icon to resolve for this test."
+msgstr ""
+
+msgctxt "01088.name"
+msgid "Novice Lens"
+msgstr ""
+
+msgctxt "01088.traits"
+msgid "Tech"
+msgstr ""
+
+msgctxt "01088.text"
+msgid ""
+"<b>Response:</b> After you perform a test in which you committed 1 or more manifestation, gain 1 [FOC].\n"
+"<b>Response:</b> When you rest, if you have 1 or more [FOC] in your energy pool, scout 1 challenge card."
+msgstr ""
+
+msgctxt "01089.name"
+msgid "Rod of the Clouds"
+msgstr ""
+
+msgctxt "01089.traits"
+msgid "Conduit / Expert"
+msgstr ""
+
+msgctxt "01089.text"
+msgid ""
+"Conduit. Setup.\n"
+"<b>Response:</b> Before you draw a challenge card, name a challenge icon; if that icon is on the drawn card, add 1 vision to this conduit.\n"
+"<b>Exhaust (use X visions):</b> Scout X Ranger cards."
+msgstr ""
+
+msgctxt "01090.name"
+msgid "Harmonize"
+msgstr ""
+
+msgctxt "01090.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01090.text"
+msgid ""
+"Manifestation.\n"
+"Attach to a being within reach of any Ranger.\n"
+"<b> Response:</b> After a challenge effect on the attached being resolves, the Ranger that played this card gains 1 energy of any type."
+msgstr ""
+
+msgctxt "01091.name"
+msgid "Seen Through Cycles"
+msgstr ""
+
+msgctxt "01091.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01091.text"
+msgid ""
+"Manifestation. <i>(To play a manifestation, discard 1 token from a conduit.)</i>\n"
+"Choose a being in play, and shuffle it into the path deck. Then search the path deck and discard for a being and put it into play."
+msgstr ""
+
+msgctxt "01092.name"
+msgid "Scepter of Harmony"
+msgstr ""
+
+msgctxt "01092.traits"
+msgid "Conduit / Expert"
+msgstr ""
+
+msgctxt "01092.text"
+msgid ""
+"Conduit. Setup.\n"
+"<b>Response:</b> After you perform a test in which no challenge effects were resolved, add 1 song to this conduit.\b<b>Exhaust (use X songs):</b> Add X[progress] to a being."
+msgstr ""
+
+msgctxt "01093.name"
+msgid "Insightful"
+msgstr ""
+
+msgctxt "01093.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01093.text"
+msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
+msgstr ""
+
+msgctxt "01093.flavor"
+msgid "From a place beyond your perception, the thought arrives, and you feel a sense of peace in clarity, sure of the best path forward."
+msgstr ""
+
+msgctxt "01094.name"
+msgid "Vigilant"
+msgstr ""
+
+msgctxt "01094.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01094.text"
+msgid "The number of [conflict] on this attribute is equal to the number of [AWA] in your energy pool."
+msgstr ""
+
+msgctxt "01094.flavor"
+msgid "Your senses heighten and you become aware of every movement and every sound. Time itself seems to slow as you toil unerringly at your task."
+msgstr ""
+
+msgctxt "01095.name"
+msgid "Perceptive"
+msgstr ""
+
+msgctxt "01095.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01095.text"
+msgid "After you succeed at a test in which you committed this attribute, gain 1 [AWA]."
+msgstr ""
+
+msgctxt "01095.flavor"
+msgid "The world comes to life as you perceive every detail of your surroundings: the gentle sway of grass in the bloom-scented breeze, the melodic buzz of insects in the forest, and the reflected light of the sun as it gives shape to all within your vision."
+msgstr ""
+
+msgctxt "01096.name"
+msgid "Thorough"
+msgstr ""
+
+msgctxt "01096.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01096.flavor"
+msgid "As you put your mind to your task, your every movement carries meaning, and each step is made with care and intention. No detail escapes your notice. You've accounted for every outcome and planned contingencies should you fall short of your visualized result."
+msgstr ""
+
+msgctxt "01097.name"
+msgid "Passionate"
+msgstr ""
+
+msgctxt "01097.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01097.text"
+msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
+msgstr ""
+
+msgctxt "01097.flavor"
+msgid "You are gifted with an unquenchable fire that burns within. While at times it lies dormant, the proper tinder can coax it to life, and in those moments, you shine brightly on all those around you."
+msgstr ""
+
+msgctxt "01098.name"
+msgid "Balanced"
+msgstr ""
+
+msgctxt "01098.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01098.text"
+msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to gain 1 energy of any type."
+msgstr ""
+
+msgctxt "01098.flavor"
+msgid "As you move in rhythm with your surroundings, your mind clears, refreshed by deep breaths of sweet air and the resonant beating of your heart."
+msgstr ""
+
+msgctxt "01099.name"
+msgid "Determined"
+msgstr ""
+
+msgctxt "01099.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01099.text"
+msgid "The number of [exploration] on this attribute is equal to the number of [FIT] in your energy pool."
+msgstr ""
+
+msgctxt "01099.flavor"
+msgid "Your goal in sight, you draw upon a deep well of inner strength. Your limbs surge with energy, and you know with certainty that there is nothing you cannot accomplish."
+msgstr ""
+
+msgctxt "01100.name"
+msgid "Bold"
+msgstr ""
+
+msgctxt "01100.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01100.flavor"
+msgid "In your many years of experience, you've found the chattering mind to be the greatest obstacle to achieving one's goals. While some overcomplicate the world with indecision and doubt, you simply act and find success."
+msgstr ""
+
+msgctxt "01101.name"
+msgid "Meticulous"
+msgstr ""
+
+msgctxt "01101.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01101.text"
+msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
+msgstr ""
+
+msgctxt "01101.flavor"
+msgid "You take tremendous joy in exploring the fine details of a task. To you, there is no action worth taking that cannot be seen through to perfection."
+msgstr ""
+
+msgctxt "01102.name"
+msgid "Versatile"
+msgstr ""
+
+msgctxt "01102.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01102.text"
+msgid "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [reason] [exploration] [conflict]"
+msgstr ""
+
+msgctxt "01102.flavor"
+msgid "Ever since you were young you've found that no skill lies outside of your understanding. As a result, you're not afraid to try anything at least once."
+msgstr ""
+
+msgctxt "01103.name"
+msgid "Inventive"
+msgstr ""
+
+msgctxt "01103.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01103.text"
+msgid "The number of [reason] on this attribute is equal to the number of [FOC] in your energy pool."
+msgstr ""
+
+msgctxt "01103.flavor"
+msgid "While the minds of others may find comfort in following traditional paths, yours is at its best when it breaks away, forging new routes through the wilderness of thought."
+msgstr ""
+
+msgctxt "01104.name"
+msgid "Astute"
+msgstr ""
+
+msgctxt "01104.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01104.flavor"
+msgid "The problem takes shape in your mind like a multifaceted jewel, each vertex a possible solution. The swiftest gleams in the light of your attention, and soon the gem is but a single line, the edge of a razor, the way forward as undeniable and alluring as that sharpened blade."
+msgstr ""
+
+msgctxt "01105.name"
+msgid "Persuasive"
+msgstr ""
+
+msgctxt "01105.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01105.text"
+msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
+msgstr ""
+
+msgctxt "01105.flavor"
+msgid "As you give voice to your intention, you do so from a place of love, so that there may be no misconstruing your desire for a specific outcome as anything other than a desire for peace and understanding."
+msgstr ""
+
+msgctxt "01106.name"
+msgid "Thoughtful"
+msgstr ""
+
+msgctxt "01106.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01106.text"
+msgid "You may commit this attribute to any Ranger's test."
+msgstr ""
+
+msgctxt "01106.flavor"
+msgid "You have the gift of being able to sense the needs of those around you. Instinctively, you lend a hand without being overbearing, your ego nowhere to be found."
+msgstr ""
+
+msgctxt "01107.name"
+msgid "Engaging"
+msgstr ""
+
+msgctxt "01107.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01107.text"
+msgid "The number of [connection] on this attribute is equal to the number of [SPI] in your energy pool."
+msgstr ""
+
+msgctxt "01107.flavor"
+msgid "As you fully inhabit yourself, you feel a oneness with the flow of life. Those around you are buoyed by the energy of your presence, inspired by your certainty, and happy to help in whatever way they can."
+msgstr ""
+
+msgctxt "01108.name"
+msgid "Compassionate"
+msgstr ""
+
+msgctxt "01108.traits"
+msgid "Innate"
+msgstr ""
+
+msgctxt "01108.flavor"
+msgid "You open your heart and feel your consciousness settle into your chest. A great warmth spreads within you as you let fall any armor that may unnecessarily hinder this, the truest of connections, oneself laid bare to another."
+msgstr ""
