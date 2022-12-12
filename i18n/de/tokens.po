@@ -13,208 +13,208 @@ msgstr ""
 
 msgctxt "alarm.name"
 msgid "Alarm"
-msgstr ""
+msgstr "Alarm"
 
 msgctxt "alarm.plurals"
 msgid "Alarm,Alarms"
-msgstr ""
+msgstr "Alarm,Alarme"
 
 msgctxt "buffer.name"
 msgid "Buffer"
-msgstr ""
+msgstr "Puffer"
 
 msgctxt "buffer.plurals"
 msgid "Buffer,Buffers"
-msgstr ""
+msgstr "Puffer,Puffer"
 
 msgctxt "call.name"
 msgid "Call"
-msgstr ""
+msgstr "Pfiff"
 
 msgctxt "call.plurals"
 msgid "Call,Calls"
-msgstr ""
+msgstr "Pfiff,Pfiffe"
 
 msgctxt "charge.name"
 msgid "Charge"
-msgstr ""
+msgstr "Ladung"
 
 msgctxt "charge.plurals"
 msgid "Charge,Charges"
-msgstr ""
+msgstr "Ladung,Ladungen"
 
 msgctxt "herb.name"
 msgid "Herb"
-msgstr ""
+msgstr "Kraut"
 
 msgctxt "herb.plurals"
 msgid "Herb,Herbs"
-msgstr ""
+msgstr "Kraut,Kräuter"
 
 msgctxt "dart.name"
 msgid "Dart"
-msgstr ""
+msgstr "Bolzen"
 
 msgctxt "dart.plurals"
 msgid "Dart,Darts"
-msgstr ""
+msgstr "Bolzen,Bolzen"
 
 msgctxt "drop.name"
 msgid "Drop"
-msgstr ""
+msgstr "Tropfen"
 
 msgctxt "drop.plurals"
 msgid "Drop,Drops"
-msgstr ""
+msgstr "Tropfen,Tropfen"
 
 msgctxt "echo.name"
 msgid "Echo"
-msgstr ""
+msgstr "Echo"
 
 msgctxt "echo.plurals"
 msgid "Echo,Echoes"
-msgstr ""
+msgstr "Echo,Echos"
 
 msgctxt "entry.name"
 msgid "Entry"
-msgstr ""
+msgstr "Eintrag"
 
 msgctxt "entry.plurals"
 msgid "Entry,Entries"
-msgstr ""
+msgstr "Eintrag,Einträge"
 
 msgctxt "glint.name"
 msgid "Glint"
-msgstr ""
+msgstr "Strahl"
 
 msgctxt "glint.plurals"
 msgid "Glint,Glints"
-msgstr ""
+msgstr "Strahl,Strahlen"
 
 msgctxt "inkrill.name"
 msgid "Inkrill"
-msgstr ""
+msgstr "Memopix"
 
 msgctxt "inkrill.plurals"
 msgid "Inkrill,Inkrills"
-msgstr ""
+msgstr "Memopix,Memopix"
 
 msgctxt "length.name"
 msgid "Length"
-msgstr ""
+msgstr "Länge"
 
 msgctxt "length.plurals"
 msgid "Length,Lengths"
-msgstr ""
+msgstr "Länge,Längen"
 
 msgctxt "marker.name"
 msgid "Marker"
-msgstr ""
+msgstr "Wissen"
 
 msgctxt "marker.plurals"
 msgid "Marker,Markers"
-msgstr ""
+msgstr "Wissen,Wissen"
 
 msgctxt "morsel.name"
 msgid "Morsel"
-msgstr ""
+msgstr "Handvoll"
 
 msgctxt "morsel.plurals"
 msgid "Morsel,Morsels"
-msgstr ""
+msgstr "Handvoll,Handvoll"
 
 msgctxt "pocket.name"
 msgid "Pocker"
-msgstr ""
+msgstr "Tasche"
 
 msgctxt "pocket.plurals"
 msgid "Pocket,Pockets"
-msgstr ""
+msgstr "Tasche,Taschen"
 
 msgctxt "profile.name"
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgctxt "profile.plurals"
 msgid "Profile,Profiles"
-msgstr ""
+msgstr "Profil,Profile"
 
 msgctxt "pulse.name"
 msgid "Pulse"
-msgstr ""
+msgstr "Impuls"
 
 msgctxt "pulse.plurals"
 msgid "Pulse,Pulses"
-msgstr ""
+msgstr "Impuls,Impulse"
 
 msgctxt "sensor.name"
 msgid "Sensor"
-msgstr ""
+msgstr "Hinweis"
 
 msgctxt "sensor.plurals"
 msgid "Sensor,Sensors"
-msgstr ""
+msgstr "Hinweis,Hinweise"
 
 msgctxt "session.name"
 msgid "Session"
-msgstr ""
+msgstr "Pause"
 
 msgctxt "session.plurals"
 msgid "Session,Sessions"
-msgstr ""
+msgstr "Pause,Pausen"
 
 msgctxt "sip.name"
 msgid "Sip"
-msgstr ""
+msgstr "Schluck"
 
 msgctxt "sip.plurals"
 msgid "Sip,Sips"
-msgstr ""
+msgstr "Schluck,Schluck"
 
 msgctxt "snare.name"
 msgid "Snare"
-msgstr ""
+msgstr "Schlinge"
 
 msgctxt "snare.plurals"
 msgid "Snare,Snares"
-msgstr ""
+msgstr "Schlinge,Schlingen"
 
 msgctxt "song.name"
 msgid "Song"
-msgstr ""
+msgstr "Lied"
 
 msgctxt "song.plurals"
 msgid "Song,Songs"
-msgstr ""
+msgstr "Lied,Lieder"
 
 msgctxt "stride.name"
 msgid "Stride"
-msgstr ""
+msgstr "Schritt"
 
 msgctxt "stride.plurals"
 msgid "Stride,Strides"
-msgstr ""
+msgstr "Schritt,Schritte"
 
 msgctxt "track.name"
 msgid "Track"
-msgstr ""
+msgstr "Fährte"
 
 msgctxt "track.plurals"
 msgid "Track,Tracks"
-msgstr ""
+msgstr "Fährte,Fährten"
 
 msgctxt "vision.name"
 msgid "Vision"
-msgstr ""
+msgstr "Vision"
 
 msgctxt "vision.plurals"
 msgid "Vision,Visions"
-msgstr ""
+msgstr "Vision,Visionen"
 
 msgctxt "vittle.name"
 msgid "Vittle"
-msgstr ""
+msgstr "Ernte"
 
 msgctxt "vittle.plurals"
 msgid "Vittle,Vittles"
-msgstr ""
+msgstr "Ernte,Ernten"
