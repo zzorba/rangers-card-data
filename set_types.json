@@ -1,0 +1,14 @@
+[
+  {
+    "id": "background",
+    "name": "Background"
+  },
+  {
+    "id": "specialty",
+    "name": "Specialty"
+  },
+  {
+    "id": "terrain",
+    "name": "Terrain"
+  }
+]

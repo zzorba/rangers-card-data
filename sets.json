@@ -1,0 +1,108 @@
+[
+  {
+    "id": "artisan",
+    "name": "Artisan",
+    "type_id": "background",
+    "size": 9
+  },
+  {
+    "id": "forager",
+    "name": "Forager",
+    "type_id": "background",
+    "size": 9
+  },
+  {
+    "id": "shepherd",
+    "name": "Shepherd",
+    "type_id": "background",
+    "size": 9
+  },
+  {
+    "id": "traveler",
+    "name": "Traveler",
+    "type_id": "background",
+    "size": 9
+  },
+  {
+    "id": "artificer",
+    "name": "Artificer",
+    "type_id": "specialty",
+    "size": 14
+  },
+  {
+    "id": "conciliator",
+    "name": "Conciliator",
+    "type_id": "specialty",
+    "size": 14
+  },
+  {
+    "id": "shaper",
+    "name": "Shaper",
+    "type_id": "specialty",
+    "size": 14
+  },
+  {
+    "id": "explorer",
+    "name": "Explorer",
+    "type_id": "specialty",
+    "size": 14
+  },
+  {
+    "id": "personality",
+    "name": "Personality",
+    "size": 16
+  },
+  {
+    "id": "reward",
+    "name": "Reward",
+    "size": 31
+  },
+  {
+    "id": "woods",
+    "name": "Woods",
+    "type_id": "terrain",
+    "size": 5
+  },
+  {
+    "id": "lakeshore",
+    "name": "Lakeshore",
+    "type_id": "terrain",
+    "size": 5
+  },
+  {
+    "id": "mountain_pass",
+    "name": "Mountain Pass",
+    "type_id": "terrain",
+    "size": 5
+  },
+  {
+    "id": "old_growth",
+    "name": "Old-Growth",
+    "type_id": "terrain",
+    "size": 5
+  },
+  {
+    "id": "grassland",
+    "name": "Grassland",
+    "type_id": "terrain",
+    "size": 5
+  },
+  {
+    "id": "swamp",
+    "name": "Swamp",
+    "type_id": "terrain",
+    "size": 5
+  },
+  {
+    "id": "ravine",
+    "name": "Ravine",
+    "type_id": "terrain",
+    "size": 5
+  },
+  {
+    "id": "river",
+    "name": "River",
+    "type_id": "terrain",
+    "size": 5
+  }
+]

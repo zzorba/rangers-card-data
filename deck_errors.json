@@ -1,0 +1,66 @@
+[
+  {
+    "id": "invalid_aspects",
+    "text": "Chosen aspects are invalid."
+  },
+  {
+    "id": "too_many_duplicates",
+    "text": "Too many cards with the same name."
+  },
+  {
+    "id": "need_two_cards",
+    "text": "You must include two of each card in your starting deck."
+  },
+  {
+    "id": "personality",
+    "text": "Not enough personality cards."
+  },
+  {
+    "id": "too_many_personality",
+    "text": "Too many personality cards."
+  },
+  {
+    "id": "background",
+    "text": "Not enough background cards."
+  },
+  {
+    "id": "too_many_background",
+    "text": "Too many cards of the chosen background."
+  },
+  {
+    "id": "specialty",
+    "text": "Not enough specialty cards."
+  },
+  {
+    "id": "too_many_specialty",
+    "text": "Too many cards of the chosen specialty."
+  },
+  {
+    "id": "role",
+    "text": "You must choose a role card."
+  },
+  {
+    "id": "invalid_background",
+    "text": "Contains too many cards that do not match your chosen background."
+  },
+  {
+    "id": "invalid_specialty",
+    "text": "Contains too many cards that do not match your chosen background."
+  },
+  {
+    "id": "invalid_role",
+    "text": "Your role card does not match your chosen specialty."
+  },
+  {
+    "id": "invalid_aspect_levels",
+    "text": "Your deck contains cards with aspect requirements that are not allowed."
+  },
+  {
+    "id": "invalid_outside_interest",
+    "text": "Your outside interest card cannot have the Expert trait."
+  },
+  {
+    "id": "too_many_outside_interest",
+    "text": "There are too many outside interest cards in the deck."
+  }
+]

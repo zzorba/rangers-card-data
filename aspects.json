@@ -1,0 +1,22 @@
+[
+  {
+    "id": "AWA",
+    "name": "Awareness",
+    "short_name": "AWA"
+  },
+  {
+    "id": "FIT",
+    "name": "Fitness",
+    "short_name": "FIT"
+  },
+  {
+    "id": "FOC",
+    "name": "Focus",
+    "short_name": "FOC"
+  },
+  {
+    "id": "SPI",
+    "name": "Spirit",
+    "short_name": "SPI"
+  }
+]

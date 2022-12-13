@@ -1,0 +1,50 @@
+[
+  {
+    "id": "gear",
+    "name": "Gear"
+  },
+  {
+    "id": "attachment",
+    "name": "Attachment"
+  },
+  {
+    "id": "moment",
+    "name": "Moment"
+  },
+  {
+    "id": "role",
+    "name": "Role"
+  },
+  {
+    "id": "aspect",
+    "name": "Aspect"
+  },
+  {
+    "id": "attribute",
+    "name": "Attribute"
+  },
+  {
+    "id": "being",
+    "name": "Being"
+  },
+  {
+    "id": "feature",
+    "name": "Feature"
+  },
+  {
+    "id": "stat",
+    "name": "Stat"
+  },
+  {
+    "id": "malady",
+    "name": "Malady"
+  },
+  {
+    "id": "mission",
+    "name": "Mission"
+  },
+  {
+    "id": "location",
+    "name": "Location"
+  }
+]
