@@ -218,3 +218,51 @@ msgstr ""
 msgctxt "vittle.plurals"
 msgid "Vittle,Vittles"
 msgstr ""
+
+msgctxt "sketch.name"
+msgid "Sketch"
+msgstr ""
+
+msgctxt "sketch.plurals"
+msgid "Sketch,Sketches"
+msgstr ""
+
+msgctxt "vault.name"
+msgid "Vault"
+msgstr ""
+
+msgctxt "vault.plurals"
+msgid "Vault,Vaults"
+msgstr ""
+
+msgctxt "fiber.name"
+msgid "Fiber"
+msgstr ""
+
+msgctxt "fiber.plurals"
+msgid "Fiber,Fibers"
+msgstr ""
+
+msgctxt "shift.name"
+msgid "Shift"
+msgstr ""
+
+msgctxt "shift.plurals"
+msgid "Shift,Shifts"
+msgstr ""
+
+msgctxt "bite.name"
+msgid "Bite"
+msgstr ""
+
+msgctxt "bite.plurals"
+msgid "Bite,Bites"
+msgstr ""
+
+msgctxt "xp.name"
+msgid "XP"
+msgstr ""
+
+msgctxt "xp.plurals"
+msgid "XP,XP"
+msgstr ""

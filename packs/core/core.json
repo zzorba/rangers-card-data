@@ -2039,5 +2039,20 @@
     "token_id": "xp",
     "token_count": 3,
     "spoiler": true
+  },
+  {
+    "id": "01240",
+    "position": 240,
+    "quantity": 8,
+    "deck_limit": 8,
+    "set_id": "malady",
+    "set_position": 1,
+    "aspect_id": "FIT",
+    "name": "Lingering Injury",
+    "illustrator": "Rob Laskey",
+    "type_id": "attachment",
+    "traits": "Malady",
+    "text": "Fatiguing 2\n<b>Response:</b> When you draw this card, attach it to your role.\n<b>[FIT] + [reason]: Treat [2]</b> <f>and bandage the injury to</f> return this card to your collection.",
+    "spoiler": true
   }
 ]

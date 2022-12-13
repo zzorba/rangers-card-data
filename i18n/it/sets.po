@@ -47,6 +47,14 @@ msgctxt "personality.name"
 msgid "Personality"
 msgstr ""
 
+msgctxt "reward.name"
+msgid "Reward"
+msgstr ""
+
+msgctxt "malady.name"
+msgid "Malady"
+msgstr ""
+
 msgctxt "woods.name"
 msgid "Woods"
 msgstr ""

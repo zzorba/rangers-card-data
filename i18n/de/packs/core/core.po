@@ -1708,3 +1708,133 @@ msgstr ""
 msgctxt "01108.flavor"
 msgid "You open your heart and feel your consciousness settle into your chest. A great warmth spreads within you as you let fall any armor that may unnecessarily hinder this, the truest of connections, oneself laid bare to another."
 msgstr ""
+
+msgctxt "01203.name"
+msgid "Kordo's Instinct"
+msgstr ""
+
+msgctxt "01203.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01203.text"
+msgid "Search the path deck for a card and place it on top or bottom of the deck."
+msgstr ""
+
+msgctxt "01204.name"
+msgid "Sil's Sketchbook"
+msgstr ""
+
+msgctxt "01204.traits"
+msgid "Book"
+msgstr ""
+
+msgctxt "01204.text"
+msgid ""
+"<b>Exhaust (use X sketches):</b> Exhaust a path card with presence X.\n"
+"<b>[AWA] + [reason]: Sketch [X]</b> <f>your subject to</f> choose a path card and add X sketches to this book. X is equal to that card's presence."
+msgstr ""
+
+msgctxt "01211.name"
+msgid "Ar Tel's Vaulting Rod"
+msgstr ""
+
+msgctxt "01211.traits"
+msgid "Tech / Aid"
+msgstr ""
+
+msgctxt "01211.text"
+msgid ""
+"<b>Exhaust (use 1 vault):</b> Exhaust an obstacle.\n"
+"<b>Response:</b> When there are no vaults on this gear, discard it.\n"
+"<b>[AWA] + [conflict]: Fish [2]</b> if there is a water card in play to soothe 2 fatigue and add 2[progess] to a water card."
+msgstr ""
+
+msgctxt "01212.name"
+msgid "Gauzeblade"
+msgstr ""
+
+msgctxt "01212.traits"
+msgid "Tech / Weapon"
+msgstr ""
+
+msgctxt "01212.text"
+msgid "<b>[FIT] + [conflict] (use 1 fiber): Slice [X]</b> <f>with the fibrous blade to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence."
+msgstr ""
+
+msgctxt "01219.name"
+msgid "Translocator"
+msgstr ""
+
+msgctxt "01219.traits"
+msgid "Otherworldly"
+msgstr ""
+
+msgctxt "01219.text"
+msgid "<b>Exhaust (use 1 shift):</b> When you perform a test, dodge each card in play. If you fail that test, suffer 1 injury."
+msgstr ""
+
+msgctxt "01225.name"
+msgid "Nal's Understanding"
+msgstr ""
+
+msgctxt "01225.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01225.text"
+msgid "Add 5[progress] to a being. Then, if the being hasn't cleared, resolve each of its challenge effects in an order of your choice. Resolve these effects even if the being is exhausted."
+msgstr ""
+
+msgctxt "01226.name"
+msgid "Hy Pimpot's Secret Recipe"
+msgstr ""
+
+msgctxt "01226.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01226.text"
+msgid "Add 1[harm] to each flora. Add X[progress] to each being. Then each ranger soothes X fatigue. X is equal to the total number of [harm] added by this card."
+msgstr ""
+
+msgctxt "01228.name"
+msgid "Quisi's Favorite Snack"
+msgstr ""
+
+msgctxt "01228.traits"
+msgid "Food"
+msgstr ""
+
+msgctxt "01228.text"
+msgid "<b>Exhaust (use 1 bite):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [SPI] in their energy pool."
+msgstr ""
+
+msgctxt "01231.name"
+msgid "Ranger Badge"
+msgstr ""
+
+msgctxt "01231.traits"
+msgid "Clothing / Aid"
+msgstr ""
+
+msgctxt "01231.text"
+msgid ""
+"Attach to your role.\n"
+"<b>Exhaust (use 1 xp):</b> Ready your role."
+msgstr ""
+
+msgctxt "01240.name"
+msgid "Lingering Injury"
+msgstr ""
+
+msgctxt "01240.traits"
+msgid "Malady"
+msgstr ""
+
+msgctxt "01240.text"
+msgid ""
+"Fatiguing 2\n"
+"<b>Response:</b> When you draw this card, attach it to your role.\n"
+"<b>[FIT] + [reason]: Treat [2]</b> <f>and bandage the injury to</f> return this card to your collection."
+msgstr ""

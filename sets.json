@@ -58,6 +58,11 @@
     "size": 31
   },
   {
+    "id": "malady",
+    "name": "Malady",
+    "size": 4
+  },
+  {
     "id": "woods",
     "name": "Woods",
     "type_id": "terrain",
