@@ -43,10 +43,6 @@ msgctxt "feature.name"
 msgid "Feature"
 msgstr "Besonderheit"
 
-msgctxt "stat.name"
-msgid "Stat"
-msgstr ""
-
 msgctxt "malady.name"
 msgid "Malady"
 msgstr "Schwächung"
@@ -58,3 +54,7 @@ msgstr "Mission"
 msgctxt "location.name"
 msgid "Location"
 msgstr "Ort"
+
+msgctxt "stat.name"
+msgid "Stat"
+msgstr ""

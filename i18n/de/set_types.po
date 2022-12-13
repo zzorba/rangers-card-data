@@ -20,3 +20,7 @@ msgstr "Vorgeschichte"
 msgctxt "specialty.name"
 msgid "Specialty"
 msgstr "Expertise"
+
+msgctxt "terrain.name"
+msgid "Terrain"
+msgstr ""

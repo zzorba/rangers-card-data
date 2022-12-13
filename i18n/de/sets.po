@@ -48,3 +48,35 @@ msgstr "Forscher"
 msgctxt "personality.name"
 msgid "Personality"
 msgstr "Persönlichkeit"
+
+msgctxt "woods.name"
+msgid "Woods"
+msgstr ""
+
+msgctxt "lakeshore.name"
+msgid "Lakeshore"
+msgstr ""
+
+msgctxt "mountain_pass.name"
+msgid "Mountain Pass"
+msgstr ""
+
+msgctxt "old_growth.name"
+msgid "Old-Growth"
+msgstr ""
+
+msgctxt "grassland.name"
+msgid "Grassland"
+msgstr ""
+
+msgctxt "swamp.name"
+msgid "Swamp"
+msgstr ""
+
+msgctxt "ravine.name"
+msgid "Ravine"
+msgstr ""
+
+msgctxt "river.name"
+msgid "River"
+msgstr ""
