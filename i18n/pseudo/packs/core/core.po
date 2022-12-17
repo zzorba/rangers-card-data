@@ -1623,6 +1623,10 @@ msgctxt "01203.text"
 msgid "Search the path deck for a card and place it on top or bottom of the deck."
 msgstr ""
 
+msgctxt "01203.flavor"
+msgid "Kordo has imparted to you the wisdom of his years in the wilderness, tracking predators and dangerous biomelds in the name of protecting the balance of nature and the lives of the people he loves."
+msgstr ""
+
 msgctxt "01204.name"
 msgid "Sil's Sketchbook"
 msgstr ""
@@ -1664,6 +1668,10 @@ msgctxt "01212.text"
 msgid "<b>[FIT] + [conflict] (use 1 fiber): Slice [X]</b> <f>with the fibrous blade to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence."
 msgstr ""
 
+msgctxt "01212.flavor"
+msgid "This blade looks like a small bolt of cloth, but when flicked a certain way, it instantly stiffens into a razor-sharp knife."
+msgstr ""
+
 msgctxt "01219.name"
 msgid "Translocator"
 msgstr ""
@@ -1674,6 +1682,10 @@ msgstr ""
 
 msgctxt "01219.text"
 msgid "<b>Exhaust (use 1 shift):</b> When you perform a test, dodge each card in play. If you fail that test, suffer 1 injury."
+msgstr ""
+
+msgctxt "01219.flavor"
+msgid "You found this strange piece of technology left behind by a being seemingly able to disappear into thin air. Perhaps it will grant you a similar ability."
 msgstr ""
 
 msgctxt "01225.name"
@@ -1688,6 +1700,10 @@ msgctxt "01225.text"
 msgid "Add 5[progress] to a being. Then, if the being hasn't cleared, resolve each of its challenge effects in an order of your choice. Resolve these effects even if the being is exhausted."
 msgstr ""
 
+msgctxt "01225.flavor"
+msgid "Nal is fond of saying that the spirits are always with us, and one may speak with them as one would the oldest of friends."
+msgstr ""
+
 msgctxt "01226.name"
 msgid "Hy Pimpot's Secret Recipe"
 msgstr ""
@@ -1698,6 +1714,10 @@ msgstr ""
 
 msgctxt "01226.text"
 msgid "Add 1[harm] to each flora. Add X[progress] to each being. Then each ranger soothes X fatigue. X is equal to the total number of [harm] added by this card."
+msgstr ""
+
+msgctxt "01226.flavor"
+msgid "The complex flavors of the stew blend perfectly--rich but not overpowering, fresh but hearty, warm and soothing yet light and effervescent."
 msgstr ""
 
 msgctxt "01228.name"
@@ -1712,6 +1732,10 @@ msgctxt "01228.text"
 msgid "<b>Exhaust (use 1 bite):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [SPI] in their energy pool."
 msgstr ""
 
+msgctxt "01228.flavor"
+msgid "As you take a bite, you recall Quisi's endless joy and boundless curiosity, and you wonder in what corner of the Valley you might find her next."
+msgstr ""
+
 msgctxt "01231.name"
 msgid "Ranger Badge"
 msgstr ""
@@ -1724,6 +1748,10 @@ msgctxt "01231.text"
 msgid ""
 "Attach to your role.\n"
 "<b>Exhaust (use 1 xp):</b> Ready your role."
+msgstr ""
+
+msgctxt "01231.flavor"
+msgid "Calypsa's training, and her confidence in your abilities, helped you to believe in yourself, and to push beyond your perceived limitations."
 msgstr ""
 
 msgctxt "01240.name"
