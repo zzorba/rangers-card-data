@@ -57,4 +57,4 @@ msgstr "Ort"
 
 msgctxt "stat.name"
 msgid "Stat"
-msgstr ""
+msgstr "Aspekt–Karte"

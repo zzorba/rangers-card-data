@@ -51,40 +51,40 @@ msgstr "Persönlichkeit"
 
 msgctxt "reward.name"
 msgid "Reward"
-msgstr ""
+msgstr "Belohnung"
 
 msgctxt "malady.name"
 msgid "Malady"
-msgstr ""
+msgstr "Schwächung"
 
 msgctxt "woods.name"
 msgid "Woods"
-msgstr ""
+msgstr "Wald"
 
 msgctxt "lakeshore.name"
 msgid "Lakeshore"
-msgstr ""
+msgstr "Seeufer"
 
 msgctxt "mountain_pass.name"
 msgid "Mountain Pass"
-msgstr ""
+msgstr "Bergpass"
 
 msgctxt "old_growth.name"
 msgid "Old-Growth"
-msgstr ""
+msgstr "Ur-Wald"
 
 msgctxt "grassland.name"
 msgid "Grassland"
-msgstr ""
+msgstr "Grasland"
 
 msgctxt "swamp.name"
 msgid "Swamp"
-msgstr ""
+msgstr "Sumpf"
 
 msgctxt "ravine.name"
 msgid "Ravine"
-msgstr ""
+msgstr "Schlucht"
 
 msgctxt "river.name"
 msgid "River"
-msgstr ""
+msgstr "Fluss"
