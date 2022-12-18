@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "play.name"
+msgid "In play"
+msgstr ""
+
+msgctxt "reach.name"
+msgid "Within reach"
+msgstr ""
+
+msgctxt "along.name"
+msgid "Along the way"
+msgstr ""

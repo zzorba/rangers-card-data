@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "core.name"
+msgid "Core set"
+msgstr ""

@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "background.name"
+msgid "Background"
+msgstr ""
+
+msgctxt "specialty.name"
+msgid "Specialty"
+msgstr ""
+
+msgctxt "terrain.name"
+msgid "Terrain"
+msgstr ""

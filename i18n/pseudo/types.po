@@ -58,3 +58,7 @@ msgstr ""
 msgctxt "location.name"
 msgid "Location"
 msgstr ""
+
+msgctxt "challenge.name"
+msgid "Challenge"
+msgstr ""

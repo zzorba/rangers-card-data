@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "AWA.name"
+msgid "Awareness"
+msgstr ""
+
+msgctxt "AWA.short_name"
+msgid "AWA"
+msgstr ""
+
+msgctxt "FIT.name"
+msgid "Fitness"
+msgstr ""
+
+msgctxt "FIT.short_name"
+msgid "FIT"
+msgstr ""
+
+msgctxt "FOC.name"
+msgid "Focus"
+msgstr ""
+
+msgctxt "FOC.short_name"
+msgid "FOC"
+msgstr ""
+
+msgctxt "SPI.name"
+msgid "Spirit"
+msgstr ""
+
+msgctxt "SPI.short_name"
+msgid "SPI"
+msgstr ""
