@@ -13,12 +13,12 @@ msgstr ""
 
 msgctxt "play.name"
 msgid "In play"
-msgstr "[[Im Spiel]]"
+msgstr "Im Spiel"
 
 msgctxt "reach.name"
 msgid "Within reach"
-msgstr "[[In Reichweite]]"
+msgstr "In Reichweite"
 
 msgctxt "along.name"
 msgid "Along the way"
-msgstr "[[Entlang des Weges]]"
+msgstr "Entlang des Weges"
