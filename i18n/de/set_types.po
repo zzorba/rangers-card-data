@@ -23,4 +23,4 @@ msgstr "Expertise"
 
 msgctxt "terrain.name"
 msgid "Terrain"
-msgstr ""
+msgstr "Terrain"
