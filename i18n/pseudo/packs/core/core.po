@@ -844,6 +844,10 @@ msgid ""
 "<b>Response:</b> After you succeed at an Avoid test, add 1 charge to this gear."
 msgstr ""
 
+msgctxt "01055.flavor"
+msgid "<OMIT>"
+msgstr ""
+
 msgctxt "01056.name"
 msgid "Trail Markers"
 msgstr ""
