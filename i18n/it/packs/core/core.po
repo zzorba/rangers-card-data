@@ -1072,7 +1072,7 @@ msgid "Tracked"
 msgstr ""
 
 msgctxt "01072.traits"
-msgid "Tech / Weapon"
+msgid "Skill / Aid"
 msgstr ""
 
 msgctxt "01072.text"

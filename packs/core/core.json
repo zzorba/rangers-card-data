@@ -1326,7 +1326,7 @@
     "level": 3,
     "name": "Tracked",
     "type_id": "attachment",
-    "traits": "Tech / Weapon",
+    "traits": "Skill / Aid",
     "text": "Attach to a being.\n<b>Response:</b> After a challenge effect on the attached being resolves, add 1 track.\n<b>Use 1 track:</b> When a Ranger performs a test, commit 1 effort.",
     "approach_exploration": 1,
     "token_id": "track",

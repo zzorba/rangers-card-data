@@ -1601,11 +1601,6 @@ msgctxt "01053.flavor"
 msgid "The telescopic sensor extending from the spine identifies nearby fauna then reveals information regarding their biology and behavior from within the tome."
 msgstr "Der am Buchrücken angebrachte Teleskopsensor erkennt Tiere in der Nähe und projiziert Informationen über ihre Biologie und ihr Verhalten aus seinem Speicher auf die Seiten."
 
-msgctxt "01055.flavor"
-msgid ""
-msgstr "Wenn das Gerät auf dem Boden aufschlägt, zerspringt es in gleißendem Licht. Man meint, die Sonne selbst wolle daraus entfliehen."
-
-
 msgctxt "01061.flavor"
 msgid "With each step, your trekking poles spring upward, easing your burden as they provide buoyancy to your limbs."
 msgstr "Bei jedem Schritt federn deine Kraftfeld-Wanderstöcke und entlasten dadurch deine Gliedmaßen."
@@ -1718,13 +1713,49 @@ msgctxt "01108.flavor"
 msgid "You open your heart and feel your consciousness settle into your chest. A great warmth spreads within you as you let fall any armor that may unnecessarily hinder this, the truest of connections, oneself laid bare to another."
 msgstr "Du öffnest dein Herz und spürst, wie sich dein Bewusstsein in deiner Brust einnistet. Wärme breitet sich in dir aus, während du alle Rüstungen fallen lässt, die diese wahrhaftigste aller Verbindungen, die Entblößung deiner selbst vor einem anderen, unnötig behindern könnten."
 
-msgctxt "01203.name"
-msgid "Kordo's Instinct"
-msgstr ""
-
 msgctxt "01203.traits"
 msgid "Wisdom"
 msgstr "Weisheit"
+
+msgctxt "01204.traits"
+msgid "Book"
+msgstr "Buch"
+
+msgctxt "01211.traits"
+msgid "Tech / Aid"
+msgstr "High-Tech / Hilfe"
+
+msgctxt "01212.traits"
+msgid "Tech / Weapon"
+msgstr "High-Tech / Waffe"
+
+msgctxt "01225.traits"
+msgid "Experience"
+msgstr "Erfahrung"
+
+msgctxt "01226.traits"
+msgid "Wisdom"
+msgstr "Weisheit"
+
+msgctxt "01228.traits"
+msgid "Food"
+msgstr "Nahrung"
+
+msgctxt "01231.traits"
+msgid "Clothing / Aid"
+msgstr "Kleidung / Hilfe"
+
+msgctxt "01240.traits"
+msgid "Malady"
+msgstr "Schwächung"
+
+msgctxt "01072.traits"
+msgid "Skill / Aid"
+msgstr ""
+
+msgctxt "01203.name"
+msgid "Kordo's Instinct"
+msgstr ""
 
 msgctxt "01203.text"
 msgid "Search the path deck for a card and place it on top or bottom of the deck."
@@ -1738,10 +1769,6 @@ msgctxt "01204.name"
 msgid "Sil's Sketchbook"
 msgstr ""
 
-msgctxt "01204.traits"
-msgid "Book"
-msgstr "Buch"
-
 msgctxt "01204.text"
 msgid ""
 "<b>Exhaust (use X sketches):</b> Exhaust a path card with presence X.\n"
@@ -1751,10 +1778,6 @@ msgstr ""
 msgctxt "01211.name"
 msgid "Ar Tel's Vaulting Rod"
 msgstr ""
-
-msgctxt "01211.traits"
-msgid "Tech / Aid"
-msgstr "High-Tech / Hilfe"
 
 msgctxt "01211.text"
 msgid ""
@@ -1766,10 +1789,6 @@ msgstr ""
 msgctxt "01212.name"
 msgid "Gauzeblade"
 msgstr ""
-
-msgctxt "01212.traits"
-msgid "Tech / Weapon"
-msgstr "High-Tech / Waffe"
 
 msgctxt "01212.text"
 msgid "<b>[FIT] + [conflict] (use 1 fiber): Slice [X]</b> <f>with the fibrous blade to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence."
@@ -1799,10 +1818,6 @@ msgctxt "01225.name"
 msgid "Nal's Understanding"
 msgstr ""
 
-msgctxt "01225.traits"
-msgid "Experience"
-msgstr "Erfahrung"
-
 msgctxt "01225.text"
 msgid "Add 5[progress] to a being. Then, if the being hasn't cleared, resolve each of its challenge effects in an order of your choice. Resolve these effects even if the being is exhausted."
 msgstr ""
@@ -1814,10 +1829,6 @@ msgstr ""
 msgctxt "01226.name"
 msgid "Hy Pimpot's Secret Recipe"
 msgstr ""
-
-msgctxt "01226.traits"
-msgid "Wisdom"
-msgstr "Weisheit"
 
 msgctxt "01226.text"
 msgid "Add 1[harm] to each flora. Add X[progress] to each being. Then each ranger soothes X fatigue. X is equal to the total number of [harm] added by this card."
@@ -1831,10 +1842,6 @@ msgctxt "01228.name"
 msgid "Quisi's Favorite Snack"
 msgstr ""
 
-msgctxt "01228.traits"
-msgid "Food"
-msgstr "Nahrung"
-
 msgctxt "01228.text"
 msgid "<b>Exhaust (use 1 bite):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [SPI] in their energy pool."
 msgstr ""
@@ -1846,10 +1853,6 @@ msgstr ""
 msgctxt "01231.name"
 msgid "Ranger Badge"
 msgstr ""
-
-msgctxt "01231.traits"
-msgid "Clothing / Aid"
-msgstr "Kleidung / Hilfe"
 
 msgctxt "01231.text"
 msgid ""
@@ -1864,10 +1867,6 @@ msgstr ""
 msgctxt "01240.name"
 msgid "Lingering Injury"
 msgstr ""
-
-msgctxt "01240.traits"
-msgid "Malady"
-msgstr "Schwächung"
 
 msgctxt "01240.text"
 msgid ""
