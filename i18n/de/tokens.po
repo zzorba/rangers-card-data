@@ -221,48 +221,48 @@ msgstr "Ernte,Ernten"
 
 msgctxt "sketch.name"
 msgid "Sketch"
-msgstr ""
+msgstr "Skizze"
 
 msgctxt "sketch.plurals"
 msgid "Sketch,Sketches"
-msgstr ""
+msgstr "Skizze,Skizzen"
 
 msgctxt "vault.name"
 msgid "Vault"
-msgstr ""
+msgstr "Sprung"
 
 msgctxt "vault.plurals"
 msgid "Vault,Vaults"
-msgstr ""
+msgstr "Sprung,Sprünge"
 
 msgctxt "fiber.name"
 msgid "Fiber"
-msgstr ""
+msgstr "Faser"
 
 msgctxt "fiber.plurals"
 msgid "Fiber,Fibers"
-msgstr ""
+msgstr "Faser,Fasern"
 
 msgctxt "shift.name"
 msgid "Shift"
-msgstr ""
+msgstr "Flimmer"
 
 msgctxt "shift.plurals"
 msgid "Shift,Shifts"
-msgstr ""
+msgstr "Flimmer,Flimmer"
 
 msgctxt "bite.name"
 msgid "Bite"
-msgstr ""
+msgstr "Happen"
 
 msgctxt "bite.plurals"
 msgid "Bite,Bites"
-msgstr ""
+msgstr "Happen,Happen"
 
 msgctxt "xp.name"
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 msgctxt "xp.plurals"
 msgid "XP,XP"
-msgstr ""
+msgstr "XP,XP"

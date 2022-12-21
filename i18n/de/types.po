@@ -61,4 +61,4 @@ msgstr "Aspekt–Karte"
 
 msgctxt "challenge.name"
 msgid "Challenge"
-msgstr ""
+msgstr "Welteffekt"
