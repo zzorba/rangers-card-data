@@ -1655,7 +1655,7 @@ msgctxt "01211.text"
 msgid ""
 "<b>Exhaust (use 1 vault):</b> Exhaust an obstacle.\n"
 "<b>Response:</b> When there are no vaults on this gear, discard it.\n"
-"<b>[AWA] + [conflict]: Fish [2]</b> if there is a water card in play to soothe 2 fatigue and add 2[progess] to a water card."
+"<b>[AWA] + [conflict]: Fish [2]</b> if there is a water card in play to soothe 2 fatigue and add 2[progress] to a water card."
 msgstr ""
 
 msgctxt "01212.name"
