@@ -1193,8 +1193,6 @@
     "traits": "Experience",
     "text": "<b>Reponse:</b> When a Ranger would suffer 1 or more fatigue, they soothe that amount of fatigue instead.",
     "approach_exploration": 1,
-    "token_id": "charge",
-    "token_count": 3,
     "flavor": "You never leave your workshop without the tools essential to survival in the wilderness.The right tool can turn even the most exhausting of endeavors into a moment of exhilaration.",
     "illustrator": "Wayne O'Connor"
   },
