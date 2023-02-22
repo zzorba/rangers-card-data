@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgctxt "AWA.name"
 msgid "Awareness"
-msgstr ""
+msgstr "Percezione"
 
 msgctxt "AWA.short_name"
 msgid "AWA"
@@ -23,7 +23,7 @@ msgstr "PER"
 
 msgctxt "FIT.name"
 msgid "Fitness"
-msgstr ""
+msgstr "Fisico"
 
 msgctxt "FIT.short_name"
 msgid "FIT"
@@ -31,7 +31,7 @@ msgstr "FIS"
 
 msgctxt "FOC.name"
 msgid "Focus"
-msgstr ""
+msgstr "Concentrazione"
 
 msgctxt "FOC.short_name"
 msgid "FOC"
@@ -39,7 +39,7 @@ msgstr "CON"
 
 msgctxt "SPI.name"
 msgid "Spirit"
-msgstr ""
+msgstr "Spirito"
 
 msgctxt "SPI.short_name"
 msgid "SPI"

@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 msgctxt "gear.name"
 msgid "Gear"
@@ -31,7 +31,7 @@ msgstr "Ruolo"
 
 msgctxt "aspect.name"
 msgid "Aspect"
-msgstr ""
+msgstr "Aspetto"
 
 msgctxt "attribute.name"
 msgid "Attribute"
@@ -47,20 +47,20 @@ msgstr "Elemento"
 
 msgctxt "stat.name"
 msgid "Stat"
-msgstr ""
+msgstr "Punteggio"
 
 msgctxt "malady.name"
 msgid "Malady"
-msgstr ""
+msgstr "Malanno"
 
 msgctxt "mission.name"
 msgid "Mission"
-msgstr ""
+msgstr "Missione"
 
 msgctxt "location.name"
 msgid "Location"
-msgstr ""
+msgstr "Luogo"
 
 msgctxt "challenge.name"
 msgid "Challenge"
-msgstr ""
+msgstr "Sfida"
