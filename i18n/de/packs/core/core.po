@@ -603,7 +603,7 @@ msgid ""
 "<b>Exhaust (use 1 stride):</b> Add 1[progress] to a trail.\n"
 "<b>[FIT] + [conflict]: Strike [2]</b> <f>out with your walking implement to</f> add 1[harm] to a being for every 2 effort. If you fail, suffer 1 injury."
 msgstr ""
-"<b>Erschöpfen (verwende 1 Schritt):</b> Lege 1[Fortschritt] auf 1 ¬Wanderweg.\n"
+"<b>Erschöpfen (verwende 1 Schritt):</b> Lege 1[progress] auf 1 ¬Wanderweg.\n"
 "<b>[FIT] + [conflict]: Schlage [2]</b> <f>mit deinem Wanderstab zu -</f> für je 2 Leistung lege 1[harm] auf 1 ¬Wesen deiner Wahl. Schlägt der Test fehl? Erleide 1 Wunde."
 
 msgctxt "01044.name"
@@ -1357,7 +1357,7 @@ msgstr "Angeboren"
 
 msgctxt "01098.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to gain 1 energy of any type."
-msgstr "Nach deinem erfolgreichen Test, bei dem du diese ¬Eigenart investiert hast, darfst du 1 Müdigkeit erleiden, um sie zurück auf die Hand zu nehmen."
+msgstr "Nach deinem erfolgreichen Test, bei dem du diese ¬Eigenart investiert hast, darfst du 1 Müdigkeit erleiden, um 1 Energie deiner Wahl zu erhalten."
 
 msgctxt "01099.name"
 msgid "Determined"
