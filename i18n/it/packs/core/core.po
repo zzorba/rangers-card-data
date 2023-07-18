@@ -891,10 +891,6 @@ msgid ""
 "<b>Response:</b> After you succeed at an Avoid test, add 1 charge to this gear."
 msgstr "Scarta questo Strumento dalla tua area giocatore per esaurire un ammontare di Esseri pari al numero di cariche su questo Strumento.\\n<b>Risposta:</b> Dopo che hai superato una prova <b>Distrai</b>, colloca 1 carica su questo Strumento."
 
-msgctxt "01055.flavor"
-msgid "<OMIT>"
-msgstr ""
-
 msgctxt "01056.name"
 msgid "Trail Markers"
 msgstr "Segnavia"
@@ -1876,3 +1872,339 @@ msgstr ""
 "Stancante 2\n"
 "<b>Risposta:</b> Quando peschi questa carta, assegnala al tuo Ruolo.\n"
 "<b>[FIT] + [reason]: Medica [2]</b> <f>e benda la ferita.</f> Riponi questa carta nella collezione."
+
+msgctxt "01055.flavor"
+msgid "<OMIT>"
+msgstr ""
+
+msgctxt "01201.name"
+msgid "Reward #1"
+msgstr ""
+
+msgctxt "01201.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01201.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01201.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01202.name"
+msgid "Reward #2"
+msgstr ""
+
+msgctxt "01202.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01202.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01205.name"
+msgid "Reward #5"
+msgstr ""
+
+msgctxt "01205.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01205.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01205.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01206.name"
+msgid "Reward #6"
+msgstr ""
+
+msgctxt "01206.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01206.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01206.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01207.name"
+msgid "Reward #7"
+msgstr ""
+
+msgctxt "01207.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01207.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01208.name"
+msgid "Reward #8"
+msgstr ""
+
+msgctxt "01208.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01208.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01208.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01209.name"
+msgid "Reward #9"
+msgstr ""
+
+msgctxt "01209.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01209.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01209.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01210.name"
+msgid "Reward #10"
+msgstr ""
+
+msgctxt "01210.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01210.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01213.name"
+msgid "Reward #13"
+msgstr ""
+
+msgctxt "01213.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01213.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01214.name"
+msgid "Reward #14"
+msgstr ""
+
+msgctxt "01214.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01214.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01214.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01215.name"
+msgid "Reward #15"
+msgstr ""
+
+msgctxt "01215.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01215.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01216.name"
+msgid "Reward #16"
+msgstr ""
+
+msgctxt "01216.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01216.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01216.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01217.name"
+msgid "Reward #17"
+msgstr ""
+
+msgctxt "01217.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01217.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01217.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01218.name"
+msgid "Reward #18"
+msgstr ""
+
+msgctxt "01218.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01218.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01218.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01220.name"
+msgid "Reward #20"
+msgstr ""
+
+msgctxt "01220.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01220.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01220.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01221.name"
+msgid "Reward #21"
+msgstr ""
+
+msgctxt "01221.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01221.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01221.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01222.name"
+msgid "Reward #22"
+msgstr ""
+
+msgctxt "01222.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01222.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01222.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01223.name"
+msgid "Reward #23"
+msgstr ""
+
+msgctxt "01223.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01223.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01223.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01224.name"
+msgid "Reward #24"
+msgstr ""
+
+msgctxt "01224.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01224.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01224.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01227.name"
+msgid "Reward #27"
+msgstr ""
+
+msgctxt "01227.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01227.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01227.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01229.name"
+msgid "Reward #29"
+msgstr ""
+
+msgctxt "01229.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01229.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01229.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01230.name"
+msgid "Reward #30"
+msgstr ""
+
+msgctxt "01230.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01230.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01230.flavor"
+msgid "TBA"
+msgstr ""

@@ -1271,7 +1271,7 @@ msgid ""
 "Manifestation. <f>(To play a manifestation, discard 1 token from a conduit.)</f>\n"
 "Choose a being in play, and shuffle it into the path deck. Then search the path deck and discard for a being and put it into play."
 msgstr ""
-"Manifestation. <f>(Um das zu spielen, entferne 1 Marker eines Kanalisators)</f>\n"
+"Manifestation. <f>(Um das zu spielen, entferne 1 Marker eines ¬Kanalisators)</f>\n"
 "Wähle 1 ¬Wesen im Spiel und mische es zurück in den Pfadstapel. Dann durchsuche den Pfad- und Ablagestapel nach 1 ¬Wesen und bringe es ins Spiel."
 
 msgctxt "01092.name"
@@ -1715,42 +1715,6 @@ msgctxt "01108.flavor"
 msgid "You open your heart and feel your consciousness settle into your chest. A great warmth spreads within you as you let fall any armor that may unnecessarily hinder this, the truest of connections, oneself laid bare to another."
 msgstr "Du öffnest dein Herz und spürst, wie sich dein Bewusstsein in deiner Brust einnistet. Wärme breitet sich in dir aus, während du alle Rüstungen fallen lässt, die diese wahrhaftigste aller Verbindungen, die Entblößung deiner selbst vor einem anderen, unnötig behindern könnten."
 
-msgctxt "01203.traits"
-msgid "Wisdom"
-msgstr "Weisheit"
-
-msgctxt "01204.traits"
-msgid "Book"
-msgstr "Buch"
-
-msgctxt "01211.traits"
-msgid "Tech / Aid"
-msgstr "High-Tech / Hilfe"
-
-msgctxt "01212.traits"
-msgid "Tech / Weapon"
-msgstr "High-Tech / Waffe"
-
-msgctxt "01225.traits"
-msgid "Experience"
-msgstr "Erfahrung"
-
-msgctxt "01226.traits"
-msgid "Wisdom"
-msgstr "Weisheit"
-
-msgctxt "01228.traits"
-msgid "Food"
-msgstr "Nahrung"
-
-msgctxt "01231.traits"
-msgid "Clothing / Aid"
-msgstr "Kleidung / Hilfe"
-
-msgctxt "01240.traits"
-msgid "Malady"
-msgstr "Schwächung"
-
 msgctxt "01055.flavor"
 msgid "<OMIT>"
 msgstr "Wenn das Gerät auf dem Boden aufschlägt, zerspringt es in gleißendem Licht. Man meint, die Sonne selbst wolle daraus entfliehen."
@@ -1759,9 +1723,44 @@ msgctxt "01072.traits"
 msgid "Skill / Aid"
 msgstr "Fähigkeit / Hilfe"
 
+msgctxt "01201.name"
+msgid "Reward #1"
+msgstr "Luchsfellumhang"
+
+msgctxt "01201.traits"
+msgid "TBA"
+msgstr "Ausstattung / Kleidung"
+
+msgctxt "01201.text"
+msgid "TBA"
+msgstr "<b>Erschöpfen:</b> Wenn du 1+ Müdigkeit durch eine Pfadkarte erleiden würdest, reduziere die erlittene Müdigkeit stattdessen auf 0."
+
+msgctxt "01201.flavor"
+msgid "TBA"
+msgstr "Dieser Umhang soll dich daran erinnern, dass kein Leben ohne Konsequenzen genommen werden kann. Jeder von uns ist mit der Welt verwoben. Kein Faden kann herausgezogen werden, ohne Schaden anzurichten."
+
+msgctxt "01202.name"
+msgid "Reward #2"
+msgstr "Krabblertunnel"
+
+msgctxt "01202.traits"
+msgid "TBA"
+msgstr "Besonderheit / Untergrund"
+
+msgctxt "01202.text"
+msgid "TBA"
+msgstr ""
+"<b>[FOC] + [conflict]: Navigiere</b> <f>durch den gewundenen Tunnel -</f> verlege dein [ranger] hier her.\n"
+"<b>Reaktion:</b> Wenn du einen Test ausführst und dein [ranger] hier ist, lege 1[harm] hier her, um jeder Karte in derselben [[Entfernung]] wie <i>Krabblertunnel</i> auszuweichen.\n"
+"<b>Erfülle [harm]:</b> Dein [ranger] hier? Erleide 1 Wunde."
+
 msgctxt "01203.name"
 msgid "Kordo's Instinct"
 msgstr "Kordos Instinkt"
+
+msgctxt "01203.traits"
+msgid "Wisdom"
+msgstr "Weisheit"
 
 msgctxt "01203.text"
 msgid "Search the path deck for a card and place it on top or bottom of the deck."
@@ -1775,6 +1774,10 @@ msgctxt "01204.name"
 msgid "Sil's Sketchbook"
 msgstr "Sils Zeichenbuch"
 
+msgctxt "01204.traits"
+msgid "Book"
+msgstr "Buch"
+
 msgctxt "01204.text"
 msgid ""
 "<b>Exhaust (use X sketches):</b> Exhaust a path card with presence X.\n"
@@ -1783,9 +1786,108 @@ msgstr ""
 "<b>Erschöpfen (verwende X Skizzen):</b> Erschöpfe 1 Pfadkarte mit Präsenz X.\n"
 "<b>[AWA] + [reason]: Skizziere [X]</b> <f>deine Vorlage</f> - wähle 1 Pfadkarte und platziere X Skizzen hier (X= Präsenz der Pfadkarte)."
 
+msgctxt "01205.name"
+msgid "Reward #5"
+msgstr "Leicht wie eine Feder"
+
+msgctxt "01205.traits"
+msgid "TBA"
+msgstr "Moment / Manifestation"
+
+msgctxt "01205.text"
+msgid "TBA"
+msgstr ""
+"Manifestation.\n"
+"Wähle eine Anzahl deiner Wahl an Pfadkarten [[In Reichweite]] und mische sie zurück in den Pfadstapel. Dann ziehe 1 Pfadkarte."
+
+msgctxt "01205.flavor"
+msgid "TBA"
+msgstr "Dace' anmutiger Sprung vom Sturz hat dich gelehrt, den Wind zu nutzen, damit er dich über kurze Strecken trägt."
+
+msgctxt "01206.name"
+msgid "Reward #6"
+msgstr "Kinetische Glasskulptur"
+
+msgctxt "01206.traits"
+msgid "TBA"
+msgstr "Ausstattung / High-Tech"
+
+msgctxt "01206.text"
+msgid "TBA"
+msgstr "<b>Erschöpfen (verwende 1 Form):</b> Erschöpfe 1 ¬Wesen und bewege es."
+
+msgctxt "01206.flavor"
+msgid "TBA"
+msgstr "Die Skulptur, ein Geschenk von Tollin Lang, glitzert im Sonnenlicht. Winzige Glassplitter fließen und verschmelzen. Sie nehmen die Form eines springenden Kaninchens an. Es ist erstaunlich lebensecht."
+
+msgctxt "01207.name"
+msgid "Reward #7"
+msgstr "Regenerat-Schleim"
+
+msgctxt "01207.traits"
+msgid "TBA"
+msgstr "Anhang / Natur"
+
+msgctxt "01207.text"
+msgid "TBA"
+msgstr ""
+"An eine Pfadkarte anhängen.\n"
+"Reduziere die Präsenz der angehängten Karte um 2.\n"
+"<b>Reaktion:</b> Wenn ein Ranger durch die angehängte Karte ermüdet wird, legt dieser Ranger 1[harm] darauf."
+
+msgctxt "01208.name"
+msgid "Reward #8"
+msgstr "Topographon"
+
+msgctxt "01208.traits"
+msgid "TBA"
+msgstr "Ausstattung / High-Tech / Estisch"
+
+msgctxt "01208.text"
+msgid "TBA"
+msgstr "<b>[AWA] + [reason] (verwende 1 Abbild): Stelle<\b> <f>das Gerät auf deine Umgebung ein -<\f> für je 1 Leistung kundschafte 2 Pfadkarten."
+
+msgctxt "01208.flavor"
+msgid "TBA"
+msgstr "Dieses geheimnisvolle Stück estischer Technologie, das aus einer Ruine im Moor der Wiedergeburt geborgen wurde, scannt die nähere Umgebung und erweckt sie in deiner Handfläche zum Leben."
+
+msgctxt "01209.name"
+msgid "Reward #9"
+msgstr "Keinlaut"
+
+msgctxt "01209.traits"
+msgid "TBA"
+msgstr "Wesen / Begleiter / Säugetier"
+
+msgctxt "01209.text"
+msgid "TBA"
+msgstr ""
+"Freundlich. Bleibend.\n"
+"<b>Erschöpfen:</b> Lege 3[harm] auf 1 ¬Wesen und X[harm] auf Keinlaut (X= Präsenz des ¬Wesens)."
+
+msgctxt "01209.flavor"
+msgid "TBA"
+msgstr "Der große Luchs taucht aus dem Unterholz auf, still wie ein Schatten. Sie sieht dich an, als wollte sie sagen: \"Heute werde ich dich nicht fressen. Aber morgen ist ein neuer Tag.\""
+
+msgctxt "01210.name"
+msgid "Reward #10"
+msgstr "Umbraklaue"
+
+msgctxt "01210.traits"
+msgid "TBA"
+msgstr "Ausstattung / Waffe"
+
+msgctxt "01210.text"
+msgid "TBA"
+msgstr "<b>[FIT] + [conflict] (verwende 1 Schnitt): Schlitze [X]</b> <f>das Wesen mit der Umbraklaue -<\f> lege Y[harm] auf 1 ¬Wesen (Y= Leistung; X= Präsenz des ¬Wesens). Schlägt der Test fehl? Erleide 1 Wunde. Bei dem Test werden keine [crest]-Effekte ausgelöst."
+
 msgctxt "01211.name"
 msgid "Ar Tel's Vaulting Rod"
 msgstr "Ar Tels Sprungrute"
+
+msgctxt "01211.traits"
+msgid "Tech / Aid"
+msgstr "High-Tech / Hilfe"
 
 msgctxt "01211.text"
 msgid ""
@@ -1801,6 +1903,10 @@ msgctxt "01212.name"
 msgid "Gauzeblade"
 msgstr "Gazeklinge"
 
+msgctxt "01212.traits"
+msgid "Tech / Weapon"
+msgstr "High-Tech / Waffe"
+
 msgctxt "01212.text"
 msgid "<b>[FIT] + [conflict] (use 1 fiber): Slice [X]</b> <f>with the fibrous blade to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence."
 msgstr "<b>[FIT] + [conflict] (verwende 1 Faser): Schneide [X]</b> <f>mit der Gazestoff-Klinge -</f> lege Y[harm] auf 1 ¬Wesen (Y= Leistung; X= Präsenz des ¬Wesens). Schlägt der Test fehl? Erleide 1 Wunde."
@@ -1808,6 +1914,100 @@ msgstr "<b>[FIT] + [conflict] (verwende 1 Faser): Schneide [X]</b> <f>mit der Ga
 msgctxt "01212.flavor"
 msgid "This blade looks like a small bolt of cloth, but when flicked a certain way, it instantly stiffens into a razor-sharp knife."
 msgstr "Wenn du diese Stoffklinge auf eine bestimmte Art schnippst, versteift sie sich schlagartig zu einem rasiermesserscharfen Dolch."
+
+msgctxt "01213.name"
+msgid "Reward #13"
+msgstr "Nimmerholz-Kanu"
+
+msgctxt "01213.traits"
+msgid "TBA"
+msgstr "Ausstattung / Gefährt"
+
+msgctxt "01213.text"
+msgid "TBA"
+msgstr ""
+"Aufbau.\n"
+"Ihr dürft beim Reisen den Fluss verwenden.\n"
+"<b>Dein [ranger] hier:<\b> Die Präsenz von ¬Besonderheiten mit ¬Wasser ist um 1 reduziert. Die Präsenz aller anderen ¬Besonderheiten ist um 1 erhöht.\n"
+"<b>[FIT] + [reason]: Steige</b> <f>an Bord -</f> verlege dein [ranger] hier her oder zurück auf deine ¬Berufung."
+
+msgctxt "01214.name"
+msgid "Reward #14"
+msgstr "Die Kasendemethode"
+
+msgctxt "01214.traits"
+msgid "TBA"
+msgstr "Moment / Fähigkeit / Waffe"
+
+msgctxt "01214.text"
+msgid "TBA"
+msgstr "Falls du eine Waffe ausgerüstet hast, lege 5[harm] auf 1 ¬Wesen. Dann erleide X Müdigkeit (X= Anzahl [harm] auf dem ¬Wesen, die den Schwellenwert für [harm] überschreitet)."
+
+msgctxt "01214.flavor"
+msgid "TBA"
+msgstr "Kasendes Technik und Präzision sind legendär. Du hast ihre Bewegungen und Taktiken genau studiert."
+
+msgctxt "01215.name"
+msgid "Reward #15"
+msgstr "Eins mit dem Verdessium"
+
+msgctxt "01215.traits"
+msgid "TBA"
+msgstr "Moment / Manifestation / Natur"
+
+msgctxt "01215.text"
+msgid "TBA"
+msgstr ""
+"Manifestation. <f>(Um das zu spielen, entferne 1 Marker eines ¬Kanalisators)</f>\n"
+"Lege 1[harm] auf 1 ¬Flora, um 4[harm] oder 4[progress], auf 1 Pfadkarte zu legen. War das ein ¬Genmix? Lege 2[harm] oder 2[progress] mehr darauf."
+
+msgctxt "01216.name"
+msgid "Reward #16"
+msgstr "Talas Beharrlichkeit"
+
+msgctxt "01216.traits"
+msgid "TBA"
+msgstr "Moment/ Fähigkeit"
+
+msgctxt "01216.text"
+msgid "TBA"
+msgstr "Lege 3[progress] auf 1 ¬Wanderweg. Ist das ein ¬Berg oder ¬Hindernis? Lege 2[progress] mehr darauf."
+
+msgctxt "01216.flavor"
+msgid "TBA"
+msgstr "Dank deiner Freundlichkeit und deines Mitgefühls hat Tala nach Jahren im Exil ein Zuhause gefunden. Als Gegenleistung für deine Hilfe hat sie dir die Klettertechniken ihres Volkes gezeigt."
+
+msgctxt "01217.name"
+msgid "Reward #17"
+msgstr "Umbras Schatten"
+
+msgctxt "01217.traits"
+msgid "TBA"
+msgstr "Moment / Erfahrung"
+
+msgctxt "01217.text"
+msgid "TBA"
+msgstr "Du darfst jedes ¬Wesen bewegen. Dann führe 1 Welteffekt deiner Wahl auf einem ¬Wesen aus. Du tust das auch, wenn es erschöpft ist."
+
+msgctxt "01217.flavor"
+msgid "TBA"
+msgstr "Du schnalzt mit der Zunge und stößt einen gellenden Pfiff aus. Innerhalb weniger Augenblicke erscheint Umbra am Himmel, und alle unter ihr fliehen vor ihrem Schatten."
+
+msgctxt "01218.name"
+msgid "Reward #18"
+msgstr "Wahrscheinlichkeitskompass"
+
+msgctxt "01218.traits"
+msgid "TBA"
+msgstr "Ausstattung / High-Tech / Estisch"
+
+msgctxt "01218.text"
+msgid "TBA"
+msgstr "<b>Verwende 1 Nadel:<b> Wenn ein Ranger bei einem Test eine Welteffektkarte zieht, wählst du 1 Modifikator darauf. Verbrauche 1 Energie des Aspekts davon, um stattdessen diesen Modifikator bei dem Test zu verwenden."
+
+msgctxt "01218.flavor"
+msgid "TBA"
+msgstr "Silaros Geschenk."
 
 msgctxt "01219.name"
 msgid "Translocator"
@@ -1825,9 +2025,95 @@ msgctxt "01219.flavor"
 msgid "You found this strange piece of technology left behind by a being seemingly able to disappear into thin air. Perhaps it will grant you a similar ability."
 msgstr "Du hast dieses eigenartige Stück Technologie gefunden, das von einem Wesen zurückgelassen wurde, das sich scheinbar in Luft auflösen kann. Vielleicht verleiht es dir eine ähnliche Fähigkeit."
 
+msgctxt "01220.name"
+msgid "Reward #20"
+msgstr "Silaros Erkenntnis"
+
+msgctxt "01220.traits"
+msgid "TBA"
+msgstr "Moment / Weisheit"
+
+msgctxt "01220.text"
+msgid "TBA"
+msgstr "Kundschafte je 1 Karte vom Pfadstapel, Welteffektstapel sowie von jedem Rangerdeck."
+
+msgctxt "01220.flavor"
+msgid "TBA"
+msgstr "Nach deinen vielen Begegnungen mit dem Archäologen Silaro Mako weißt du mehr über die tiefe, komplizierte Geschichte des Tals und die Rolle, die die Esten in seiner Entwicklung spielten."
+
+msgctxt "01221.name"
+msgid "Reward #21"
+msgstr "Stell dich deiner Angst"
+
+msgctxt "01221.traits"
+msgid "TBA"
+msgstr "Moment / Erfahrung"
+
+msgctxt "01221.text"
+msgid "TBA"
+msgstr "<b>Reaktion:<\b> Wenn ein Ranger einen Test ausführt, investiert dies X Mühe."
+
+msgctxt "01221.flavor"
+msgid "TBA"
+msgstr "Nach der schaurigen Nacht mit Jaris auf der Stechwinden-Höhe hast du das Gefühl, dass es nichts gibt, was du nicht tun kannst. Angst ist nur ein Konstrukt des Verstandes, eine Fiktion, die man mit Mut überwinden kann."
+
+msgctxt "01222.name"
+msgid "Reward #22"
+msgstr "Lebenszeichensensor"
+
+msgctxt "01222.traits"
+msgid "TBA"
+msgstr "Anhang / Gerät / High-Tech"
+
+msgctxt "01222.text"
+msgid "TBA"
+msgstr ""
+"An eine ¬Besonderheit anhängen.\n"
+"<b>Reaktion:<\b> Nachdem die angehängte ¬Besonderheit erfüllt wurde, kundschafte X Pfadkarten (X= Anzahl ¬Wesen im Spiel)."
+
+msgctxt "01222.flavor"
+msgid "TBA"
+msgstr "Der Sensor blinkt und pulsiert mit dem Herzschlag eines jeden Wesens in der Nähe."
+
+msgctxt "01223.name"
+msgid "Reward #23"
+msgstr "Verzweigte Ranken"
+
+msgctxt "01223.traits"
+msgid "TBA"
+msgstr "Ausstattung / Natur"
+
+msgctxt "01223.text"
+msgid "TBA"
+msgstr "<b>Verwende 1 Puls:<\b> Wenn du rastet, kundschafte 3 Rangerkarten."
+
+msgctxt "01223.flavor"
+msgid "TBA"
+msgstr "Die \"Kletterranke\" aus dem Inneren des Erdfressers erwacht zum Leben. Sie lässt verzweigte Ranken auf deiner Haut wachsen und verstärkt so deine natürlichen Fähigkeiten."
+
+msgctxt "01224.name"
+msgid "Reward #24"
+msgstr "Klarheit des Quellgebiets"
+
+msgctxt "01224.traits"
+msgid "TBA"
+msgstr "Moment / Erfahrung"
+
+msgctxt "01224.text"
+msgid "TBA"
+msgstr "Durchsuche dein Rangerdeck nach einer Anzahl Karten deiner Wahl und lege sie in einer Reihenfolge deiner Wahl auf deinen Müdigkeitsstapel."
+
+msgctxt "01224.flavor"
+msgid "TBA"
+msgstr "Du erinnerst dich an die Erkundung des Sternenfelds im Wasser der Oberlauf-Station und wirst von demselben Gefühl der Klarheit erfüllt, das du in jenem erhellenden Moment empfunden hast."
+
 msgctxt "01225.name"
 msgid "Nal's Understanding"
 msgstr "Nals Weisheit"
+
+msgctxt "01225.traits"
+msgid "Experience"
+msgstr "Erfahrung"
 
 msgctxt "01225.text"
 msgid "Add 5[progress] to a being. Then, if the being hasn't cleared, resolve each of its challenge effects in an order of your choice. Resolve these effects even if the being is exhausted."
@@ -1841,6 +2127,10 @@ msgctxt "01226.name"
 msgid "Hy Pimpot's Secret Recipe"
 msgstr "Hy Pimpots Geheimrezept"
 
+msgctxt "01226.traits"
+msgid "Wisdom"
+msgstr "Weisheit"
+
 msgctxt "01226.text"
 msgid "Add 1[harm] to each flora. Add X[progress] to each being. Then each ranger soothes X fatigue. X is equal to the total number of [harm] added by this card."
 msgstr "Lege 1[harm] auf jede ¬Flora. Lege X[progress] auf jedes ¬Wesen. Dann lindert jeder Ranger X Müdigkeit (X= Summe der auf ¬Flora gelegten [harm])."
@@ -1849,9 +2139,29 @@ msgctxt "01226.flavor"
 msgid "The complex flavors of the stew blend perfectly--rich but not overpowering, fresh but hearty, warm and soothing yet light and effervescent."
 msgstr "Die komplexen Aromen des Eintopfs sind perfekt aufeinander abgestimmt - reichhaltig, aber nicht übermächtig, frisch, aber herzhaft, warm und wohltuend, dabei leicht und spritzig."
 
+msgctxt "01227.name"
+msgid "Reward #27"
+msgstr "Philosophenhonig"
+
+msgctxt "01227.traits"
+msgid "TBA"
+msgstr "Ausstattung / Nahrung"
+
+msgctxt "01227.text"
+msgid "TBA"
+msgstr "<b>Erschöpfen (verwende 1 Klecks):<\b> Wähle 1 Ranger. Dieser Ranger lindert X Müdigkeit (X= seine aktuelle [FOC]-Energie)."
+
+msgctxt "01227.flavor"
+msgid "TBA"
+msgstr "Schon ein kleiner Tropfen sorgt für ein wärmendes Gefühl in deinem Körper. Deine Sinne kribbeln, die Farben werden kräftiger, die Düfte intensiver."
+
 msgctxt "01228.name"
 msgid "Quisi's Favorite Snack"
 msgstr "Quisis Lieblingssnack"
+
+msgctxt "01228.traits"
+msgid "Food"
+msgstr "Nahrung"
 
 msgctxt "01228.text"
 msgid "<b>Exhaust (use 1 bite):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [SPI] in their energy pool."
@@ -1861,9 +2171,45 @@ msgctxt "01228.flavor"
 msgid "As you take a bite, you recall Quisi's endless joy and boundless curiosity, and you wonder in what corner of the Valley you might find her next."
 msgstr "Als du einen Bissen nimmst, denkst du an Quisis unendliche Freude und grenzenlose Neugier und fragst dich, in welcher Ecke des Tals du sie wohl als Nächstes treffen wirst."
 
+msgctxt "01229.name"
+msgid "Reward #29"
+msgstr "Erntekrone"
+
+msgctxt "01229.traits"
+msgid "TBA"
+msgstr "Ausstattung / Kleidung"
+
+msgctxt "01229.text"
+msgid "TBA"
+msgstr "<b>Erschöpfen:<\b> Wenn ein Ranger einen <b>Fühle<\b>-Test ausführt, der mit einem ¬Mensch interagiert, investiert dies 2 Mühe."
+
+msgctxt "01229.flavor"
+msgid "TBA"
+msgstr "Die Erntekrone ist ein Schmuckstück von großer Ehre und wird nur an diejenigen verliehen, die den Geist von Grünsees Erntefest verkörpern - eine jährliche Tradition, die von allen geschätzt wird."
+
+msgctxt "01230.name"
+msgid "Reward #30"
+msgstr "Alles ist verwoben"
+
+msgctxt "01230.traits"
+msgid "TBA"
+msgstr "Moment / Weisheit"
+
+msgctxt "01230.text"
+msgid "TBA"
+msgstr "Jeder Ranger lindert alle Müdigkeit."
+
+msgctxt "01230.flavor"
+msgid "TBA"
+msgstr "Du schließt deine Augen und dankst dem Geist der Erde und den Geistern aller, die in ihrer nährenden Umarmung wohnen. Du fühlst Ruhe und Sinn, weil du weißt, dass deine Verbindung zu allem Leben ewig ist - ein Band, das selbst der Tod nicht zerreißen kann."
+
 msgctxt "01231.name"
 msgid "Ranger Badge"
 msgstr "Rangerabzeichen"
+
+msgctxt "01231.traits"
+msgid "Clothing / Aid"
+msgstr "Kleidung / Hilfe"
 
 msgctxt "01231.text"
 msgid ""
@@ -1880,6 +2226,10 @@ msgstr "Calypsas Ausbildung und ihr Vertrauen in deine Fähigkeiten haben dir ge
 msgctxt "01240.name"
 msgid "Lingering Injury"
 msgstr "Anhaltende Verletzung"
+
+msgctxt "01240.traits"
+msgid "Malady"
+msgstr "Schwächung"
 
 msgctxt "01240.text"
 msgid ""

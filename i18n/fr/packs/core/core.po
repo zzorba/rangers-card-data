@@ -1613,6 +1613,34 @@ msgctxt "01108.flavor"
 msgid "You open your heart and feel your consciousness settle into your chest. A great warmth spreads within you as you let fall any armor that may unnecessarily hinder this, the truest of connections, oneself laid bare to another."
 msgstr ""
 
+msgctxt "01201.name"
+msgid "Reward #1"
+msgstr ""
+
+msgctxt "01201.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01201.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01201.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01202.name"
+msgid "Reward #2"
+msgstr ""
+
+msgctxt "01202.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01202.text"
+msgid "TBA"
+msgstr ""
+
 msgctxt "01203.name"
 msgid "Kordo's Instinct"
 msgstr ""
@@ -1641,6 +1669,94 @@ msgctxt "01204.text"
 msgid ""
 "<b>Exhaust (use X sketches):</b> Exhaust a path card with presence X.\n"
 "<b>[AWA] + [reason]: Sketch [X]</b> <f>your subject to</f> choose a path card and add X sketches to this book. X is equal to that card's presence."
+msgstr ""
+
+msgctxt "01205.name"
+msgid "Reward #5"
+msgstr ""
+
+msgctxt "01205.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01205.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01205.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01206.name"
+msgid "Reward #6"
+msgstr ""
+
+msgctxt "01206.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01206.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01206.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01207.name"
+msgid "Reward #7"
+msgstr ""
+
+msgctxt "01207.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01207.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01208.name"
+msgid "Reward #8"
+msgstr ""
+
+msgctxt "01208.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01208.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01208.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01209.name"
+msgid "Reward #9"
+msgstr ""
+
+msgctxt "01209.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01209.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01209.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01210.name"
+msgid "Reward #10"
+msgstr ""
+
+msgctxt "01210.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01210.text"
+msgid "TBA"
 msgstr ""
 
 msgctxt "01211.name"
@@ -1674,6 +1790,94 @@ msgctxt "01212.flavor"
 msgid "This blade looks like a small bolt of cloth, but when flicked a certain way, it instantly stiffens into a razor-sharp knife."
 msgstr ""
 
+msgctxt "01213.name"
+msgid "Reward #13"
+msgstr ""
+
+msgctxt "01213.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01213.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01214.name"
+msgid "Reward #14"
+msgstr ""
+
+msgctxt "01214.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01214.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01214.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01215.name"
+msgid "Reward #15"
+msgstr ""
+
+msgctxt "01215.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01215.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01216.name"
+msgid "Reward #16"
+msgstr ""
+
+msgctxt "01216.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01216.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01216.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01217.name"
+msgid "Reward #17"
+msgstr ""
+
+msgctxt "01217.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01217.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01217.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01218.name"
+msgid "Reward #18"
+msgstr ""
+
+msgctxt "01218.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01218.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01218.flavor"
+msgid "TBA"
+msgstr ""
+
 msgctxt "01219.name"
 msgid "Translocator"
 msgstr ""
@@ -1688,6 +1892,86 @@ msgstr ""
 
 msgctxt "01219.flavor"
 msgid "You found this strange piece of technology left behind by a being seemingly able to disappear into thin air. Perhaps it will grant you a similar ability."
+msgstr ""
+
+msgctxt "01220.name"
+msgid "Reward #20"
+msgstr ""
+
+msgctxt "01220.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01220.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01220.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01221.name"
+msgid "Reward #21"
+msgstr ""
+
+msgctxt "01221.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01221.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01221.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01222.name"
+msgid "Reward #22"
+msgstr ""
+
+msgctxt "01222.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01222.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01222.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01223.name"
+msgid "Reward #23"
+msgstr ""
+
+msgctxt "01223.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01223.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01223.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01224.name"
+msgid "Reward #24"
+msgstr ""
+
+msgctxt "01224.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01224.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01224.flavor"
+msgid "TBA"
 msgstr ""
 
 msgctxt "01225.name"
@@ -1722,6 +2006,22 @@ msgctxt "01226.flavor"
 msgid "The complex flavors of the stew blend perfectly--rich but not overpowering, fresh but hearty, warm and soothing yet light and effervescent."
 msgstr ""
 
+msgctxt "01227.name"
+msgid "Reward #27"
+msgstr ""
+
+msgctxt "01227.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01227.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01227.flavor"
+msgid "TBA"
+msgstr ""
+
 msgctxt "01228.name"
 msgid "Quisi's Favorite Snack"
 msgstr ""
@@ -1736,6 +2036,38 @@ msgstr ""
 
 msgctxt "01228.flavor"
 msgid "As you take a bite, you recall Quisi's endless joy and boundless curiosity, and you wonder in what corner of the Valley you might find her next."
+msgstr ""
+
+msgctxt "01229.name"
+msgid "Reward #29"
+msgstr ""
+
+msgctxt "01229.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01229.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01229.flavor"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01230.name"
+msgid "Reward #30"
+msgstr ""
+
+msgctxt "01230.traits"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01230.text"
+msgid "TBA"
+msgstr ""
+
+msgctxt "01230.flavor"
+msgid "TBA"
 msgstr ""
 
 msgctxt "01231.name"

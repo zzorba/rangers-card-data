@@ -268,3 +268,43 @@ msgstr "Meastria"
 msgctxt "xp.plurals"
 msgid "XP,XP"
 msgstr "Maestria,Maestrie"
+
+msgctxt "form.name"
+msgid "Form"
+msgstr ""
+
+msgctxt "form.plurals"
+msgid "Form,Forms"
+msgstr ""
+
+msgctxt "graph.name"
+msgid "Graph"
+msgstr ""
+
+msgctxt "graph.plurals"
+msgid "Graph,Graphs"
+msgstr ""
+
+msgctxt "rake.name"
+msgid "Rake"
+msgstr ""
+
+msgctxt "rake.plurals"
+msgid "Rake,Rakes"
+msgstr ""
+
+msgctxt "needle.name"
+msgid "Needle"
+msgstr ""
+
+msgctxt "needle.plurals"
+msgid "Needle,Needles"
+msgstr ""
+
+msgctxt "dollop.name"
+msgid "Dollop"
+msgstr ""
+
+msgctxt "dollop.plurals"
+msgid "Dollop,Dollops"
+msgstr ""
