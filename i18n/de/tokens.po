@@ -269,40 +269,40 @@ msgstr "XP,XP"
 
 msgctxt "form.name"
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 msgctxt "form.plurals"
 msgid "Form,Forms"
-msgstr ""
+msgstr "Form,Formen"
 
 msgctxt "graph.name"
 msgid "Graph"
-msgstr ""
+msgstr "Abbild"
 
 msgctxt "graph.plurals"
 msgid "Graph,Graphs"
-msgstr ""
+msgstr "Abbild,Abbilder"
 
 msgctxt "rake.name"
 msgid "Rake"
-msgstr ""
+msgstr "Schnitt"
 
 msgctxt "rake.plurals"
 msgid "Rake,Rakes"
-msgstr ""
+msgstr "Schnitt,Schnitte"
 
 msgctxt "needle.name"
 msgid "Needle"
-msgstr ""
+msgstr "Nadel"
 
 msgctxt "needle.plurals"
 msgid "Needle,Needles"
-msgstr ""
+msgstr "Nadel,Nadeln"
 
 msgctxt "dollop.name"
 msgid "Dollop"
-msgstr ""
+msgstr "Klecks"
 
 msgctxt "dollop.plurals"
 msgid "Dollop,Dollops"
-msgstr ""
+msgstr "Klecks,Kleckse"
