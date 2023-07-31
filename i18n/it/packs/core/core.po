@@ -2067,19 +2067,17 @@ msgstr ""
 
 msgctxt "01218.name"
 msgid "Reward #18"
-msgstr ""
+msgstr "Bussola Probabilistica"
 
 msgctxt "01218.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Strumento / Tecnologia / Estiano"
 
 msgctxt "01218.text"
 msgid "TBA"
 msgstr ""
-
-msgctxt "01218.flavor"
-msgid "TBA"
-msgstr ""
+"<b>Usa 1 ago:</b> Quando un ranger pesca una carta sfida durante una prova, scegli un modificatore su quella carta.\n"
+"Spendi 1 energia corrispondente all'aspetto di quel modificatore perché venga usato quel modificatore invece di quello che dovrebbe essere usato in quella prova."
 
 msgctxt "01220.name"
 msgid "Reward #20"

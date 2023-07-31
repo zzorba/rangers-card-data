@@ -295,11 +295,11 @@ msgstr ""
 
 msgctxt "needle.name"
 msgid "Needle"
-msgstr ""
+msgstr "Ago"
 
 msgctxt "needle.plurals"
 msgid "Needle,Needles"
-msgstr ""
+msgstr "Aghi"
 
 msgctxt "dollop.name"
 msgid "Dollop"
