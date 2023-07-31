@@ -1986,7 +1986,6 @@ msgstr ""
 
 msgctxt "01209.flavor"
 msgid "TBA"
-# TODO: Check double quotes
 msgstr "La grande lince si rivela, silenziosa come un'ombra. Il suo sguardo ti parla: \"Oggi non mi ciberò di te. Ma domani, chissà?\""
 
 msgctxt "01210.name"
