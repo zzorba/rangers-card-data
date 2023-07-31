@@ -1895,15 +1895,19 @@ msgstr ""
 
 msgctxt "01202.name"
 msgid "Reward #2"
-msgstr ""
+msgstr "Galleria dello Scuotiterra"
 
 msgctxt "01202.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Elemento / Sotterraneo"
 
 msgctxt "01202.text"
 msgid "TBA"
 msgstr ""
+"<b>[FOC] + [exploration]: Orientati</b> <f>nel tunnel tortuoso.</f>\n"
+"Sposta su questo Elemento il tuo [ranger].\n"
+"<b>Risposta</b>: Quando effettui una prova, se il tuo [ranger] si trova su questo Elemento, colloca 1[harm] su questo Elemento per schivare ogni carta nella stessa area.\n"
+"Completa [harm]: Se il tuo [ranger] si trova su questo Elemento, subisci 1 ferita."
 
 msgctxt "01205.name"
 msgid "Reward #5"
