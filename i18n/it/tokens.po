@@ -271,11 +271,11 @@ msgstr "Maestria,Maestrie"
 
 msgctxt "form.name"
 msgid "Form"
-msgstr ""
+msgstr "Forma"
 
 msgctxt "form.plurals"
 msgid "Form,Forms"
-msgstr ""
+msgstr "Forme"
 
 msgctxt "graph.name"
 msgid "Graph"
@@ -295,11 +295,11 @@ msgstr ""
 
 msgctxt "needle.name"
 msgid "Needle"
-msgstr ""
+msgstr "Ago"
 
 msgctxt "needle.plurals"
 msgid "Needle,Needles"
-msgstr ""
+msgstr "Aghi"
 
 msgctxt "dollop.name"
 msgid "Dollop"

@@ -1895,15 +1895,19 @@ msgstr ""
 
 msgctxt "01202.name"
 msgid "Reward #2"
-msgstr ""
+msgstr "Galleria dello Scuotiterra"
 
 msgctxt "01202.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Elemento / Sotterraneo"
 
 msgctxt "01202.text"
 msgid "TBA"
 msgstr ""
+"<b>[FOC] + [exploration]: Orientati</b> <f>nel tunnel tortuoso.</f>\n"
+"Sposta su questo Elemento il tuo [ranger].\n"
+"<b>Risposta</b>: Quando effettui una prova, se il tuo [ranger] si trova su questo Elemento, colloca 1[harm] su questo Elemento per schivare ogni carta nella stessa area.\n"
+"Completa [harm]: Se il tuo [ranger] si trova su questo Elemento, subisci 1 ferita."
 
 msgctxt "01205.name"
 msgid "Reward #5"
@@ -1923,19 +1927,20 @@ msgstr ""
 
 msgctxt "01206.name"
 msgid "Reward #6"
-msgstr ""
+msgstr "Scultura di Vetro Cinetico"
 
 msgctxt "01206.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Strumento / Tecnologia"
 
 msgctxt "01206.text"
 msgid "TBA"
 msgstr ""
+"<b>Esaurisci (usa 1 forma)</b>: Esaurisci e sposta un Essere."
 
 msgctxt "01206.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Questa scultura che scintilla al sole è un regalo di Tollin Lang. Minuscoli frammenti di vetro fluiscono e si fondono al suo interno, assumendo la forma sorprendente di un coniglio che, quasi per magia, inizia a correre e a saltare."
 
 msgctxt "01207.name"
 msgid "Reward #7"
@@ -1967,19 +1972,22 @@ msgstr ""
 
 msgctxt "01209.name"
 msgid "Reward #9"
-msgstr ""
+msgstr "Quiete"
 
 msgctxt "01209.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Essere / Compagno / Mammifero"
 
 msgctxt "01209.text"
 msgid "TBA"
 msgstr ""
+"Amichevole. Persistente. Unico.\n"
+"<b>Esaurisci:</b> Colloca 3[harm] su un Essere e colloca su <i>Quiete</i> un ammontare di [harm] pari alla presenza di quell'Essere."
 
 msgctxt "01209.flavor"
 msgid "TBA"
-msgstr ""
+# TODO: Check double quotes
+msgstr "La grande lince si rivela, silenziosa come un'ombra. Il suo sguardo ti parla: \"Oggi non mi ciberò di te. Ma domani, chissà?\""
 
 msgctxt "01210.name"
 msgid "Reward #10"
@@ -2067,19 +2075,17 @@ msgstr ""
 
 msgctxt "01218.name"
 msgid "Reward #18"
-msgstr ""
+msgstr "Bussola Probabilistica"
 
 msgctxt "01218.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Strumento / Tecnologia / Estiano"
 
 msgctxt "01218.text"
 msgid "TBA"
 msgstr ""
-
-msgctxt "01218.flavor"
-msgid "TBA"
-msgstr ""
+"<b>Usa 1 ago:</b> Quando un ranger pesca una carta sfida durante una prova, scegli un modificatore su quella carta.\n"
+"Spendi 1 energia corrispondente all'aspetto di quel modificatore perché venga usato quel modificatore invece di quello che dovrebbe essere usato in quella prova."
 
 msgctxt "01220.name"
 msgid "Reward #20"
