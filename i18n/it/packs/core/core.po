@@ -1899,7 +1899,7 @@ msgstr "Galleria dello Scuotiterra"
 
 msgctxt "01202.traits"
 msgid "TBA"
-msgstr "Elemento / Sotterraneo"
+msgstr "Sotterraneo"
 
 msgctxt "01202.text"
 msgid "TBA"
@@ -1931,7 +1931,7 @@ msgstr "Scultura di Vetro Cinetico"
 
 msgctxt "01206.traits"
 msgid "TBA"
-msgstr "Strumento / Tecnologia"
+msgstr "Tecnologia"
 
 msgctxt "01206.text"
 msgid "TBA"
@@ -1976,7 +1976,7 @@ msgstr "Quiete"
 
 msgctxt "01209.traits"
 msgid "TBA"
-msgstr "Essere / Compagno / Mammifero"
+msgstr "Compagno / Mammifero"
 
 msgctxt "01209.text"
 msgid "TBA"
@@ -2079,7 +2079,7 @@ msgstr "Bussola Probabilistica"
 
 msgctxt "01218.traits"
 msgid "TBA"
-msgstr "Strumento / Tecnologia / Estiano"
+msgstr "Tecnologia / Estiano"
 
 msgctxt "01218.text"
 msgid "TBA"
