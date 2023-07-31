@@ -1923,19 +1923,20 @@ msgstr ""
 
 msgctxt "01206.name"
 msgid "Reward #6"
-msgstr ""
+msgstr "Scultura di Vetro Cinetico"
 
 msgctxt "01206.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Strumento / Tecnologia"
 
 msgctxt "01206.text"
 msgid "TBA"
 msgstr ""
+"<b>Esaurisci (usa 1 forma)</b>: Esaurisci e sposta un Essere."
 
 msgctxt "01206.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Questa scultura che scintilla al sole è un regalo di Tollin Lang. Minuscoli frammenti di vetro fluiscono e si fondono al suo interno, assumendo la forma sorprendente di un coniglio che, quasi per magia, inizia a correre e a saltare."
 
 msgctxt "01207.name"
 msgid "Reward #7"
