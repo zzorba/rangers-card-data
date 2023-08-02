@@ -2088,19 +2088,15 @@ msgstr ""
 
 msgctxt "01220.name"
 msgid "Reward #20"
-msgstr ""
+msgstr "Intuizione di Silaro"
 
 msgctxt "01220.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Saggezza"
 
 msgctxt "01220.text"
 msgid "TBA"
-msgstr ""
-
-msgctxt "01220.flavor"
-msgid "TBA"
-msgstr ""
+msgstr "Perlustra 1 carta percorso, 1 carta sfida e 1 carta ranger da ogni mazzo ranger."
 
 msgctxt "01221.name"
 msgid "Reward #21"
