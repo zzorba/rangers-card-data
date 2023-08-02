@@ -275,7 +275,7 @@ msgstr "Forma"
 
 msgctxt "form.plurals"
 msgid "Form,Forms"
-msgstr "Forme"
+msgstr "Forma,Forme"
 
 msgctxt "graph.name"
 msgid "Graph"
@@ -299,7 +299,7 @@ msgstr "Ago"
 
 msgctxt "needle.plurals"
 msgid "Needle,Needles"
-msgstr "Aghi"
+msgstr "Ago,Aghi"
 
 msgctxt "dollop.name"
 msgid "Dollop"
