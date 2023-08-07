@@ -1969,7 +1969,7 @@ msgstr "Tecnologia / Estiano"
 
 msgctxt "01208.text"
 msgid "TBA"
-msgstr "<b>[AWA] + [reason] (usa 1 grafico): Calibra</b> il congegno sull’ambiente circostante. Perlustra un ammontare di carte percortso pari al risultato moltiplicato 2."
+msgstr "<b>[AWA] + [reason] (usa 1 grafico): Calibra</b> <f>il congegno sull’ambiente circostante.</f> Perlustra un ammontare di carte percortso pari al risultato moltiplicato 2."
 
 msgctxt "01208.flavor"
 msgid "TBA"
@@ -2048,7 +2048,7 @@ msgstr "Manifestazione / Natura"
 msgctxt "01215.text"
 msgid "TBA"
 msgstr ""
-"Manifestazione. <i>(Per giocare una Manifestazione, scarta 1 segnalino da un Canalizzatore.)</i>\n"
+"Manifestazione. <f>(per giocare una Manifestazione, scarta 1 segnalino da un Canalizzatore.)</f>\n"
 "Colloca 1[harm] su una Flora per collocare 4[harm] o 4[progress] su una carta percorso. Se quella carta è un Biofuso, aumenta di 2 il numero di [harm] o [progress] collocati su di essa.”"
 
 msgctxt "01216.name"
