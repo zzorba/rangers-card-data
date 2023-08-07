@@ -1879,19 +1879,21 @@ msgstr ""
 
 msgctxt "01201.name"
 msgid "Reward #1"
-msgstr ""
+msgstr "Manto della Lince"
 
 msgctxt "01201.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Vestiario"
 
 msgctxt "01201.text"
 msgid "TBA"
-msgstr ""
+msgstr "<b>Esaurisci:</b> Quando stai per subire almeno 1 fatica da una carta percorso, riduci a 0 le fatiche subite."
 
 msgctxt "01201.flavor"
 msgid "TBA"
 msgstr ""
+"Che questo mantello sia per te un monito: uccidere ha sempre delle conseguenze.\n"
+"Ciascuno di noi, grande o piccolo, non è che un filo nella trama dell’esistenza… un filo che non può essere reciso senza disfarla almeno in parte."
 
 msgctxt "01202.name"
 msgid "Reward #2"
@@ -1904,26 +1906,27 @@ msgstr "Sotterraneo"
 msgctxt "01202.text"
 msgid "TBA"
 msgstr ""
-"<b>[FOC] + [exploration]: Orientati</b> <f>nel tunnel tortuoso.</f>\n"
-"Sposta su questo Elemento il tuo [ranger].\n"
+"<b>[FOC] + [exploration]: Orientati</b> <f>nel tunnel tortuoso.</f> Sposta su questo Elemento il tuo [ranger].\n"
 "<b>Risposta</b>: Quando effettui una prova, se il tuo [ranger] si trova su questo Elemento, colloca 1[harm] su questo Elemento per schivare ogni carta nella stessa area.\n"
-"Completa [harm]: Se il tuo [ranger] si trova su questo Elemento, subisci 1 ferita."
+"<b>Completa [harm]:</b> Se il tuo [ranger] si trova su questo Elemento, subisci 1 ferita."
 
 msgctxt "01205.name"
 msgid "Reward #5"
-msgstr ""
+msgstr "Leggero Come una Piuma"
 
 msgctxt "01205.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Manifestazione"
 
 msgctxt "01205.text"
 msgid "TBA"
 msgstr ""
+"Manifestazione.\n"
+"Scegli un numero qualsiasi di carte percorso a portata e mescolale nel mazzo percorso, poi pesca 1 carta percorso."
 
 msgctxt "01205.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Ispirato dalla grazia con cui Dace si è lasciata cadere dal Precipizio, hai imparato a imbrigliare il vento per brevi distanze."
 
 msgctxt "01206.name"
 msgid "Reward #6"
@@ -1935,8 +1938,7 @@ msgstr "Tecnologia"
 
 msgctxt "01206.text"
 msgid "TBA"
-msgstr ""
-"<b>Esaurisci (usa 1 forma)</b>: Esaurisci e sposta un Essere."
+msgstr "<b>Esaurisci (usa 1 forma)</b>: Esaurisci e sposta un Essere."
 
 msgctxt "01206.flavor"
 msgid "TBA"
@@ -1944,31 +1946,34 @@ msgstr "Questa scultura che scintilla al sole è un regalo di Tollin Lang. Minus
 
 msgctxt "01207.name"
 msgid "Reward #7"
-msgstr ""
+msgstr "Muco del Rivendicatore"
 
 msgctxt "01207.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Natura"
 
 msgctxt "01207.text"
 msgid "TBA"
 msgstr ""
+"Assegna a una carta percorso.\n"
+"Riducete di 2 la presenza della carta percorso con questa Aggiunta.\n"
+"<b>Risposta:</b> Quando la carta percorso con questa Aggiunta affatica un ranger, colloca 1[harm] su di essa."
 
 msgctxt "01208.name"
 msgid "Reward #8"
-msgstr ""
+msgstr "Topografono"
 
 msgctxt "01208.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Tecnologia / Estiano"
 
 msgctxt "01208.text"
 msgid "TBA"
-msgstr ""
+msgstr "<b>[AWA] + [reason] (usa 1 grafico): Calibra</b> il congegno sull’ambiente circostante. Perlustra un ammontare di carte percortso pari al risultato moltiplicato 2."
 
 msgctxt "01208.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Questo misterioso esemplare di tecnologia estiana che hai ripescato dal Marese riesce a scansionare l’ambiente e a materializzarlo nel palmo della tua mano."
 
 msgctxt "01209.name"
 msgid "Reward #9"
@@ -1990,87 +1995,93 @@ msgstr "La grande lince si rivela, silenziosa come un'ombra. Il suo sguardo ti p
 
 msgctxt "01210.name"
 msgid "Reward #10"
-msgstr ""
+msgstr "Artiglio di Umbra"
 
 msgctxt "01210.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Arma"
 
 msgctxt "01210.text"
 msgid "TBA"
-msgstr ""
+msgstr "<b>[FIT] + [conflict] (usa 1 graffio): Squarcia [X]</b> <f>con l’artiglio di Umbra.</f> Colloca su un Essere un ammontare di [harm] pari al risultato. Se fallisci, subisci 1 ferita. X è pari alla presenza di quell’Essere. Non risolvere effetti ☘ durante questa prova."
 
 msgctxt "01213.name"
 msgid "Reward #13"
-msgstr ""
+msgstr "Canoa di Nerbofrasso"
 
 msgctxt "01213.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Veicolo"
 
 msgctxt "01213.text"
 msgid "TBA"
 msgstr ""
+"Preparazione.\n"
+"Potete viaggiare sui percorsi fiume.\n"
+"Mentre il tuo [ranger] si trova su questo Veicolo, considera diminuita di 1 la presenza di tutti gli Elementi Acqua e aumentata di 1 la presenza di tutti gli Elementi non Acqua.\n"
+"<b>[FIT] + [reason]: Imbarcati</b> <f>sulla canoa.</f> Sposta su questo Veicolo il tuo [ranger] o fallo tornare sul tuo Ruolo."
 
 msgctxt "01214.name"
 msgid "Reward #14"
-msgstr ""
+msgstr "La Tecnica Kasende"
 
 msgctxt "01214.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Talento / Arma"
 
 msgctxt "01214.text"
 msgid "TBA"
-msgstr ""
+msgstr "Se hai un’Arma equipaggiata, colloca 5[harm] su un Essere. Poi, per ogni [harm] su quell’Essere oltre la soglia di danno, subisci 1 fatica."
 
 msgctxt "01214.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Dopo aver osservato la precisione assoluta con cui Kasende si disfa dei vermi-idra, hai imparato a imitare le sue mosse alla perfezione."
 
 msgctxt "01215.name"
 msgid "Reward #15"
-msgstr ""
+msgstr "Tocco della Verdesia"
 
 msgctxt "01215.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Manifestazione / Natura"
 
 msgctxt "01215.text"
 msgid "TBA"
 msgstr ""
+"Manifestazione. <i>(Per giocare una Manifestazione, scarta 1 segnalino da un Canalizzatore.)</i>\n"
+"Colloca 1[harm] su una Flora per collocare 4[harm] o 4[progress] su una carta percorso. Se quella carta è un Biofuso, aumenta di 2 il numero di [harm] o [progress] collocati su di essa.”"
 
 msgctxt "01216.name"
 msgid "Reward #16"
-msgstr ""
+msgstr "Perseveranza di Tala"
 
 msgctxt "01216.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Talento"
 
 msgctxt "01216.text"
 msgid "TBA"
-msgstr ""
+msgstr "Colloca 3[progress] su un Sentiero. Se è una Montagna o un Ostacolo, aumenta di 2 il numero di [progress] collocati."
 
 msgctxt "01216.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Grazie alla tua gentilezza e compassione, dopo anni passati a vagare senza meta, Tala ha trovato una casa. In cambio del tuo aiuto, ha deciso di condividere con te le tecniche di arrampicata della sua gente."
 
 msgctxt "01217.name"
 msgid "Reward #17"
-msgstr ""
+msgstr "Minaccia di Umbra"
 
 msgctxt "01217.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Esperienza"
 
 msgctxt "01217.text"
 msgid "TBA"
-msgstr ""
+msgstr "Per ogni Essere, puoi decidere di spostarlo. Poi, risolvi un effetto sfida su un Essere a tua scelta. Risolvi questo effetto anche se quell’Essere è esaurito."
 
 msgctxt "01217.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Arrotoli la lingua e soffi, producendo un fischio squillante. Un attimo dopo, il cielo si oscura e tutti quanti fuggono terrorizzati. Umbra ha risposto alla tua chiamata."
 
 msgctxt "01218.name"
 msgid "Reward #18"
@@ -2100,112 +2111,114 @@ msgstr "Perlustra 1 carta percorso, 1 carta sfida e 1 carta ranger da ogni mazzo
 
 msgctxt "01221.name"
 msgid "Reward #21"
-msgstr ""
+msgstr "Affronta le Tue Paure"
 
 msgctxt "01221.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Esperienza"
 
 msgctxt "01221.text"
 msgid "TBA"
-msgstr ""
+msgstr "<b>Risposta:</b> Quando un ranger effettua una prova, vincola X impegno."
 
 msgctxt "01221.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Dopo aver trascorso una notte straziante in compagnia di Jaris sulla cima di Poggio Verderovo, senti che non c’è nulla che tu non possa fare. La paura è soltanto un’illusione: una finzione infondata, che il coraggio può facilmente dominare."
 
 msgctxt "01222.name"
 msgid "Reward #22"
-msgstr ""
+msgstr "Rilevatore di Biosegnali"
 
 msgctxt "01222.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Attrezzo / Tecnologia"
 
 msgctxt "01222.text"
 msgid "TBA"
 msgstr ""
+"Assegna a un Elemento.\n"
+"<b>Risposta:</b> Dopo che l’Elemento con questa Aggiunta è stato completato, perlustrate X carte percorso. X è pari al numero di Esseri in gioco."
 
 msgctxt "01222.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Il sensore si illumina con una serie di puntini di luce calda, che pulsa al ritmo del battito del cuore di ogni essere nelle vicinanze."
 
 msgctxt "01223.name"
 msgid "Reward #23"
-msgstr ""
+msgstr "Dendrorampicante"
 
 msgctxt "01223.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Natura"
 
 msgctxt "01223.text"
 msgid "TBA"
-msgstr ""
+msgstr "<b>Usa 1 impulso:</b> Quando riposi, perlustra 3 carte ranger."
 
 msgctxt "01223.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Questo “rampicante” che hai strappato dalle interiora del terravoro si può risvegliare col pensiero. Quando prende vita, ricopre la pelle con trame vegetali che potenziano abilità e doti naturali."
 
 msgctxt "01224.name"
 msgid "Reward #24"
-msgstr ""
+msgstr "Limpidezza della Sorgente"
 
 msgctxt "01224.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Esperienza"
 
 msgctxt "01224.text"
 msgid "TBA"
-msgstr ""
+msgstr "Cerca un numero qualsiasi di carte nel tuo mazzo ranger e mettile a faccia in giù in cima alla tua pila della fatica, nell’ordine che preferisci."
 
 msgctxt "01224.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Ricordare la visione della pozza luminosa che circonda la Stazione delle Sorgenti ti riempe dello stesso senso di chiarezza e rivelazione che hai provato quella volta."
 
 msgctxt "01227.name"
 msgid "Reward #27"
-msgstr ""
+msgstr "Miele del Filosofo"
 
 msgctxt "01227.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Cibo"
 
 msgctxt "01227.text"
 msgid "TBA"
-msgstr ""
+msgstr "<b>Esaurisci (usa 1 cucchiaio):</b> Scegli un ranger. Quel ranger allevia un ammontare di fatiche pari al numero di [FOC] nella sua riserva di energia."
 
 msgctxt "01227.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Ti basta un cucchiaio per sentirti il corpo pervaso da una sensazione rinfrancante. È come un pizzicore diffuso, che rende i colori più vibranti e gli odori più intensi."
 
 msgctxt "01229.name"
 msgid "Reward #29"
-msgstr ""
+msgstr "Corona del Raccolto"
 
 msgctxt "01229.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Vestiario"
 
 msgctxt "01229.text"
 msgid "TBA"
-msgstr ""
+msgstr "<b>Esaurisci:</b> Quando un ranger effettua una prova <b>Lega</b> che interagisce con un Umano, vincola 2 impegno."
 
 msgctxt "01229.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "La Corona è un onore riservato solamente a coloro che personificano lo spirito della Festa del Raccolto di Pascolo, una tradizione annuale che sta a cuore a tutti coloro che vi partecipano."
 
 msgctxt "01230.name"
 msgid "Reward #30"
-msgstr ""
+msgstr "Tutto È Collegato"
 
 msgctxt "01230.traits"
 msgid "TBA"
-msgstr ""
+msgstr "Saggezza"
 
 msgctxt "01230.text"
 msgid "TBA"
-msgstr ""
+msgstr "Ogni ranger allevia tutte le fatiche."
 
 msgctxt "01230.flavor"
 msgid "TBA"
-msgstr ""
+msgstr "Chiudi gli occhi e rendi grazie allo spirito della Terra, così come a tutti gli spiriti che si annidano sotto la sua coltre nutritiva. Senti un senso profondo di calma e determinazione, perché sai che il tuo nesso con la vita è un legame che nemmeno la morte può spezzare."

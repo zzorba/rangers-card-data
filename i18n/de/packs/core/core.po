@@ -1845,7 +1845,7 @@ msgstr "Ausstattung / High-Tech / Estisch"
 
 msgctxt "01208.text"
 msgid "TBA"
-msgstr "<b>[AWA] + [reason] (verwende 1 Abbild): Stelle<\b> <f>das Gerät auf deine Umgebung ein -<\f> für je 1 Leistung kundschafte 2 Pfadkarten."
+msgstr "<b>[AWA] + [reason] (verwende 1 Abbild): Stelle</b> <f>das Gerät auf deine Umgebung ein -</f> für je 1 Leistung kundschafte 2 Pfadkarten."
 
 msgctxt "01208.flavor"
 msgid "TBA"
@@ -1879,7 +1879,7 @@ msgstr "Ausstattung / Waffe"
 
 msgctxt "01210.text"
 msgid "TBA"
-msgstr "<b>[FIT] + [conflict] (verwende 1 Schnitt): Schlitze [X]</b> <f>das Wesen mit der Umbraklaue -<\f> lege Y[harm] auf 1 ¬Wesen (Y= Leistung; X= Präsenz des ¬Wesens). Schlägt der Test fehl? Erleide 1 Wunde. Bei dem Test werden keine [crest]-Effekte ausgelöst."
+msgstr "<b>[FIT] + [conflict] (verwende 1 Schnitt): Schlitze [X]</b> <f>das Wesen mit der Umbraklaue -</f> lege Y[harm] auf 1 ¬Wesen (Y= Leistung; X= Präsenz des ¬Wesens). Schlägt der Test fehl? Erleide 1 Wunde. Bei dem Test werden keine [crest]-Effekte ausgelöst."
 
 msgctxt "01211.name"
 msgid "Ar Tel's Vaulting Rod"
@@ -1928,7 +1928,7 @@ msgid "TBA"
 msgstr ""
 "Aufbau.\n"
 "Ihr dürft beim Reisen den Fluss verwenden.\n"
-"<b>Dein [ranger] hier:<\b> Die Präsenz von ¬Besonderheiten mit ¬Wasser ist um 1 reduziert. Die Präsenz aller anderen ¬Besonderheiten ist um 1 erhöht.\n"
+"<b>Dein [ranger] hier:</b> Die Präsenz von ¬Besonderheiten mit ¬Wasser ist um 1 reduziert. Die Präsenz aller anderen ¬Besonderheiten ist um 1 erhöht.\n"
 "<b>[FIT] + [reason]: Steige</b> <f>an Bord -</f> verlege dein [ranger] hier her oder zurück auf deine ¬Berufung."
 
 msgctxt "01214.name"
@@ -2051,7 +2051,7 @@ msgstr "Moment / Erfahrung"
 
 msgctxt "01221.text"
 msgid "TBA"
-msgstr "<b>Reaktion:<\b> Wenn ein Ranger einen Test ausführt, investiert dies X Mühe."
+msgstr "<b>Reaktion:</b> Wenn ein Ranger einen Test ausführt, investiert dies X Mühe."
 
 msgctxt "01221.flavor"
 msgid "TBA"
@@ -2069,7 +2069,7 @@ msgctxt "01222.text"
 msgid "TBA"
 msgstr ""
 "An eine ¬Besonderheit anhängen.\n"
-"<b>Reaktion:<\b> Nachdem die angehängte ¬Besonderheit erfüllt wurde, kundschafte X Pfadkarten (X= Anzahl ¬Wesen im Spiel)."
+"<b>Reaktion:</b> Nachdem die angehängte ¬Besonderheit erfüllt wurde, kundschafte X Pfadkarten (X= Anzahl ¬Wesen im Spiel)."
 
 msgctxt "01222.flavor"
 msgid "TBA"
@@ -2085,7 +2085,7 @@ msgstr "Ausstattung / Natur"
 
 msgctxt "01223.text"
 msgid "TBA"
-msgstr "<b>Verwende 1 Puls:<\b> Wenn du rastet, kundschafte 3 Rangerkarten."
+msgstr "<b>Verwende 1 Puls:</b> Wenn du rastet, kundschafte 3 Rangerkarten."
 
 msgctxt "01223.flavor"
 msgid "TBA"
@@ -2149,7 +2149,7 @@ msgstr "Ausstattung / Nahrung"
 
 msgctxt "01227.text"
 msgid "TBA"
-msgstr "<b>Erschöpfen (verwende 1 Klecks):<\b> Wähle 1 Ranger. Dieser Ranger lindert X Müdigkeit (X= seine aktuelle [FOC]-Energie)."
+msgstr "<b>Erschöpfen (verwende 1 Klecks):</b> Wähle 1 Ranger. Dieser Ranger lindert X Müdigkeit (X= seine aktuelle [FOC]-Energie)."
 
 msgctxt "01227.flavor"
 msgid "TBA"
@@ -2181,7 +2181,7 @@ msgstr "Ausstattung / Kleidung"
 
 msgctxt "01229.text"
 msgid "TBA"
-msgstr "<b>Erschöpfen:<\b> Wenn ein Ranger einen <b>Fühle<\b>-Test ausführt, der mit einem ¬Mensch interagiert, investiert dies 2 Mühe."
+msgstr "<b>Erschöpfen:</b> Wenn ein Ranger einen <b>Fühle</b>-Test ausführt, der mit einem ¬Mensch interagiert, investiert dies 2 Mühe."
 
 msgctxt "01229.flavor"
 msgid "TBA"
