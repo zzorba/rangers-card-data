@@ -88,3 +88,11 @@ msgstr "Crepaccio"
 msgctxt "river.name"
 msgid "River"
 msgstr "Fiume"
+
+msgctxt "the_valley.name"
+msgid "The Valley"
+msgstr ""
+
+msgctxt "general.name"
+msgid "General"
+msgstr ""

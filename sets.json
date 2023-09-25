@@ -109,5 +109,17 @@
     "name": "River",
     "type_id": "terrain",
     "size": 5
+  },
+  {
+    "id": "the_valley",
+    "name": "The Valley",
+    "type_id": "terrain",
+    "size": 5
+  },
+  {
+    "id": "general",
+    "name": "General",
+    "type_id": "terrain",
+    "size": 5
   }
 ]

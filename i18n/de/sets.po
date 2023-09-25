@@ -88,3 +88,11 @@ msgstr "Schlucht"
 msgctxt "river.name"
 msgid "River"
 msgstr "Fluss"
+
+msgctxt "the_valley.name"
+msgid "The Valley"
+msgstr ""
+
+msgctxt "general.name"
+msgid "General"
+msgstr ""

@@ -325,7 +325,7 @@ msgstr ""
 msgctxt "01020.text"
 msgid ""
 "Friendly. Persistent. Unique.\n"
-"<b>Exhaust:</b> Add 1[harm] to a being within reach.\n"
+"<b>Exhaust:</b> Add 1[harm] to a being in the same areaas this companion.\n"
 "[AWA] + [reason]<b>: Survey</b> <f>the way ahead to</f> scout path cards equal to your effort, then draw 1 path card."
 msgstr ""
 
@@ -1614,31 +1614,34 @@ msgid "You open your heart and feel your consciousness settle into your chest. A
 msgstr ""
 
 msgctxt "01201.name"
-msgid "Reward #1"
+msgid "Lynx Fur Cloak"
 msgstr ""
 
 msgctxt "01201.traits"
-msgid "TBA"
+msgid "Clothing"
 msgstr ""
 
 msgctxt "01201.text"
-msgid "TBA"
+msgid "<b>Exhaust:</b> When you would suffer 1 or more fatigue from a path card, reduce the amount of fatigue suffered to 0."
 msgstr ""
 
 msgctxt "01201.flavor"
-msgid "TBA"
+msgid "Let this cloak serve as a reminder that no life can be taken without consequence. Each of us, great and small, are woven into the tapestry of existence, and no thread may be pulled without harm being done."
 msgstr ""
 
 msgctxt "01202.name"
-msgid "Reward #2"
+msgid "Scuttler Tunnel"
 msgstr ""
 
 msgctxt "01202.traits"
-msgid "TBA"
+msgid "Underground"
 msgstr ""
 
 msgctxt "01202.text"
-msgid "TBA"
+msgid ""
+"<b>[FOC] + [EXL]: Navigate</b> <f>the winding tunnel to</f> move your [ranger] to this feature.\n"
+"<b>Response:</b> When you perform a test, if your [ranger] is on this feature, add 1[harm] to it to dodge each card in the same area.\n"
+"<b>Clear [harm]:</b> If your [ranger]is on this feature, suffer 1 injury."
 msgstr ""
 
 msgctxt "01203.name"
@@ -1672,91 +1675,98 @@ msgid ""
 msgstr ""
 
 msgctxt "01205.name"
-msgid "Reward #5"
+msgid "Light As a Feather"
 msgstr ""
 
 msgctxt "01205.traits"
-msgid "TBA"
+msgid "Manifestation"
 msgstr ""
 
 msgctxt "01205.text"
-msgid "TBA"
+msgid ""
+"Manifestation.\n"
+"Choose any number of path cards within reach and shuffle them into the path deck, then draw 1 path card."
 msgstr ""
 
 msgctxt "01205.flavor"
-msgid "TBA"
+msgid "Inspired by Dace's fall from the Plummet, you've learned to briefly harness the wind, allowing it to carry you short distances."
 msgstr ""
 
 msgctxt "01206.name"
-msgid "Reward #6"
+msgid "Kinetic Glass Sculpture"
 msgstr ""
 
 msgctxt "01206.traits"
-msgid "TBA"
+msgid "Tech"
 msgstr ""
 
 msgctxt "01206.text"
-msgid "TBA"
+msgid "<b>Exhaust (use 1 form):</b> Exhaust and move a being."
 msgstr ""
 
 msgctxt "01206.flavor"
-msgid "TBA"
+msgid "A gift from Tollin Lang, the sculpture glitters in the sunlight. Tiny shards of glass flow and coalesce as it takes the shape of an rabbit that begins to run and leap about. It's astonishingly lifelike."
 msgstr ""
 
 msgctxt "01207.name"
-msgid "Reward #7"
+msgid "Reclaimer Mucus"
 msgstr ""
 
 msgctxt "01207.traits"
-msgid "TBA"
+msgid "Nature"
 msgstr ""
 
 msgctxt "01207.text"
-msgid "TBA"
+msgid ""
+"Attach to a path card.\n"
+"Reduce the attached card's presence by 2.\n"
+"<b>Response:</b> When the attached card fatigues a Ranger, add 1[harm] to it."
 msgstr ""
 
 msgctxt "01208.name"
-msgid "Reward #8"
+msgid "Topographone"
 msgstr ""
 
 msgctxt "01208.traits"
-msgid "TBA"
+msgid "Tech / Estian"
 msgstr ""
 
 msgctxt "01208.text"
-msgid "TBA"
+msgid "<b>[AWA] + [reason] (use 1 graph): Calibrate</b> <f>the device to your current environment to</f> scout 2 path cards for every effort."
 msgstr ""
 
 msgctxt "01208.flavor"
-msgid "TBA"
+msgid "Recovered from a crumbling ruin in the Marsh of Rebirth, this mysterious piece of Estian technology somehow scans the nearby environment and brings it to life in the palm of your hand."
 msgstr ""
 
 msgctxt "01209.name"
-msgid "Reward #9"
+msgid "Quiet"
 msgstr ""
 
 msgctxt "01209.traits"
-msgid "TBA"
+msgid "Companion / Mammal"
 msgstr ""
 
 msgctxt "01209.text"
-msgid "TBA"
+msgid ""
+"Friendly. Persistent.\n"
+"<b>Exhaust:</b> Add 3[harm] to a being and [harm] to Quiet equal to that being's presence."
 msgstr ""
 
 msgctxt "01209.flavor"
-msgid "TBA"
+msgid "The great lynx emerges from the undergrowth, silent as a shadow. She looks at you as if to say, \"Today, I will not eat you. Tomorrow, however, is another day.\""
 msgstr ""
 
 msgctxt "01210.name"
-msgid "Reward #10"
+msgid "Umbral Claw"
 msgstr ""
 
 msgctxt "01210.traits"
-msgid "TBA"
+msgid "Weapon"
 msgstr ""
 
 msgctxt "01210.text"
-msgid "TBA"
+msgid "<b>[FIT] + [conflict] (use 1 rake): Slash [X]</b> <f>with Umbra's claw to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence. Do not resolve [crest] effects during this test."
 msgstr ""
 
 msgctxt "01211.name"
@@ -1791,91 +1801,97 @@ msgid "This blade looks like a small bolt of cloth, but when flicked a certain w
 msgstr ""
 
 msgctxt "01213.name"
-msgid "Reward #13"
+msgid "Dolewood Canoe"
 msgstr ""
 
 msgctxt "01213.traits"
-msgid "TBA"
+msgid "Vehicle"
 msgstr ""
 
 msgctxt "01213.text"
-msgid "TBA"
+msgid ""
+"Setup.\n"
+"You may travel on river paths.\n"
+"While your [ranger] is on this vehicle, treat the presence of all water features as 1 lower and the presence of all non-water features as 1 higher.\n"
+"<b>[FIT] + [reason]: Board</b> <f>the boat to</f> move your [ranger] to this vehicle or return it to your role."
 msgstr ""
 
 msgctxt "01214.name"
-msgid "Reward #14"
+msgid "The Kasende Technique"
 msgstr ""
 
 msgctxt "01214.traits"
-msgid "TBA"
+msgid "Skill / Weapon"
 msgstr ""
 
 msgctxt "01214.text"
-msgid "TBA"
+msgid "If you have a weapon equipped, add 5 [harm] to a being. Then suffer fatigue equal to the number of [harm] on that being in excess of its harm threshold."
 msgstr ""
 
 msgctxt "01214.flavor"
-msgid "TBA"
+msgid "After observing the precision with which Kasende dispatches hydraworms, you've learned to apply a similar measure of force when the need arises."
 msgstr ""
 
 msgctxt "01215.name"
-msgid "Reward #15"
+msgid "Touch of the Verdessa"
 msgstr ""
 
 msgctxt "01215.traits"
-msgid "TBA"
+msgid "Manifestation / Nature"
 msgstr ""
 
 msgctxt "01215.text"
-msgid "TBA"
+msgid ""
+"Manifestation. (To play a manifestation, discard 1 token from a conduit.)\n"
+"Add 1 [harm] to a flora to add 4 [harm] or 4[progress] to a path card. If that path card is a biomeld, increase the number of [harm] or [progress] added to it by 2."
 msgstr ""
 
 msgctxt "01216.name"
-msgid "Reward #16"
+msgid "Tala's Perseverance"
 msgstr ""
 
 msgctxt "01216.traits"
-msgid "TBA"
+msgid "Skill"
 msgstr ""
 
 msgctxt "01216.text"
-msgid "TBA"
+msgid "Add 3[progress] to a trail. If it's a mountain or obstacle, increase the number of [progress] added by 2."
 msgstr ""
 
 msgctxt "01216.flavor"
-msgid "TBA"
+msgid "Thanks to you, Tala has found a home after years of wandering in exile. In exchange, she shared with you the climbing techniques employed by her people."
 msgstr ""
 
 msgctxt "01217.name"
-msgid "Reward #17"
+msgid "Umbra's Shadow"
 msgstr ""
 
 msgctxt "01217.traits"
-msgid "TBA"
+msgid "Experience"
 msgstr ""
 
 msgctxt "01217.text"
-msgid "TBA"
+msgid "You may move each being. Then resolve a challenge effect on a being of your choice. Resolve this effect even if the being is exhausted."
 msgstr ""
 
 msgctxt "01217.flavor"
-msgid "TBA"
+msgid "You curl your tongue and let loose a clarion whistle. Within moments, Umbra appears in the sky, and all below flee before her shadow."
 msgstr ""
 
 msgctxt "01218.name"
-msgid "Reward #18"
+msgid "Probability Compass"
 msgstr ""
 
 msgctxt "01218.traits"
-msgid "TBA"
+msgid "Tech / Estian"
 msgstr ""
 
 msgctxt "01218.text"
-msgid "TBA"
+msgid "<b>Use 1 needles:</b> When a Ranger reveals a challenge card during a test, choose a modifier from that card. Spend 1 energy matching that modifier's aspect to use it for this test instead."
 msgstr ""
 
 msgctxt "01218.flavor"
-msgid "TBA"
+msgid "Silaro's gift for your hours spent delving into the darkened ruins of the Estian Arcology Complex."
 msgstr ""
 
 msgctxt "01219.name"
@@ -1895,83 +1911,85 @@ msgid "You found this strange piece of technology left behind by a being seeming
 msgstr ""
 
 msgctxt "01220.name"
-msgid "Reward #20"
+msgid "Silaro's Insight"
 msgstr ""
 
 msgctxt "01220.traits"
-msgid "TBA"
+msgid "Wisdom"
 msgstr ""
 
 msgctxt "01220.text"
-msgid "TBA"
+msgid "Scout 1 path card,1 challenge card, and 1 Ranger card from each Ranger's deck."
 msgstr ""
 
 msgctxt "01220.flavor"
-msgid "TBA"
+msgid "After your many encounters with the archaeologist, Silaro Mako, you've come to understand more of the deep, complicated history of the Valley, and the role the Estians' played in its evolution."
 msgstr ""
 
 msgctxt "01221.name"
-msgid "Reward #21"
+msgid "Face Your Fears"
 msgstr ""
 
 msgctxt "01221.traits"
-msgid "TBA"
+msgid "Experience"
 msgstr ""
 
 msgctxt "01221.text"
-msgid "TBA"
+msgid "<b>Response:</b> When a Ranger performs a test, commit X effort."
 msgstr ""
 
 msgctxt "01221.flavor"
-msgid "TBA"
+msgid "After spending a harrowing night with Jaris atop Greenbriar Knoll, you feel there is nothing you can't do. Fear is but a construct of the mind, a fiction with precious little basis in fact, that courage may swiftly overcome."
 msgstr ""
 
 msgctxt "01222.name"
-msgid "Reward #22"
+msgid "Biosign Sensor"
 msgstr ""
 
 msgctxt "01222.traits"
-msgid "TBA"
+msgid "Tool / Tech"
 msgstr ""
 
 msgctxt "01222.text"
-msgid "TBA"
+msgid ""
+"Attach to a feature.\n"
+"<b>Response:</b> After the attached feature is cleared, scout X path cards. X is equal to the number of beings in play."
 msgstr ""
 
 msgctxt "01222.flavor"
-msgid "TBA"
+msgid "The sensor blinks with warms dots of light, pulsing with the heartbeat of each nearby being."
 msgstr ""
 
 msgctxt "01223.name"
-msgid "Reward #23"
+msgid "Dendritic Vine"
 msgstr ""
 
 msgctxt "01223.traits"
-msgid "TBA"
+msgid "Nature"
 msgstr ""
 
 msgctxt "01223.text"
-msgid "TBA"
+msgid "<b>Use 1 pulse:</b> When you rest, scout 3 Ranger cards."
 msgstr ""
 
 msgctxt "01223.flavor"
-msgid "TBA"
+msgid "Plucked from within the terravore, this \"vine\" comes to life with a thought, sending branching growths over the surface of your skin, somehow enhancing your natural abilities."
 msgstr ""
 
 msgctxt "01224.name"
-msgid "Reward #24"
+msgid "Clarity of the Headwaters"
 msgstr ""
 
 msgctxt "01224.traits"
-msgid "TBA"
+msgid "Experience"
 msgstr ""
 
 msgctxt "01224.text"
-msgid "TBA"
+msgid "Search your Ranger deck for any number of cards and place them facedown on top of your fatigue stack in the order of your choice."
 msgstr ""
 
 msgctxt "01224.flavor"
-msgid "TBA"
+msgid "You recall your exploration of the starry pool surrounding Headwaters Station and are filled with the same sense of clarity you felt in that revelatory moment."
 msgstr ""
 
 msgctxt "01225.name"
@@ -2007,19 +2025,19 @@ msgid "The complex flavors of the stew blend perfectly--rich but not overpowerin
 msgstr ""
 
 msgctxt "01227.name"
-msgid "Reward #27"
+msgid "Philosopher's Honey"
 msgstr ""
 
 msgctxt "01227.traits"
-msgid "TBA"
+msgid "Food"
 msgstr ""
 
 msgctxt "01227.text"
-msgid "TBA"
+msgid "<b>Exhaust (use 1 dollop):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [FOC] in their energy pool."
 msgstr ""
 
 msgctxt "01227.flavor"
-msgid "TBA"
+msgid "The smallest taste sends a warming sensation throughout your body. Your senses tingle as colors become more vibrant, scents more fragrant."
 msgstr ""
 
 msgctxt "01228.name"
@@ -2039,35 +2057,35 @@ msgid "As you take a bite, you recall Quisi's endless joy and boundless curiosit
 msgstr ""
 
 msgctxt "01229.name"
-msgid "Reward #29"
+msgid "Harvest Crown"
 msgstr ""
 
 msgctxt "01229.traits"
-msgid "TBA"
+msgid "Clothing"
 msgstr ""
 
 msgctxt "01229.text"
-msgid "TBA"
+msgid "<b>Exhaust:</b> When a Ranger performs a <b>Connect</b> test that interacts with a human, commit 2 effort."
 msgstr ""
 
 msgctxt "01229.flavor"
-msgid "TBA"
+msgid "An adornment of great honor, the harvest crown is rewarded only to those who embody the spirit of Meadow Harvest Festival, an annual tradition cherished by all those who attend."
 msgstr ""
 
 msgctxt "01230.name"
-msgid "Reward #30"
+msgid "Connectedness of All Things"
 msgstr ""
 
 msgctxt "01230.traits"
-msgid "TBA"
+msgid "Wisdom"
 msgstr ""
 
 msgctxt "01230.text"
-msgid "TBA"
+msgid "Each Ranger soothes all fatigue."
 msgstr ""
 
 msgctxt "01230.flavor"
-msgid "TBA"
+msgid "You close your eyes and give thanks to the spirit of the Earth, and to the spirits of all who dwell within her nurturing embrace. You feel a deep sense of calm and of purpose, knowing that your connection to all life is eternal, a bond that even death cannot break."
 msgstr ""
 
 msgctxt "01231.name"
