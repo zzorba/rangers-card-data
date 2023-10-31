@@ -376,7 +376,7 @@
     "harm": 1,
     "type_id": "being",
     "traits": "Companion / Avian",
-    "text": "Friendly. Persistent. Unique.\n<b>Exhaust:</b> Add 1[harm] to a being in the same areaas this companion.\n[AWA] + [reason]<b>: Survey</b> <f>the way ahead to</f> scout path cards equal to your effort, then draw 1 path card.",
+    "text": "Friendly. Persistent. Unique.\n<b>Exhaust:</b> Add 1[harm] to a being in the same area as this companion.\n[AWA] + [reason]<b>: Survey</b> <f>the way ahead to</f> scout path cards equal to your effort, then draw 1 path card.",
     "approach_exploration": 1,
     "illustrator": "Chris Beck"
   },
@@ -431,7 +431,7 @@
     "name": "Paratrepsis Whistle",
     "type_id": "gear",
     "traits": "Tool / Aid",
-    "text": "<b>Exhaust (use 1 call):</b> When a Ranger would suffer an injury by a predator or [harm] would be added to a being, cancel that effect.",
+    "text": "<b>Exhaust (use 1 call):</b> When a Ranger would suffer an injury from a predator or [harm] would be added to a being by a predator, cancel that effect.",
     "approach_conflict": 1,
     "token_id": "call",
     "token_count": 3,

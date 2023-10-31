@@ -388,7 +388,7 @@ msgid "Tool / Aid"
 msgstr "Attrezzo / Sostegno"
 
 msgctxt "01023.text"
-msgid "<b>Exhaust (use 1 call):</b> When a Ranger would suffer an injury by a predator or [harm] would be added to a being, cancel that effect."
+msgid "<b>Exhaust (use 1 call):</b> When a Ranger would suffer an injury from a predator or [harm] would be added to a being by a predator, cancel that effect."
 msgstr "<b>Esaurisci (usa 1 richiamo):</b> Quando un ranger sta per subire almeno 1 ferita da un Predatore o almeno 1[harm] sta per essere collocato su un Essere da un Predatore, annulla quell’effetto."
 
 msgctxt "01023.flavor"
@@ -2248,7 +2248,7 @@ msgstr "<OMIT>"
 msgctxt "01020.text"
 msgid ""
 "Friendly. Persistent. Unique.\n"
-"<b>Exhaust:</b> Add 1[harm] to a being in the same areaas this companion.\n"
+"<b>Exhaust:</b> Add 1[harm] to a being in the same area as this companion.\n"
 "[AWA] + [reason]<b>: Survey</b> <f>the way ahead to</f> scout path cards equal to your effort, then draw 1 path card."
 msgstr ""
 

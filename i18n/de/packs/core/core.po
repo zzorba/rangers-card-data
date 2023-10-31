@@ -323,7 +323,7 @@ msgid "Tool / Aid"
 msgstr "Gerät / Hilfe"
 
 msgctxt "01023.text"
-msgid "<b>Exhaust (use 1 call):</b> When a Ranger would suffer an injury by a predator or [harm] would be added to a being, cancel that effect."
+msgid "<b>Exhaust (use 1 call):</b> When a Ranger would suffer an injury from a predator or [harm] would be added to a being by a predator, cancel that effect."
 msgstr "<b>Erschöpfen (verwende 1 Pfiff):</b> Wenn ein Ranger von einem ¬Raubtier 1+ Wunden erleiden würde, oder das ¬Raubtier 1+[harm] auf 1 ¬Wesen legen würde, ignoriere das stattdessen."
 
 msgctxt "01024.name"
@@ -2267,6 +2267,6 @@ msgstr "Schon ein kleiner Tropfen sorgt für ein wärmendes Gefühl in deinem K�
 msgctxt "01020.text"
 msgid ""
 "Friendly. Persistent. Unique.\n"
-"<b>Exhaust:</b> Add 1[harm] to a being in the same areaas this companion.\n"
+"<b>Exhaust:</b> Add 1[harm] to a being in the same area as this companion.\n"
 "[AWA] + [reason]<b>: Survey</b> <f>the way ahead to</f> scout path cards equal to your effort, then draw 1 path card."
 msgstr ""
