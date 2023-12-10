@@ -2019,7 +2019,7 @@
     "text": "Search the path deck for a card and place it on top or bottom of the deck.",
     "flavor": "Kordo has imparted to you the wisdom of his years in the wilderness, tracking predators and dangerous biomelds in the name of protecting the balance of nature and the lives of the people he loves.",
     "approach_connection": 1,
-    "approach_reason": 2,
+    "approach_conflict": 2,
     "spoiler": true
   },
   {
@@ -2144,7 +2144,7 @@
     "illustrator": "Chris Beck",
     "type_id": "being",
     "traits": "Companion / Mammal",
-    "text": "Friendly. Persistent.\n<b>Exhaust:</b> Add 3[harm] to a being and [harm] to Quiet equal to that being's presence.",
+    "text": "Friendly. Persistent. Unique.\n<b>Exhaust:</b> Add 3[harm] to a being and [harm] to Quiet equal to that being's presence.",
     "flavor": "The great lynx emerges from the undergrowth, silent as a shadow. She looks at you as if to say, \"Today, I will not eat you. Tomorrow, however, is another day.\"",
     "presence": 2,
     "harm": 3,

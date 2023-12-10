@@ -1869,7 +1869,7 @@ msgstr "Begleiter / Säugetier"
 
 msgctxt "01209.text"
 msgid ""
-"Friendly. Persistent.\n"
+"Friendly. Persistent. Unique.\n"
 "<b>Exhaust:</b> Add 3[harm] to a being and [harm] to Quiet equal to that being's presence."
 msgstr ""
 "Freundlich. Bleibend.\n"

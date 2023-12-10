@@ -1989,7 +1989,7 @@ msgstr "Compagno / Mammifero"
 
 msgctxt "01209.text"
 msgid ""
-"Friendly. Persistent.\n"
+"Friendly. Persistent. Unique.\n"
 "<b>Exhaust:</b> Add 3[harm] to a being and [harm] to Quiet equal to that being's presence."
 msgstr ""
 "Amichevole. Persistente. Unico.\n"
