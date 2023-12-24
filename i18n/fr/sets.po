@@ -13,84 +13,84 @@ msgstr ""
 
 msgctxt "artisan.name"
 msgid "Artisan"
-msgstr ""
+msgstr "Artisan"
 
 msgctxt "forager.name"
 msgid "Forager"
-msgstr ""
+msgstr "Cueilleur"
 
 msgctxt "shepherd.name"
 msgid "Shepherd"
-msgstr ""
+msgstr "Berger"
 
 msgctxt "traveler.name"
 msgid "Traveler"
-msgstr ""
+msgstr "Voyageur"
 
 msgctxt "artificer.name"
 msgid "Artificer"
-msgstr ""
+msgstr "Artificier"
 
 msgctxt "conciliator.name"
 msgid "Conciliator"
-msgstr ""
+msgstr "Conciliateur"
 
 msgctxt "shaper.name"
 msgid "Shaper"
-msgstr ""
+msgstr "Façonneur"
 
 msgctxt "explorer.name"
 msgid "Explorer"
-msgstr ""
+msgstr "Explorateur"
 
 msgctxt "personality.name"
 msgid "Personality"
-msgstr ""
+msgstr "Personnalité"
 
 msgctxt "reward.name"
 msgid "Reward"
-msgstr ""
+msgstr "Récompenses"
 
 msgctxt "malady.name"
 msgid "Malady"
-msgstr ""
+msgstr "Trauma"
 
 msgctxt "woods.name"
 msgid "Woods"
-msgstr ""
+msgstr "Fôret"
 
 msgctxt "lakeshore.name"
 msgid "Lakeshore"
-msgstr ""
+msgstr "Tourbière"
 
 msgctxt "mountain_pass.name"
 msgid "Mountain Pass"
-msgstr ""
+msgstr "Col"
 
 msgctxt "old_growth.name"
 msgid "Old-Growth"
-msgstr ""
+msgstr "Fôret Primaire"
 
 msgctxt "grassland.name"
 msgid "Grassland"
-msgstr ""
+msgstr "Steppe"
 
 msgctxt "swamp.name"
 msgid "Swamp"
-msgstr ""
+msgstr "Marécage"
 
 msgctxt "ravine.name"
 msgid "Ravine"
-msgstr ""
+msgstr "Ravin"
 
 msgctxt "river.name"
 msgid "River"
-msgstr ""
+msgstr "Rivière"
 
 msgctxt "the_valley.name"
 msgid "The Valley"
-msgstr ""
+msgstr "La Vallée"
 
 msgctxt "general.name"
 msgid "General"
-msgstr ""
+msgstr "Général"

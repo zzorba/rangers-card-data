@@ -13,12 +13,12 @@ msgstr ""
 
 msgctxt "background.name"
 msgid "Background"
-msgstr ""
+msgstr "Antécédent"
 
 msgctxt "specialty.name"
 msgid "Specialty"
-msgstr ""
+msgstr "Spécialisation"
 
 msgctxt "terrain.name"
 msgid "Terrain"
-msgstr ""
+msgstr "Terrain"

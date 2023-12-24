@@ -13,4 +13,4 @@ msgstr ""
 
 msgctxt "core.name"
 msgid "Core set"
-msgstr ""
+msgstr "Jeu de base"
