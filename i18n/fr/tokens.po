@@ -21,11 +21,11 @@ msgstr ""
 
 msgctxt "buffer.name"
 msgid "Buffer"
-msgstr ""
+msgstr "Accu"
 
 msgctxt "buffer.plurals"
 msgid "Buffer,Buffers"
-msgstr ""
+msgstr "Accu, Accus"
 
 msgctxt "call.name"
 msgid "Call"
@@ -37,11 +37,11 @@ msgstr ""
 
 msgctxt "charge.name"
 msgid "Charge"
-msgstr ""
+msgstr "Charge"
 
 msgctxt "charge.plurals"
 msgid "Charge,Charges"
-msgstr ""
+msgstr "Charge, Charges"
 
 msgctxt "herb.name"
 msgid "Herb"
@@ -117,19 +117,19 @@ msgstr ""
 
 msgctxt "morsel.name"
 msgid "Morsel"
-msgstr ""
+msgstr "Part"
 
 msgctxt "morsel.plurals"
 msgid "Morsel,Morsels"
-msgstr ""
+msgstr "Part,Parts"
 
 msgctxt "pocket.name"
-msgid "Pocker"
-msgstr ""
+msgid "Pocket"
+msgstr "Poche"
 
 msgctxt "pocket.plurals"
 msgid "Pocket,Pockets"
-msgstr ""
+msgstr "Poche, Poches"
 
 msgctxt "profile.name"
 msgid "Profile"

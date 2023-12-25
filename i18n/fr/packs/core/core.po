@@ -13,75 +13,75 @@ msgstr ""
 
 msgctxt "01001.name"
 msgid "Eagle Eye"
-msgstr ""
+msgstr "Regard Perçant"
 
 msgctxt "01001.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "01001.text"
 msgid "Scout 3 path cards, then draw 1 path card."
-msgstr ""
+msgstr "Obserez 3 cartes Chemin, puis piochez 1 carte Chemin."
 
 msgctxt "01001.flavor"
 msgid "When you were young, you and your father would climb the Mound of the Navigator and look over the Valley. From that high vantage, he taught you to see the subtlest movements and minute detail of the flora and fauna far below."
-msgstr ""
+msgstr "Quand vous étiez jeune, votre père et vous grimpiez sur le Piton du Navigateur et observiez la Vallée. De ce point de vue, il vous a appris à reconnaître les mouvements les plus subtils et les détails les plus infimes de la flore et de la faune en contrebas."
 
 msgctxt "01002.name"
 msgid "Paths We’ve Roamed Before"
-msgstr ""
+msgstr "Chemins Déjà Empruntés"
 
 msgctxt "01002.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01002.text"
 msgid "Choose up to 4 total moments or attributes from any number of Ranger discards. Place the chosen cards facedown on the top of their Ranger’s fatigue stack."
-msgstr ""
+msgstr "Choisissez jusqu'à 4 Instantanés ou Attributs parmi les défausses des Rangers. Placez face cachée les cartes choisies au sommet de la pile Fatigue de leur Ranger."
 
 msgctxt "01002.flavor"
 msgid "As you walk the Valley, you recall the wisdom gained during the seasonal wanderings of your youth."
-msgstr ""
+msgstr "En parcourant la Vallée, vous vous rappelez la sagesse acquise au cours des pérégrinations saisonnières de votre jeunesse."
 
 msgctxt "01003.name"
 msgid "Strider"
-msgstr ""
+msgstr "Marcheur"
 
 msgctxt "01003.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01003.text"
 msgid "You can only commit this attribute when interacting with a trail."
-msgstr ""
+msgstr "Vous ne pouvez engager cet Attribut que lors d'une interaction avec un Sentier."
 
 msgctxt "01003.flavor"
 msgid "From the day you took your first steps, you haven't stopped moving. Your heart yearns to scale distant peaks and wander untrodden vistas. You continually look toward the horizon, never content to sit still."
-msgstr ""
+msgstr "Depuis le jour où vous avez fait vos premiers pas, vous n'avez cessé de marcher. Votre coeur aspire à gravir des sommets lointains et à parcourir des étendues inexpolorées. Vous regardez continuellement vers l'horizon, incapable de rester en place."
 
 msgctxt "01004.name"
 msgid "Trail Mix"
-msgstr ""
+msgstr "Méli-mélo du Marcheur"
 
 msgctxt "01004.traits"
 msgid "Food / Aid"
-msgstr ""
+msgstr "Nourriture / Aide"
 
 msgctxt "01004.text"
 msgid "<b>Exhaust (use 1 morsel):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [FIT] in their energy pool."
-msgstr ""
+msgstr "<b>Épuisez (utiliser 1 part):</b> Choisissez un Ranger. Ce Ranger réduit sa Fatigue d'une valeur égale au nombre de [PHY] dans sa réserver d'énergie."
 
 msgctxt "01004.flavor"
 msgid "It's a delicious medley of cherry moss pemmican, marbled great beans, starpeas, almonds, and a few surprises."
-msgstr ""
+msgstr "C'est un délicieux mélange de pemmican aux mousses-cerises, de haricots vers marbrés, de caramboles, d'amandes et de quelques surprises."
 
 msgctxt "01006.name"
 msgid "Perfect Recall"
-msgstr ""
+msgstr "Souvenir Parfait"
 
 msgctxt "01006.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "01006.text"
 msgid ""
@@ -91,11 +91,11 @@ msgstr ""
 
 msgctxt "01005.name"
 msgid "Reverb Locket"
-msgstr ""
+msgstr "Médaillon de Réverbération"
 
 msgctxt "01005.traits"
 msgid "Tech / Expert"
-msgstr ""
+msgstr "Tech / Expert"
 
 msgctxt "01005.text"
 msgid ""
@@ -109,7 +109,7 @@ msgstr ""
 
 msgctxt "01007.traits"
 msgid "Tech / Tool"
-msgstr ""
+msgstr "Tech / "
 
 msgctxt "01007.text"
 msgid "<b>Exhaust (use 1 charge):</b> Spend 1 energy to gain 1 energy of any type."
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "01009.traits"
 msgid "Aid"
-msgstr ""
+msgstr "Aide"
 
 msgctxt "01009.text"
 msgid "[FOC] + [connection]<b> (use 1 session): Meditate</b> <f>on your journey</f> to shuffle a number of cards from your fatigue stack into your Ranger deck equal to your effort."
@@ -205,7 +205,7 @@ msgstr ""
 
 msgctxt "01015.traits"
 msgid "Experience / Weapon"
-msgstr ""
+msgstr "Expérience / "
 
 msgctxt "01015.text"
 msgid "Discard one of your equipped gear to add [harm] to a being equal to the number of tokens on the discarded gear."
@@ -239,7 +239,7 @@ msgstr ""
 
 msgctxt "01012.traits"
 msgid "Mod / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01012.text"
 msgid ""
@@ -254,7 +254,7 @@ msgstr ""
 
 msgctxt "01013.traits"
 msgid "Tool / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01013.text"
 msgid "<b>Exhaust (use 1 charge):</b> Choose a Ranger’s equipped gear. Resolve the chosen gear’s effect as if you had used a token from it and/or exhausted it."
@@ -288,7 +288,7 @@ msgstr ""
 
 msgctxt "01018.traits"
 msgid "Tech / Aid"
-msgstr ""
+msgstr " / Aide"
 
 msgctxt "01018.text"
 msgid "<b>Use X buffers:</b> When you perform a test, suffer X fewer fatigue from each card between you and the card with which you are interacting."
@@ -335,7 +335,7 @@ msgstr ""
 
 msgctxt "01021.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01021.text"
 msgid "Each Ranger may discard 1[progress] from a being within reach of them to move that being."
@@ -351,7 +351,7 @@ msgstr ""
 
 msgctxt "01022.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01022.text"
 msgid "Move all [progress] from a being to a feature."
@@ -367,7 +367,7 @@ msgstr ""
 
 msgctxt "01023.traits"
 msgid "Tool / Aid"
-msgstr ""
+msgstr "Outil / Aide"
 
 msgctxt "01023.text"
 msgid "<b>Exhaust (use 1 call):</b> When a Ranger would suffer an injury from a predator or [harm] would be added to a being by a predator, cancel that effect."
@@ -399,7 +399,7 @@ msgstr ""
 
 msgctxt "01025.traits"
 msgid "Skill / Aid"
-msgstr ""
+msgstr " / Aide"
 
 msgctxt "01025.text"
 msgid ""
@@ -418,7 +418,7 @@ msgstr ""
 
 msgctxt "01026.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "01026.text"
 msgid ""
@@ -462,7 +462,7 @@ msgstr ""
 
 msgctxt "01029.traits"
 msgid "Experience / Nature"
-msgstr ""
+msgstr "Expérience / "
 
 msgctxt "01029.text"
 msgid "<b>Response:</b> When a Ranger performs a test, they may add 1[harm] to a flora to dodge each being in the same area as that flora."
@@ -493,7 +493,7 @@ msgstr ""
 
 msgctxt "01031.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01031.text"
 msgid "Add 1 [harm] to a flora to add 3 [progress] to a trail."
@@ -541,7 +541,7 @@ msgstr ""
 
 msgctxt "01034.traits"
 msgid "Food"
-msgstr ""
+msgstr "Nourriture"
 
 msgctxt "01034.text"
 msgid ""
@@ -555,7 +555,7 @@ msgstr ""
 
 msgctxt "01035.traits"
 msgid "Experience / Nature"
-msgstr ""
+msgstr "Expérience / "
 
 msgctxt "01035.text"
 msgid "Each Ranger may add 1 [harm] to a flora to soothe 1 fatigue and gain 1 energy of any type. When you add [harm] to a flora in this way, you may not exceed its [harm] threshold."
@@ -571,7 +571,7 @@ msgstr ""
 
 msgctxt "01036.traits"
 msgid "Tool / Food"
-msgstr ""
+msgstr "Outil / Nourriture"
 
 msgctxt "01036.text"
 msgid ""
@@ -605,7 +605,7 @@ msgstr ""
 
 msgctxt "01039.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "01039.text"
 msgid "<b>Response:</b> When you Traverse, dodge up to 3 cards."
@@ -621,7 +621,7 @@ msgstr ""
 
 msgctxt "01040.traits"
 msgid "Clothing / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01040.text"
 msgid "<b>[AWA] + [reason] (use 1 drop): Clarify</b> <f>your view of the environment around you</f> to scout path cards equal to your effort, then draw 1 path card."
@@ -653,7 +653,7 @@ msgstr ""
 
 msgctxt "01042.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "01042.text"
 msgid "<b>Exhaust (use 1 sensor):</b> When a Ranger performs a <b>Traverse</b> test, commit 1 effort."
@@ -669,7 +669,7 @@ msgstr ""
 
 msgctxt "01043.traits"
 msgid "Tool / Tech / Weapon"
-msgstr ""
+msgstr " / Tech / "
 
 msgctxt "01043.text"
 msgid ""
@@ -683,7 +683,7 @@ msgstr ""
 
 msgctxt "01044.traits"
 msgid "Experience / Weapon"
-msgstr ""
+msgstr "Expérience / "
 
 msgctxt "01044.text"
 msgid "Discard any number of [progress] from a trail to add an equal number of [harm] to a being."
@@ -699,7 +699,7 @@ msgstr ""
 
 msgctxt "01045.traits"
 msgid "Clothing / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01045.text"
 msgid "<b>Exhaust:</b> When a Ranger scouts, increase the number of cards scouted by 1."
@@ -743,7 +743,7 @@ msgstr ""
 
 msgctxt "01048.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01048.text"
 msgid "<b>Response:</b> After you succeed at a <b>Traverse</b> test, add [progress] to a being equal to your effort. This is in addition to the test’s standard effect."
@@ -759,7 +759,7 @@ msgstr ""
 
 msgctxt "01049.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "01049.text"
 msgid "<b>Response:</b> When you perform a test, discard any number of cards from your fatigue stack to commit 1 effort to that test for every 2 cards discarded this way."
@@ -803,7 +803,7 @@ msgstr ""
 
 msgctxt "01053.traits"
 msgid "Book / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01053.text"
 msgid "<b>Exhaust (use 1 profile):</b> When a Ranger performs an Avoid test, commit 1 effort."
@@ -819,7 +819,7 @@ msgstr ""
 
 msgctxt "01054.traits"
 msgid "Tool / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01054.text"
 msgid ""
@@ -834,7 +834,7 @@ msgstr ""
 
 msgctxt "01055.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "01055.text"
 msgid ""
@@ -881,7 +881,7 @@ msgstr ""
 
 msgctxt "01058.traits"
 msgid "Tech / Weapon"
-msgstr ""
+msgstr "Tech / "
 
 msgctxt "01058.text"
 msgid "<b>[FOC] + [conflict] (use 1 dart): Shoot</b> <f>one of the featherlight darts to</f> add [harm] to a being equal to your effort. Whether you succeed or fail, dodge all cards between you and that being."
@@ -893,7 +893,7 @@ msgstr ""
 
 msgctxt "01059.traits"
 msgid "Tech / Tool"
-msgstr ""
+msgstr "Tech / "
 
 msgctxt "01059.text"
 msgid ""
@@ -907,7 +907,7 @@ msgstr ""
 
 msgctxt "01060.traits"
 msgid "Book / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01060.text"
 msgid ""
@@ -921,7 +921,7 @@ msgstr ""
 
 msgctxt "01061.traits"
 msgid "Tool / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01061.text"
 msgid "<b>Exhaust (use 1 charge):</b> When you perform a <b>Traverse</b> test, use [FOC] instead of [FIT]."
@@ -953,7 +953,7 @@ msgstr ""
 
 msgctxt "01063.traits"
 msgid "Clothing / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01063.text"
 msgid "<b>Use 1 charge:</b> When you would suffer 1 or more fatigue from a path card, reduce the fatigue suffered to 0."
@@ -969,7 +969,7 @@ msgstr ""
 
 msgctxt "01064.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01064.text"
 msgid "<b>Reponse:</b> When a Ranger would suffer 1 or more fatigue, they soothe that amount of fatigue instead."
@@ -1001,7 +1001,7 @@ msgstr ""
 
 msgctxt "01067.traits"
 msgid "Experience / Aid"
-msgstr ""
+msgstr "Expérience / Aide"
 
 msgctxt "01067.text"
 msgid ""
@@ -1015,7 +1015,7 @@ msgstr ""
 
 msgctxt "01068.traits"
 msgid "Aid"
-msgstr ""
+msgstr "Aide"
 
 msgctxt "01068.text"
 msgid ""
@@ -1049,7 +1049,7 @@ msgstr ""
 
 msgctxt "01070.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "01070.text"
 msgid "<b>Response:</b> After you succeed at a <b>Connect</b> test, add [progress] to a feature equal to your effort. This is in addition to the test’s standard effect."
@@ -1065,7 +1065,7 @@ msgstr ""
 
 msgctxt "01071.traits"
 msgid "Tech / Weapon"
-msgstr ""
+msgstr "Tech / "
 
 msgctxt "01071.text"
 msgid "<b>[FIT] + [conflict] (use 1 pulse): Strike [2]</b> <f>with a pulse of kinetic energy to</f> add 1[harm] to a being and exhaust it. If you fail, discard 1[progress] from that being; if you cannot, it fatigues you instead."
@@ -1077,7 +1077,7 @@ msgstr ""
 
 msgctxt "01072.traits"
 msgid "Skill / Aid"
-msgstr ""
+msgstr " / Aide"
 
 msgctxt "01072.text"
 msgid ""
@@ -1092,7 +1092,7 @@ msgstr ""
 
 msgctxt "01073.traits"
 msgid "Tech / Aid"
-msgstr ""
+msgstr "Tech / Aide"
 
 msgctxt "01073.text"
 msgid "<b>Exhaust (use 1 charge):</b> When a Ranger performs a <b>Connect</b> test, commit 1 effort."
@@ -1108,7 +1108,7 @@ msgstr ""
 
 msgctxt "01074.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01074.text"
 msgid "<b>Response:</b> When a Ranger would suffer an injury or [harm] would be added to a being, cancel that effect. Suffer 1 injury."
@@ -1124,7 +1124,7 @@ msgstr ""
 
 msgctxt "01075.traits"
 msgid "Tech / Aid"
-msgstr ""
+msgstr "Tech / Aide"
 
 msgctxt "01075.text"
 msgid ""
@@ -1176,7 +1176,7 @@ msgstr ""
 
 msgctxt "01078.traits"
 msgid "Experience / Expert"
-msgstr ""
+msgstr "Expérience / "
 
 msgctxt "01078.text"
 msgid ""
@@ -1307,7 +1307,7 @@ msgstr ""
 
 msgctxt "01088.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "01088.text"
 msgid ""
@@ -1379,7 +1379,7 @@ msgstr ""
 
 msgctxt "01093.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01093.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
@@ -1395,7 +1395,7 @@ msgstr ""
 
 msgctxt "01094.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01094.text"
 msgid "The number of [conflict] on this attribute is equal to the number of [AWA] in your energy pool."
@@ -1411,7 +1411,7 @@ msgstr ""
 
 msgctxt "01095.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01095.text"
 msgid "After you succeed at a test in which you committed this attribute, gain 1 [AWA]."
@@ -1427,7 +1427,7 @@ msgstr ""
 
 msgctxt "01096.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01096.flavor"
 msgid "As you put your mind to your task, your every movement carries meaning, and each step is made with care and intention. No detail escapes your notice. You've accounted for every outcome and planned contingencies should you fall short of your visualized result."
@@ -1439,7 +1439,7 @@ msgstr ""
 
 msgctxt "01097.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01097.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
@@ -1455,7 +1455,7 @@ msgstr ""
 
 msgctxt "01098.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01098.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to gain 1 energy of any type."
@@ -1471,7 +1471,7 @@ msgstr ""
 
 msgctxt "01099.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01099.text"
 msgid "The number of [exploration] on this attribute is equal to the number of [FIT] in your energy pool."
@@ -1487,7 +1487,7 @@ msgstr ""
 
 msgctxt "01100.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01100.flavor"
 msgid "In your many years of experience, you've found the chattering mind to be the greatest obstacle to achieving one's goals. While some overcomplicate the world with indecision and doubt, you simply act and find success."
@@ -1499,7 +1499,7 @@ msgstr ""
 
 msgctxt "01101.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01101.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
@@ -1515,7 +1515,7 @@ msgstr ""
 
 msgctxt "01102.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01102.text"
 msgid "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [reason] [exploration] [conflict]"
@@ -1531,7 +1531,7 @@ msgstr ""
 
 msgctxt "01103.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01103.text"
 msgid "The number of [reason] on this attribute is equal to the number of [FOC] in your energy pool."
@@ -1547,7 +1547,7 @@ msgstr ""
 
 msgctxt "01104.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01104.flavor"
 msgid "The problem takes shape in your mind like a multifaceted jewel, each vertex a possible solution. The swiftest gleams in the light of your attention, and soon the gem is but a single line, the edge of a razor, the way forward as undeniable and alluring as that sharpened blade."
@@ -1559,7 +1559,7 @@ msgstr ""
 
 msgctxt "01105.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01105.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
@@ -1575,7 +1575,7 @@ msgstr ""
 
 msgctxt "01106.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01106.text"
 msgid "You may commit this attribute to any Ranger's test."
@@ -1591,7 +1591,7 @@ msgstr ""
 
 msgctxt "01107.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01107.text"
 msgid "The number of [connection] on this attribute is equal to the number of [SPI] in your energy pool."
@@ -1607,7 +1607,7 @@ msgstr ""
 
 msgctxt "01108.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "01108.flavor"
 msgid "You open your heart and feel your consciousness settle into your chest. A great warmth spreads within you as you let fall any armor that may unnecessarily hinder this, the truest of connections, oneself laid bare to another."
@@ -1698,7 +1698,7 @@ msgstr ""
 
 msgctxt "01206.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "01206.text"
 msgid "<b>Exhaust (use 1 form):</b> Exhaust and move a being."
@@ -1729,7 +1729,7 @@ msgstr ""
 
 msgctxt "01208.traits"
 msgid "Tech / Estian"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "01208.text"
 msgid "<b>[AWA] + [reason] (use 1 graph): Calibrate</b> <f>the device to your current environment to</f> scout 2 path cards for every effort."
@@ -1775,7 +1775,7 @@ msgstr ""
 
 msgctxt "01211.traits"
 msgid "Tech / Aid"
-msgstr ""
+msgstr "Tech / Aide"
 
 msgctxt "01211.text"
 msgid ""
@@ -1790,7 +1790,7 @@ msgstr ""
 
 msgctxt "01212.traits"
 msgid "Tech / Weapon"
-msgstr ""
+msgstr "Tech / "
 
 msgctxt "01212.text"
 msgid "<b>[FIT] + [conflict] (use 1 fiber): Slice [X]</b> <f>with the fibrous blade to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence."
@@ -1852,7 +1852,7 @@ msgstr ""
 
 msgctxt "01216.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "01216.text"
 msgid "Add 3[progress] to a trail. If it's a mountain or obstacle, increase the number of [progress] added by 2."
@@ -1868,7 +1868,7 @@ msgstr ""
 
 msgctxt "01217.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01217.text"
 msgid "You may move each being. Then resolve a challenge effect on a being of your choice. Resolve this effect even if the being is exhausted."
@@ -1884,7 +1884,7 @@ msgstr ""
 
 msgctxt "01218.traits"
 msgid "Tech / Estian"
-msgstr ""
+msgstr "Tech / "
 
 msgctxt "01218.text"
 msgid "<b>Use 1 needles:</b> When a Ranger reveals a challenge card during a test, choose a modifier from that card. Spend 1 energy matching that modifier's aspect to use it for this test instead."
@@ -1932,7 +1932,7 @@ msgstr ""
 
 msgctxt "01221.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01221.text"
 msgid "<b>Response:</b> When a Ranger performs a test, commit X effort."
@@ -1948,7 +1948,7 @@ msgstr ""
 
 msgctxt "01222.traits"
 msgid "Tool / Tech"
-msgstr ""
+msgstr " / Tech"
 
 msgctxt "01222.text"
 msgid ""
@@ -1982,7 +1982,7 @@ msgstr ""
 
 msgctxt "01224.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01224.text"
 msgid "Search your Ranger deck for any number of cards and place them facedown on top of your fatigue stack in the order of your choice."
@@ -1998,7 +1998,7 @@ msgstr ""
 
 msgctxt "01225.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "01225.text"
 msgid "Add 5[progress] to a being. Then, if the being hasn't cleared, resolve each of its challenge effects in an order of your choice. Resolve these effects even if the being is exhausted."
@@ -2030,7 +2030,7 @@ msgstr ""
 
 msgctxt "01227.traits"
 msgid "Food"
-msgstr ""
+msgstr "Nourriture"
 
 msgctxt "01227.text"
 msgid "<b>Exhaust (use 1 dollop):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [FOC] in their energy pool."
@@ -2046,7 +2046,7 @@ msgstr ""
 
 msgctxt "01228.traits"
 msgid "Food"
-msgstr ""
+msgstr "Nourriture"
 
 msgctxt "01228.text"
 msgid "<b>Exhaust (use 1 bite):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [SPI] in their energy pool."
@@ -2094,7 +2094,7 @@ msgstr ""
 
 msgctxt "01231.traits"
 msgid "Clothing / Aid"
-msgstr ""
+msgstr " / Aide"
 
 msgctxt "01231.text"
 msgid ""
