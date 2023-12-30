@@ -25,7 +25,7 @@ msgstr "Accu"
 
 msgctxt "buffer.plurals"
 msgid "Buffer,Buffers"
-msgstr "Accu, Accus"
+msgstr "Accu,Accus"
 
 msgctxt "call.name"
 msgid "Call"
@@ -41,7 +41,7 @@ msgstr "Charge"
 
 msgctxt "charge.plurals"
 msgid "Charge,Charges"
-msgstr "Charge, Charges"
+msgstr "Charge,Charges"
 
 msgctxt "herb.name"
 msgid "Herb"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "echo.name"
 msgid "Echo"
-msgstr ""
+msgstr "Écho"
 
 msgctxt "echo.plurals"
 msgid "Echo,Echoes"
-msgstr ""
+msgstr "Écho,Échos"
 
 msgctxt "entry.name"
 msgid "Entry"
@@ -129,7 +129,7 @@ msgstr "Poche"
 
 msgctxt "pocket.plurals"
 msgid "Pocket,Pockets"
-msgstr "Poche, Poches"
+msgstr "Poche,Poches"
 
 msgctxt "profile.name"
 msgid "Profile"
@@ -157,11 +157,11 @@ msgstr ""
 
 msgctxt "session.name"
 msgid "Session"
-msgstr ""
+msgstr "Session"
 
 msgctxt "session.plurals"
 msgid "Session,Sessions"
-msgstr ""
+msgstr "Session,Sessions"
 
 msgctxt "sip.name"
 msgid "Sip"

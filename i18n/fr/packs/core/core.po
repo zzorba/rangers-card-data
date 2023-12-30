@@ -69,7 +69,7 @@ msgstr "Nourriture / Aide"
 
 msgctxt "01004.text"
 msgid "<b>Exhaust (use 1 morsel):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [FIT] in their energy pool."
-msgstr "<b>Épuisez (utiliser 1 part):</b> Choisissez un Ranger. Ce Ranger réduit sa Fatigue d'une valeur égale au nombre de [PHY] dans sa réserver d'énergie."
+msgstr "<b>Épuisez (utiliser 1 part) :</b> Choisissez un Ranger. Ce Ranger réduit sa Fatigue d'une valeur égale au nombre de [PHY] dans sa réserver d'énergie."
 
 msgctxt "01004.flavor"
 msgid "It's a delicious medley of cherry moss pemmican, marbled great beans, starpeas, almonds, and a few surprises."
@@ -88,6 +88,8 @@ msgid ""
 "Play a moment from your discard pile without paying its energy cost (X is equal to the chosen moment’s cost).\n"
 "This card can be played at the time specified on the chosen moment."
 msgstr ""
+"Jouez un Instantané de votre pile de défausse sans payer son coût en énergie (X est égal au coût de l'Instantané choisi).\n"
+"Cette carte peut être jouée au moment indiqué par l'Instantané choisi."
 
 msgctxt "01005.name"
 msgid "Reverb Locket"
@@ -102,44 +104,48 @@ msgid ""
 "When you play this gear, attach a moment to it from your hand.\n"
 "<b>Exhaust (use 1 echo):</b> Play the attached moment as if it were in your hand. It remains attached to this gear instead of being discarded."
 msgstr ""
+"Lorsque vous jouez cet Accessoire, associez-lui un instantané de votre main."
+"<b>Épuisez (utilisez 1 écho) :</b> Jouez l'Instantané associé comme s'il était dans votre main. Il reste associé à cet Accessoire au lieu d'être défaussé."
 
 msgctxt "01007.name"
 msgid "Adaptable Multitool"
-msgstr ""
+msgstr "Outil Multiusage"
 
 msgctxt "01007.traits"
 msgid "Tech / Tool"
-msgstr "Tech / "
+msgstr "Tech / Outil"
 
 msgctxt "01007.text"
 msgid "<b>Exhaust (use 1 charge):</b> Spend 1 energy to gain 1 energy of any type."
-msgstr ""
+msgstr "<b>Épuisez (utilisez 1 charge) :</b> Dépensez 1 énergie pour gagner 1 énergie de n'importe quel type."
 
 msgctxt "01007.flavor"
 msgid "There's no better companion than a memlev multitool. It's like having an artificer's workshop in the palm of your hand, but not nearly as heavy."
-msgstr ""
+msgstr "Il n'y a pas de meilleur compagnon qu'un outil multiusage memlev. C'est comme avoir un atelier d'artificier dans la paume de sa main, mais en moins lourd."
 
 msgctxt "01008.name"
 msgid "Ironwool Boots"
-msgstr ""
+msgstr "Bottes en Laine de Fer"
 
 msgctxt "01008.traits"
 msgid "Clothing"
-msgstr ""
+msgstr "Habit"
 
 msgctxt "01008.text"
 msgid ""
 "Unique.\n"
 "<b>Response:</b> After you play a moment, soothe 1 fatigue."
 msgstr ""
+"Unique.\n"
+"<b>Réaction :</b> Après avoir joué un Instantané, réduisez votre Fatigue de 1."
 
 msgctxt "01008.flavor"
 msgid "Your mother taught you many things as you walked by her side, trekking across the Valley and back, but of all her teachings, none were more useful than this: always wear comfortable shoes."
-msgstr ""
+msgstr "Votre mère vous a enseigné beaucoup de choses pendant que vous marchiez à ses côtés, explorant les quatre coins de la Vallée. Mais son enseignement le plus utile est celui-ci : toujours porter des chaussures confortables."
 
 msgctxt "01009.name"
 msgid "Meditation Pillow"
-msgstr ""
+msgstr "Coussin de Méditation"
 
 msgctxt "01009.traits"
 msgid "Aid"
@@ -147,57 +153,59 @@ msgstr "Aide"
 
 msgctxt "01009.text"
 msgid "[FOC] + [connection]<b> (use 1 session): Meditate</b> <f>on your journey</f> to shuffle a number of cards from your fatigue stack into your Ranger deck equal to your effort."
-msgstr ""
+msgstr "[CON] + [connection]<b> (utilisez 1 session) : Méditez</b> sur votre voyage pour mélanger dans votre deck Ranger autant de cartes de votre pile Fatigue que votre effort."
 
 msgctxt "01009.flavor"
 msgid "You feel that quiet meditation is essential to daily life, and that the ability to enjoy moments of stillness is paramount to one's well-being."
-msgstr ""
+msgstr "Vous pensez que la méditation paisible est essentielle à la vie quotidienne et que la capacité à profiter de moments de calme est primordiale pour le bien-être de chacun."
 
 msgctxt "01010.name"
 msgid "The Right Tool"
-msgstr ""
+msgstr "L'Outil Adéquat"
 
 msgctxt "01010.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01010.text"
 msgid "Choose a ranger. That ranger may discard one of their equipped gear to search their ranger deck for a gear and equip it without paying its energy cost."
-msgstr ""
+msgstr "Choisissez un Ranger. Ce Ranger peut défausser un de ses Accessoires équipés pour rechercher un Accessoire dans son deck Ranger et l'équiper sans payer son coût en énergie."
 
 msgctxt "01010.flavor"
 msgid "Your mother taught you how to work with a great number of tools, and from her you gained an intimate knowledge of their function and practical application."
-msgstr ""
+msgstr "Votre mère vous a appris à manipuler beaucoup d'outils, pour lesquels vous avez acquis auprès d'elle une connaissance intime."
 
 msgctxt "01011.name"
 msgid "Pocketed Belt Pouch"
-msgstr ""
+msgstr "Poches de Ceinturon"
 
 msgctxt "01011.traits"
 msgid "Clothing"
-msgstr ""
+msgstr "Habit"
 
 msgctxt "01011.text"
 msgid ""
 "Reduce the equip value of your gear by 1 (to a minimum of 1).\n"
 "[AWA] + [reason] <b>use 1 pocket: Open</b> <f>your belt pouch and reach inside</f> to search your Ranger deck for a gear and add it to your hand."
-msgstr ""
+msgstr "" 
+"Réduisez de 1 la valeur d'encombrement de chacun de vos Accessoires (jusqu'à un minimum de 1)."
+"[VIG] + [reason] <b> (utilisez 1 poche) : Fouillez </b> l'une des poches de votre ceinturon pour rechercher un Accessoire dans votre Deck Ranger et l'ajouter à votre main."
 
 msgctxt "01014.name"
 msgid "The Mother of Invention"
-msgstr ""
+msgstr "La Muse de l'Inventeur"
 
 msgctxt "01014.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01014.text"
 msgid "Choose an attachment in a Ranger’s discard. That Ranger may immediately play that attachment as if it were in their hand."
-msgstr ""
+msgstr "Choisissez un Soutien dans la défausse d'un Ranger. Ce Ranger peut immédiatement jouer ce Soutien come s'il était dans sa main."
 
 msgctxt "01014.flavor"
 msgid "You know that inspiration does not simply come when called. When it strikes, you must act."
-msgstr ""
+msgstr "Vous savez que l'inspiration ne vient pas simplement quand on la sollicite. Quand elle jaillit, vous devez agir."
 
 msgctxt "01015.name"
 msgid "Moment of Desperation"
@@ -254,7 +262,7 @@ msgstr ""
 
 msgctxt "01013.traits"
 msgid "Tool / Tech"
-msgstr " / Tech"
+msgstr "Outil / Tech"
 
 msgctxt "01013.text"
 msgid "<b>Exhaust (use 1 charge):</b> Choose a Ranger’s equipped gear. Resolve the chosen gear’s effect as if you had used a token from it and/or exhausted it."
@@ -304,7 +312,7 @@ msgstr ""
 
 msgctxt "01019.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01019.text"
 msgid "<b>Response:</b> When you rest, exhaust up to one being for each [AWA] in your energy pool."
@@ -383,7 +391,7 @@ msgstr ""
 
 msgctxt "01024.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01024.text"
 msgid "Choose a being. Move [progress] from the chosen being to each other card in play, up to 1[progress] per card."
@@ -509,7 +517,7 @@ msgstr ""
 
 msgctxt "01032.traits"
 msgid "Tool / Weapon"
-msgstr ""
+msgstr "Outil / "
 
 msgctxt "01032.text"
 msgid ""
@@ -621,7 +629,7 @@ msgstr ""
 
 msgctxt "01040.traits"
 msgid "Clothing / Tech"
-msgstr " / Tech"
+msgstr "Habit / Tech"
 
 msgctxt "01040.text"
 msgid "<b>[AWA] + [reason] (use 1 drop): Clarify</b> <f>your view of the environment around you</f> to scout path cards equal to your effort, then draw 1 path card."
@@ -637,7 +645,7 @@ msgstr ""
 
 msgctxt "01041.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01041.text"
 msgid "Exhaust each obstacle. Suffer fatigue equal to the number of obstacles exhausted this way."
@@ -669,7 +677,7 @@ msgstr ""
 
 msgctxt "01043.traits"
 msgid "Tool / Tech / Weapon"
-msgstr " / Tech / "
+msgstr "Outil / Tech / "
 
 msgctxt "01043.text"
 msgid ""
@@ -699,7 +707,7 @@ msgstr ""
 
 msgctxt "01045.traits"
 msgid "Clothing / Tech"
-msgstr " / Tech"
+msgstr "Habit / Tech"
 
 msgctxt "01045.text"
 msgid "<b>Exhaust:</b> When a Ranger scouts, increase the number of cards scouted by 1."
@@ -771,7 +779,7 @@ msgstr ""
 
 msgctxt "01050.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01050.text"
 msgid "Choose a trail. Soothe fatigue equal to the number of [progress] on that trail. This fatigue may be divided as you choose between all Rangers."
@@ -819,7 +827,7 @@ msgstr ""
 
 msgctxt "01054.traits"
 msgid "Tool / Tech"
-msgstr " / Tech"
+msgstr "Outil / Tech"
 
 msgctxt "01054.text"
 msgid ""
@@ -852,7 +860,7 @@ msgstr ""
 
 msgctxt "01056.traits"
 msgid "Tool"
-msgstr ""
+msgstr "Outil"
 
 msgctxt "01056.text"
 msgid ""
@@ -867,7 +875,7 @@ msgstr ""
 
 msgctxt "01057.traits"
 msgid "Clothing / Tech"
-msgstr ""
+msgstr "Habit / Tech"
 
 msgctxt "01057.text"
 msgid ""
@@ -893,7 +901,7 @@ msgstr ""
 
 msgctxt "01059.traits"
 msgid "Tech / Tool"
-msgstr "Tech / "
+msgstr "Tech / Outil"
 
 msgctxt "01059.text"
 msgid ""
@@ -921,7 +929,7 @@ msgstr ""
 
 msgctxt "01061.traits"
 msgid "Tool / Tech"
-msgstr " / Tech"
+msgstr "Outil / Tech"
 
 msgctxt "01061.text"
 msgid "<b>Exhaust (use 1 charge):</b> When you perform a <b>Traverse</b> test, use [FOC] instead of [FIT]."
@@ -937,7 +945,7 @@ msgstr ""
 
 msgctxt "01062.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01062.text"
 msgid "<b>Response:</b> After you succeed at an Avoid test, exhaust 1 additional being"
@@ -953,7 +961,7 @@ msgstr ""
 
 msgctxt "01063.traits"
 msgid "Clothing / Tech"
-msgstr " / Tech"
+msgstr "Habit / Tech"
 
 msgctxt "01063.text"
 msgid "<b>Use 1 charge:</b> When you would suffer 1 or more fatigue from a path card, reduce the fatigue suffered to 0."
@@ -1033,7 +1041,7 @@ msgstr ""
 
 msgctxt "01069.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01069.text"
 msgid "Reduce the presence of each card in play to 0 until the end of the next turn."
@@ -1142,7 +1150,7 @@ msgstr ""
 
 msgctxt "01076.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01076.text"
 msgid "Exhaust a being. Then add [progress] to that being equal to the number of exhausted beings within reach."
@@ -1619,7 +1627,7 @@ msgstr ""
 
 msgctxt "01201.traits"
 msgid "Clothing"
-msgstr ""
+msgstr "Habit"
 
 msgctxt "01201.text"
 msgid "<b>Exhaust:</b> When you would suffer 1 or more fatigue from a path card, reduce the amount of fatigue suffered to 0."
@@ -1650,7 +1658,7 @@ msgstr ""
 
 msgctxt "01203.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01203.text"
 msgid "Search the path deck for a card and place it on top or bottom of the deck."
@@ -1916,7 +1924,7 @@ msgstr ""
 
 msgctxt "01220.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01220.text"
 msgid "Scout 1 path card,1 challenge card, and 1 Ranger card from each Ranger's deck."
@@ -1948,7 +1956,7 @@ msgstr ""
 
 msgctxt "01222.traits"
 msgid "Tool / Tech"
-msgstr " / Tech"
+msgstr "Outil / Tech"
 
 msgctxt "01222.text"
 msgid ""
@@ -2014,7 +2022,7 @@ msgstr ""
 
 msgctxt "01226.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01226.text"
 msgid "Add 1[harm] to each flora. Add X[progress] to each being. Then each ranger soothes X fatigue. X is equal to the total number of [harm] added by this card."
@@ -2062,7 +2070,7 @@ msgstr ""
 
 msgctxt "01229.traits"
 msgid "Clothing"
-msgstr ""
+msgstr "Habit"
 
 msgctxt "01229.text"
 msgid "<b>Exhaust:</b> When a Ranger performs a <b>Connect</b> test that interacts with a human, commit 2 effort."
@@ -2078,7 +2086,7 @@ msgstr ""
 
 msgctxt "01230.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "01230.text"
 msgid "Each Ranger soothes all fatigue."
@@ -2094,7 +2102,7 @@ msgstr ""
 
 msgctxt "01231.traits"
 msgid "Clothing / Aid"
-msgstr " / Aide"
+msgstr "Habit / Aide"
 
 msgctxt "01231.text"
 msgid ""
