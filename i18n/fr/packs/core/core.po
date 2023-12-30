@@ -209,37 +209,39 @@ msgstr "Vous savez que l'inspiration ne vient pas simplement quand on la sollici
 
 msgctxt "01015.name"
 msgid "Moment of Desperation"
-msgstr ""
+msgstr "Instant de Désespoir"
 
 msgctxt "01015.traits"
 msgid "Experience / Weapon"
-msgstr "Expérience / "
+msgstr "Expérience / Arme"
 
 msgctxt "01015.text"
 msgid "Discard one of your equipped gear to add [harm] to a being equal to the number of tokens on the discarded gear."
-msgstr ""
+msgstr "Défaussez l'un de vos Accessoires équipés pour ajouter autant de [harm] sur un Être Vivant que le nombre de jetons sur l'Accessoire défaussé."
 
 msgctxt "01015.flavor"
 msgid "You'll never forget the look on your brother's face we he saw that raccoon out of the corner of his eye, believing it was a bearsloth. You also remember the raccoon, struck by a belt pouch, yet unperturbed."
-msgstr ""
+msgstr "Vous n'oublierez jamais le regard de votre frère lorsqu'il a vu ce raton laveur du coin de l'oeil, croyant qu'il s'agissait d'un paressours."
 
 msgctxt "01016.name"
 msgid "Masterwork"
-msgstr ""
+msgstr "Bel Ouvrage"
 
 msgctxt "01016.traits"
 msgid "Mod / Expert"
-msgstr ""
+msgstr "Modif / Expert"
 
 msgctxt "01016.text"
 msgid ""
 "Attach to a Ranger’s equipped gear.\n"
 "<b>Response:</b> When a Ranger performs a test from the attached gear, commit 1 effort."
 msgstr ""
+"S'associe à un Accessoire équipé par un Ranger."
+"<b>Réaction :</b> Lorsqu'un Ranger efectue un test de l'Accessoire associé, augmentez l'effort de 1."
 
 msgctxt "01016.flavor"
 msgid "During your apprenticeship at the carbon forge, you learned much from Elder Orlin."
-msgstr ""
+msgstr "Pendant votre apprentissage à la forge de carbone, vous avez beaucoup appris de la Vénérable Orlin."
 
 msgctxt "01012.name"
 msgid "Universal Power Cells"
@@ -247,7 +249,7 @@ msgstr ""
 
 msgctxt "01012.traits"
 msgid "Mod / Tech"
-msgstr " / Tech"
+msgstr "Modif / Tech"
 
 msgctxt "01012.text"
 msgid ""
@@ -278,7 +280,7 @@ msgstr ""
 
 msgctxt "01017.traits"
 msgid "Mod"
-msgstr ""
+msgstr "Modif"
 
 msgctxt "01017.text"
 msgid ""
@@ -517,7 +519,7 @@ msgstr ""
 
 msgctxt "01032.traits"
 msgid "Tool / Weapon"
-msgstr "Outil / "
+msgstr "Outil / Arme"
 
 msgctxt "01032.text"
 msgid ""
@@ -677,7 +679,7 @@ msgstr ""
 
 msgctxt "01043.traits"
 msgid "Tool / Tech / Weapon"
-msgstr "Outil / Tech / "
+msgstr "Outil / Tech / Arme"
 
 msgctxt "01043.text"
 msgid ""
@@ -691,7 +693,7 @@ msgstr ""
 
 msgctxt "01044.traits"
 msgid "Experience / Weapon"
-msgstr "Expérience / "
+msgstr "Expérience / Arme"
 
 msgctxt "01044.text"
 msgid "Discard any number of [progress] from a trail to add an equal number of [harm] to a being."
@@ -889,7 +891,7 @@ msgstr ""
 
 msgctxt "01058.traits"
 msgid "Tech / Weapon"
-msgstr "Tech / "
+msgstr "Tech / Arme"
 
 msgctxt "01058.text"
 msgid "<b>[FOC] + [conflict] (use 1 dart): Shoot</b> <f>one of the featherlight darts to</f> add [harm] to a being equal to your effort. Whether you succeed or fail, dodge all cards between you and that being."
@@ -1073,7 +1075,7 @@ msgstr ""
 
 msgctxt "01071.traits"
 msgid "Tech / Weapon"
-msgstr "Tech / "
+msgstr "Tech / Arme"
 
 msgctxt "01071.text"
 msgid "<b>[FIT] + [conflict] (use 1 pulse): Strike [2]</b> <f>with a pulse of kinetic energy to</f> add 1[harm] to a being and exhaust it. If you fail, discard 1[progress] from that being; if you cannot, it fatigues you instead."
@@ -1229,7 +1231,7 @@ msgstr ""
 
 msgctxt "01082.traits"
 msgid "Manifestation / Weapon"
-msgstr ""
+msgstr " / Arme"
 
 msgctxt "01082.text"
 msgid ""
@@ -1771,7 +1773,7 @@ msgstr ""
 
 msgctxt "01210.traits"
 msgid "Weapon"
-msgstr ""
+msgstr "Arme"
 
 msgctxt "01210.text"
 msgid "<b>[FIT] + [conflict] (use 1 rake): Slash [X]</b> <f>with Umbra's claw to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence. Do not resolve [crest] effects during this test."
@@ -1798,7 +1800,7 @@ msgstr ""
 
 msgctxt "01212.traits"
 msgid "Tech / Weapon"
-msgstr "Tech / "
+msgstr "Tech / Arme"
 
 msgctxt "01212.text"
 msgid "<b>[FIT] + [conflict] (use 1 fiber): Slice [X]</b> <f>with the fibrous blade to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence."
@@ -1830,7 +1832,7 @@ msgstr ""
 
 msgctxt "01214.traits"
 msgid "Skill / Weapon"
-msgstr ""
+msgstr " / Arme"
 
 msgctxt "01214.text"
 msgid "If you have a weapon equipped, add 5 [harm] to a being. Then suffer fatigue equal to the number of [harm] on that being in excess of its harm threshold."
