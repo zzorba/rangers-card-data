@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "alarm.name"
 msgid "Alarm"
-msgstr ""
+msgstr "Alarme"
 
 msgctxt "alarm.plurals"
 msgid "Alarm,Alarms"
-msgstr ""
+msgstr "Alarme,Alarmes"
 
 msgctxt "buffer.name"
 msgid "Buffer"
@@ -29,11 +29,11 @@ msgstr "Accu,Accus"
 
 msgctxt "call.name"
 msgid "Call"
-msgstr ""
+msgstr "Appel"
 
 msgctxt "call.plurals"
 msgid "Call,Calls"
-msgstr ""
+msgstr "Appel,Appels"
 
 msgctxt "charge.name"
 msgid "Charge"
@@ -45,27 +45,27 @@ msgstr "Charge,Charges"
 
 msgctxt "herb.name"
 msgid "Herb"
-msgstr ""
+msgstr "Herbe"
 
 msgctxt "herb.plurals"
 msgid "Herb,Herbs"
-msgstr ""
+msgstr "Herbe,Herbes"
 
 msgctxt "dart.name"
 msgid "Dart"
-msgstr ""
+msgstr "Dard"
 
 msgctxt "dart.plurals"
 msgid "Dart,Darts"
-msgstr ""
+msgstr "Dard,Dards"
 
 msgctxt "drop.name"
 msgid "Drop"
-msgstr ""
+msgstr "Goutte"
 
 msgctxt "drop.plurals"
 msgid "Drop,Drops"
-msgstr ""
+msgstr "Goutte,Gouttes"
 
 msgctxt "echo.name"
 msgid "Echo"
@@ -77,11 +77,11 @@ msgstr "Écho,Échos"
 
 msgctxt "entry.name"
 msgid "Entry"
-msgstr ""
+msgstr "Entrée"
 
 msgctxt "entry.plurals"
 msgid "Entry,Entries"
-msgstr ""
+msgstr "Entrée,Entrées"
 
 msgctxt "glint.name"
 msgid "Glint"
@@ -93,27 +93,27 @@ msgstr ""
 
 msgctxt "inkrill.name"
 msgid "Inkrill"
-msgstr ""
+msgstr "Encrier"
 
 msgctxt "inkrill.plurals"
 msgid "Inkrill,Inkrills"
-msgstr ""
+msgstr "Encrier,Encriers"
 
 msgctxt "length.name"
 msgid "Length"
-msgstr ""
+msgstr "Section"
 
 msgctxt "length.plurals"
 msgid "Length,Lengths"
-msgstr ""
+msgstr "Section,Sections"
 
 msgctxt "marker.name"
 msgid "Marker"
-msgstr ""
+msgstr "Trace"
 
 msgctxt "marker.plurals"
 msgid "Marker,Markers"
-msgstr ""
+msgstr "Trace,Traces"
 
 msgctxt "morsel.name"
 msgid "Morsel"
@@ -133,11 +133,11 @@ msgstr "Poche,Poches"
 
 msgctxt "profile.name"
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgctxt "profile.plurals"
 msgid "Profile,Profiles"
-msgstr ""
+msgstr "Profil,Profils"
 
 msgctxt "pulse.name"
 msgid "Pulse"
@@ -149,11 +149,11 @@ msgstr ""
 
 msgctxt "sensor.name"
 msgid "Sensor"
-msgstr ""
+msgstr "Capteur"
 
 msgctxt "sensor.plurals"
 msgid "Sensor,Sensors"
-msgstr ""
+msgstr "Capteur,Capteurs"
 
 msgctxt "session.name"
 msgid "Session"
@@ -165,11 +165,11 @@ msgstr "Session,Sessions"
 
 msgctxt "sip.name"
 msgid "Sip"
-msgstr ""
+msgstr "Gorgée"
 
 msgctxt "sip.plurals"
 msgid "Sip,Sips"
-msgstr ""
+msgstr "Gorgée,Gorgées"
 
 msgctxt "snare.name"
 msgid "Snare"
@@ -197,11 +197,11 @@ msgstr ""
 
 msgctxt "track.name"
 msgid "Track"
-msgstr ""
+msgstr ""Piste
 
 msgctxt "track.plurals"
 msgid "Track,Tracks"
-msgstr ""
+msgstr "Piste,Pistes"
 
 msgctxt "vision.name"
 msgid "Vision"
@@ -213,11 +213,11 @@ msgstr ""
 
 msgctxt "vittle.name"
 msgid "Vittle"
-msgstr ""
+msgstr "Vivre"
 
 msgctxt "vittle.plurals"
 msgid "Vittle,Vittles"
-msgstr ""
+msgstr "Vivre,Vivres"
 
 msgctxt "sketch.name"
 msgid "Sketch"
