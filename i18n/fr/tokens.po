@@ -85,11 +85,11 @@ msgstr "Entrée,Entrées"
 
 msgctxt "glint.name"
 msgid "Glint"
-msgstr ""
+msgstr "Reflet"
 
 msgctxt "glint.plurals"
 msgid "Glint,Glints"
-msgstr ""
+msgstr "Reflet,Reflets"
 
 msgctxt "inkrill.name"
 msgid "Inkrill"
@@ -189,15 +189,15 @@ msgstr ""
 
 msgctxt "stride.name"
 msgid "Stride"
-msgstr ""
+msgstr "Foulée"
 
 msgctxt "stride.plurals"
 msgid "Stride,Strides"
-msgstr ""
+msgstr "Foulée,Foulées"
 
 msgctxt "track.name"
 msgid "Track"
-msgstr ""Piste
+msgstr "Piste"
 
 msgctxt "track.plurals"
 msgid "Track,Tracks"
@@ -205,11 +205,11 @@ msgstr "Piste,Pistes"
 
 msgctxt "vision.name"
 msgid "Vision"
-msgstr ""
+msgstr "Vision"
 
 msgctxt "vision.plurals"
 msgid "Vision,Visions"
-msgstr ""
+msgstr "Vision,Visions"
 
 msgctxt "vittle.name"
 msgid "Vittle"
