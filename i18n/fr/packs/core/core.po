@@ -75,6 +75,8 @@ msgctxt "01004.flavor"
 msgid "It's a delicious medley of cherry moss pemmican, marbled great beans, starpeas, almonds, and a few surprises."
 msgstr "C'est un délicieux mélange de pemmican aux mousses-cerises, de haricots vers marbrés, de caramboles, d'amandes et de quelques surprises."
 
+# @zzorba: Why cards 01005 and 01006 are in reverse order?
+#          The English core.json is also in reverse order.
 msgctxt "01006.name"
 msgid "Perfect Recall"
 msgstr "Souvenir Parfait"
@@ -1041,6 +1043,8 @@ msgstr "Gardien"
 
 msgctxt "01065.text"
 msgid "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of your turn."
+# ORIGINAL: "<b>Épuisez :</b> La présence d'un Être Vivant est réduite à 0 jusqu'à la fin de votre tour."
+# ERRATA: "<b>Épuisez :</b> La présence d'un Être Vivant est réduite à 0 jusqu'à la fin du tour."
 msgstr "<b>Épuisez :</b> La présence d'un Être Vivant est réduite à 0 jusqu'à la fin de votre tour."
 
 msgctxt "01066.name"
