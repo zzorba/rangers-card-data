@@ -1855,7 +1855,7 @@
     "name": "Versatile",
     "type_id": "attribute",
     "traits": "Innate",
-    "text": "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [reason] [exploration] [conflict]",
+    "text": "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [reason] [exploration] [conflict].",
     "flavor": "Ever since you were young you've found that no skill lies outside of your understanding. As a result, you're not afraid to try anything at least once.",
     "approach_connection": 1,
     "illustrator": "Evan Simonet"

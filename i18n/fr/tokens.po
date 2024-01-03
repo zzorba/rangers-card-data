@@ -141,11 +141,11 @@ msgstr "Profil,Profils"
 
 msgctxt "pulse.name"
 msgid "Pulse"
-msgstr ""
+msgstr "Choc"
 
 msgctxt "pulse.plurals"
 msgid "Pulse,Pulses"
-msgstr ""
+msgstr "Choc,Chocs"
 
 msgctxt "sensor.name"
 msgid "Sensor"
@@ -173,19 +173,19 @@ msgstr "Gorgée,Gorgées"
 
 msgctxt "snare.name"
 msgid "Snare"
-msgstr ""
+msgstr "Collet"
 
 msgctxt "snare.plurals"
 msgid "Snare,Snares"
-msgstr ""
+msgstr "Collet,Collets"
 
 msgctxt "song.name"
 msgid "Song"
-msgstr ""
+msgstr "Chant"
 
 msgctxt "song.plurals"
 msgid "Song,Songs"
-msgstr ""
+msgstr "Chant,Chants"
 
 msgctxt "stride.name"
 msgid "Stride"
@@ -221,88 +221,88 @@ msgstr "Vivre,Vivres"
 
 msgctxt "sketch.name"
 msgid "Sketch"
-msgstr ""
+msgstr "Croquis"
 
 msgctxt "sketch.plurals"
 msgid "Sketch,Sketches"
-msgstr ""
+msgstr "Croquis,Croquis"
 
 msgctxt "vault.name"
 msgid "Vault"
-msgstr ""
+msgstr "Bond"
 
 msgctxt "vault.plurals"
 msgid "Vault,Vaults"
-msgstr ""
+msgstr "Bond, Bonds"
 
 msgctxt "fiber.name"
 msgid "Fiber"
-msgstr ""
+msgstr "Fibre"
 
 msgctxt "fiber.plurals"
 msgid "Fiber,Fibers"
-msgstr ""
+msgstr "Fibre,Fibres"
 
 msgctxt "shift.name"
 msgid "Shift"
-msgstr ""
+msgstr "Saut"
 
 msgctxt "shift.plurals"
 msgid "Shift,Shifts"
-msgstr ""
+msgstr "Saut,Sauts"
 
 msgctxt "bite.name"
 msgid "Bite"
-msgstr ""
+msgstr "Ration"
 
 msgctxt "bite.plurals"
 msgid "Bite,Bites"
-msgstr ""
+msgstr "Ration,Rations"
 
 msgctxt "xp.name"
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 msgctxt "xp.plurals"
 msgid "XP,XP"
-msgstr ""
+msgstr "XP,XP"
 
 msgctxt "form.name"
 msgid "Form"
-msgstr ""
+msgstr "Modèle"
 
 msgctxt "form.plurals"
 msgid "Form,Forms"
-msgstr ""
+msgstr "Modèle,Modèles"
 
 msgctxt "graph.name"
 msgid "Graph"
-msgstr ""
+msgstr "Graphe"
 
 msgctxt "graph.plurals"
 msgid "Graph,Graphs"
-msgstr ""
+msgstr "Graphe,Graphes"
 
 msgctxt "rake.name"
 msgid "Rake"
-msgstr ""
+msgstr "Racle"
 
 msgctxt "rake.plurals"
 msgid "Rake,Rakes"
-msgstr ""
+msgstr "Racle,Racles"
 
 msgctxt "needle.name"
 msgid "Needle"
-msgstr ""
+msgstr "Aiguille"
 
 msgctxt "needle.plurals"
 msgid "Needle,Needles"
-msgstr ""
+msgstr "Aiguille,Aiguilles"
 
 msgctxt "dollop.name"
 msgid "Dollop"
-msgstr ""
+msgstr "Cuiller"
 
 msgctxt "dollop.plurals"
 msgid "Dollop,Dollops"
-msgstr ""
+msgstr "Cuiller,Cuillers"

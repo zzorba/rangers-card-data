@@ -1484,7 +1484,7 @@ msgstr ""
 
 msgctxt "01093.name"
 msgid "Insightful"
-msgstr ""
+msgstr "Perspicace"
 
 msgctxt "01093.traits"
 msgid "Innate"
@@ -1492,31 +1492,32 @@ msgstr "Inné"
 
 msgctxt "01093.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
-msgstr ""
+msgstr "Après que vous avez réussi un test dans lequel vous ave engagé cet Attribut, vous pouvez subir 1 Fatigue pour le reprendre dans votre main."
 
 msgctxt "01093.flavor"
 msgid "From a place beyond your perception, the thought arrives, and you feel a sense of peace in clarity, sure of the best path forward."
-msgstr ""
+msgstr "D'au-delà de votre perception, les pensées arrivent, limpides. Vous ressentez un sentiment de paix dans cette clarté, sûr de la meilleure voie à suivre."
 
 msgctxt "01094.name"
 msgid "Vigilant"
-msgstr ""
+msgstr "Vigilant"
 
 msgctxt "01094.traits"
 msgid "Innate"
 msgstr "Inné"
 
+# The following card contains an asterisk with the [conflict] icon, which isn' referred in the following string.
 msgctxt "01094.text"
 msgid "The number of [conflict] on this attribute is equal to the number of [AWA] in your energy pool."
-msgstr ""
+msgstr "Le nombre de [conflict] sur cet Attribue est égal au nombre de [VIG] dans votre réserve d'énergie."
 
 msgctxt "01094.flavor"
 msgid "Your senses heighten and you become aware of every movement and every sound. Time itself seems to slow as you toil unerringly at your task."
-msgstr ""
+msgstr "Vos sens s'aiguisent et vous prenez conscience de chaque mouvement et de chaque son. Le temps lui-même  semble ralentir tandis que vous travaillez sans relâche à votre tâche."
 
 msgctxt "01095.name"
 msgid "Perceptive"
-msgstr ""
+msgstr "Réceptif"
 
 msgctxt "01095.traits"
 msgid "Innate"
@@ -1524,15 +1525,15 @@ msgstr "Inné"
 
 msgctxt "01095.text"
 msgid "After you succeed at a test in which you committed this attribute, gain 1 [AWA]."
-msgstr ""
+msgstr "Après que vous avez réussi un test dans lequel vous avez engagé cet Attribut, gagnez 1 [VIG]."
 
 msgctxt "01095.flavor"
 msgid "The world comes to life as you perceive every detail of your surroundings: the gentle sway of grass in the bloom-scented breeze, the melodic buzz of insects in the forest, and the reflected light of the sun as it gives shape to all within your vision."
-msgstr ""
+msgstr "Le monde prend vie lorsque vous percevez chaque détail de votre environnement : le doux balancement de l'herbe dans la brise parfumée, le bourdonnement mélodique des insectes dans la forêt et la lumière vive."
 
 msgctxt "01096.name"
 msgid "Thorough"
-msgstr ""
+msgstr "Consciencieux"
 
 msgctxt "01096.traits"
 msgid "Innate"
@@ -1540,11 +1541,11 @@ msgstr "Inné"
 
 msgctxt "01096.flavor"
 msgid "As you put your mind to your task, your every movement carries meaning, and each step is made with care and intention. No detail escapes your notice. You've accounted for every outcome and planned contingencies should you fall short of your visualized result."
-msgstr ""
+msgstr "Lorsque vous vous consacrez à votre tâche, chacun de vos mouvements est porteur de sens, et chacun de vos pas est fait avec soin et intention. Aucun détail ne vous échappe. Vous avez envisagé tous les résultats et prévu des des solutions de rechange si vous n'atteigniez pas le résultat escompté."
 
 msgctxt "01097.name"
 msgid "Passionate"
-msgstr ""
+msgstr "Passionné"
 
 msgctxt "01097.traits"
 msgid "Innate"
@@ -1552,15 +1553,15 @@ msgstr "Inné"
 
 msgctxt "01097.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
-msgstr ""
+msgstr "Après que vous ayez réussi un test dans lequel vous avez engagé cet Attribut, vous pouvez subir 1 Fatigue pour le reprendre dans votre main."
 
 msgctxt "01097.flavor"
 msgid "You are gifted with an unquenchable fire that burns within. While at times it lies dormant, the proper tinder can coax it to life, and in those moments, you shine brightly on all those around you."
-msgstr ""
+msgstr "Vous êtes doté d'un feu inextinguible qui brûle en vous. Bien qu'il soit parfois en sommeil, l'étincelle appropriée peut le réveiller."
 
 msgctxt "01098.name"
 msgid "Balanced"
-msgstr ""
+msgstr "Équilibré"
 
 msgctxt "01098.traits"
 msgid "Innate"
@@ -1568,31 +1569,32 @@ msgstr "Inné"
 
 msgctxt "01098.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to gain 1 energy of any type."
-msgstr ""
+msgstr "Après que vous ayez réussi un test dans lequel vous avez engagé cet Attribut, vous pouvez subir 1 Fatigue pour le reprendre dans votre main."
 
 msgctxt "01098.flavor"
 msgid "As you move in rhythm with your surroundings, your mind clears, refreshed by deep breaths of sweet air and the resonant beating of your heart."
-msgstr ""
+msgstr "En vous mouvant au rythme de votre environnement, votre esprit s'éclaircit, rafraîchi par de profondes respirations et les vibrants battements de votre coeur."
 
 msgctxt "01099.name"
 msgid "Determined"
-msgstr ""
+msgstr "Déterminé"
 
 msgctxt "01099.traits"
 msgid "Innate"
 msgstr "Inné"
 
+# The following card contains an asterisk with the [conflict] icon, which isn' referred in the following string.
 msgctxt "01099.text"
 msgid "The number of [exploration] on this attribute is equal to the number of [FIT] in your energy pool."
-msgstr ""
+msgstr "Le nombre de [exploration] sur cet Attribut est égal au nombre de [PHY] dans votre réserve d'énergie."
 
 msgctxt "01099.flavor"
 msgid "Your goal in sight, you draw upon a deep well of inner strength. Your limbs surge with energy, and you know with certainty that there is nothing you cannot accomplish."
-msgstr ""
+msgstr "Votre objectif en vue, vous puisez au plus profond de votre force intérieure. Vos membres débordent d'énergie, et vous savez avec certitude qu'il n'y a rien que vous ne puissiez accomplir."
 
 msgctxt "01100.name"
 msgid "Bold"
-msgstr ""
+msgstr "Audacieux"
 
 msgctxt "01100.traits"
 msgid "Innate"
@@ -1600,11 +1602,11 @@ msgstr "Inné"
 
 msgctxt "01100.flavor"
 msgid "In your many years of experience, you've found the chattering mind to be the greatest obstacle to achieving one's goals. While some overcomplicate the world with indecision and doubt, you simply act and find success."
-msgstr ""
+msgstr "Au cours de vos nombreuses années d'expérience, vous avez constaté qu'un esprit bavard est le plus grand obstacle à la réalisation des objectifs. Alors que certains compliquent le monde par leur indécision et leurs doutes, vous agissez simplement et rencontrez le succès."
 
 msgctxt "01101.name"
 msgid "Meticulous"
-msgstr ""
+msgstr "Méticuleux"
 
 msgctxt "01101.traits"
 msgid "Innate"
@@ -1612,47 +1614,48 @@ msgstr "Inné"
 
 msgctxt "01101.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
-msgstr ""
+msgstr "Après que vous ayez réussi un test dans lequel vous avez engagé cet Attribut, vous pouvez subir 1 Fatigue pour le reprendre dans votre main."
 
 msgctxt "01101.flavor"
 msgid "You take tremendous joy in exploring the fine details of a task. To you, there is no action worth taking that cannot be seen through to perfection."
-msgstr ""
+msgstr "Vous prenez un plaisir fou à explorer les moindres aspects d'une tâche : aucune action ne vaut la peine d'être entreprise si elle n'est pas menée à la perfection."
 
 msgctxt "01102.name"
 msgid "Versatile"
-msgstr ""
+msgstr "Polyvalent"
 
 msgctxt "01102.traits"
 msgid "Innate"
 msgstr "Inné"
 
 msgctxt "01102.text"
-msgid "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [reason] [exploration] [conflict]"
-msgstr ""
+msgid "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [reason] [exploration] [conflict]."
+msgstr "Avant d'engager cet Attribut, vous pouvez subir 1 Fatigue. Si vous le faites, cet Attribut gagne [reason] [exploration] [conflict]."
 
 msgctxt "01102.flavor"
 msgid "Ever since you were young you've found that no skill lies outside of your understanding. As a result, you're not afraid to try anything at least once."
-msgstr ""
+msgstr "Depuis votre enfance, vous avez constaté qu'aucune compétence n'échappe à votre compréhension. Par conséquent, vous n'hésitez pas à essayer chaque chose au moins une fois."
 
 msgctxt "01103.name"
 msgid "Inventive"
-msgstr ""
+msgstr "Inventif"
 
 msgctxt "01103.traits"
 msgid "Innate"
 msgstr "Inné"
 
+# The following card contains an asterisk with the [conflict] icon, which isn' referred in the following string.
 msgctxt "01103.text"
 msgid "The number of [reason] on this attribute is equal to the number of [FOC] in your energy pool."
-msgstr ""
+msgstr "Le nombre de [reason] sur cet Attribut est égal au nombre de [FOC] dans votre réserve d'énergie."
 
 msgctxt "01103.flavor"
 msgid "While the minds of others may find comfort in following traditional paths, yours is at its best when it breaks away, forging new routes through the wilderness of thought."
-msgstr ""
+msgstr "Alors que l'espris des autres peut trouver du réconfort en suivant les voies traditionnelles, le vôtre est à son meilleur niveau lorsqu'il s'En écarte, traçant de nouvelles routes dans le désert de la pensée."
 
 msgctxt "01104.name"
 msgid "Astute"
-msgstr ""
+msgstr "Astucieux"
 
 msgctxt "01104.traits"
 msgid "Innate"
@@ -1660,11 +1663,11 @@ msgstr "Inné"
 
 msgctxt "01104.flavor"
 msgid "The problem takes shape in your mind like a multifaceted jewel, each vertex a possible solution. The swiftest gleams in the light of your attention, and soon the gem is but a single line, the edge of a razor, the way forward as undeniable and alluring as that sharpened blade."
-msgstr ""
+msgstr "Le problème prend forme dans votre esprit comme un bijou à multiples facettes, chaque sommet étant une solution possible. Le plus rapide brille pour attirer votre attention, et bientôt le joyau n'Est plus qu'une simple ligne, le trnachant d'un rasoir, la voie à suivre aussi indéniable et séduisante que cette lame aiguisée."
 
 msgctxt "01105.name"
 msgid "Persuasive"
-msgstr ""
+msgstr "Persuasif"
 
 msgctxt "01105.traits"
 msgid "Innate"
@@ -1672,15 +1675,15 @@ msgstr "Inné"
 
 msgctxt "01105.text"
 msgid "After you succeed at a test in which you committed this attribute, you may suffer 1 fatigue to add it back into your hand."
-msgstr ""
+msgstr "Après que vous ayez réussi un test dans lequel vous avez engagé cet Attribut, vous pouvez subir 1 Fatigue pour le reprendre dans votre main."
 
 msgctxt "01105.flavor"
 msgid "As you give voice to your intention, you do so from a place of love, so that there may be no misconstruing your desire for a specific outcome as anything other than a desire for peace and understanding."
-msgstr ""
+msgstr "Lorsque vous exprimez votre intention, vous le faites avec empathie, afin d'assurer la bonne interprétation de votre désir d'un résultat spécifique."
 
 msgctxt "01106.name"
 msgid "Thoughtful"
-msgstr ""
+msgstr "Réfléchi"
 
 msgctxt "01106.traits"
 msgid "Innate"
@@ -1688,31 +1691,31 @@ msgstr "Inné"
 
 msgctxt "01106.text"
 msgid "You may commit this attribute to any Ranger's test."
-msgstr ""
+msgstr "Vous pouvez engager cet Attribue dans le test de n'importe quel Ranger."
 
 msgctxt "01106.flavor"
 msgid "You have the gift of being able to sense the needs of those around you. Instinctively, you lend a hand without being overbearing, your ego nowhere to be found."
-msgstr ""
+msgstr "Vous avez le don de sentir les besoins de ceux qui vous entourent. Instinctivement, vous donnez un coup de main sans être envahissant, sans chercher à satisfaire votre ego."
 
 msgctxt "01107.name"
 msgid "Engaging"
-msgstr ""
+msgstr "Engageant"
 
 msgctxt "01107.traits"
 msgid "Innate"
 msgstr "Inné"
 
-msgctxt "01107.text"
+# The following card contains an asterisk with the [conflict] icon, which isn' referred in the following string.msgctxt "01107.text"
 msgid "The number of [connection] on this attribute is equal to the number of [SPI] in your energy pool."
-msgstr ""
+msgstr "Le nombre de [connection] sur cet Attribut est égal au nombre de [SPI] dans votre réserve d'énergie."
 
 msgctxt "01107.flavor"
 msgid "As you fully inhabit yourself, you feel a oneness with the flow of life. Those around you are buoyed by the energy of your presence, inspired by your certainty, and happy to help in whatever way they can."
-msgstr ""
+msgstr "Lorsque vous êtes en pleine osmose avec vous-même, vous ne faites qu'un avec le flux de la vie. Ceux qui vous entourent sont portés par l'énergie de votre présence, inspirés par votre certitude."
 
 msgctxt "01108.name"
 msgid "Compassionate"
-msgstr ""
+msgstr "Compatissant"
 
 msgctxt "01108.traits"
 msgid "Innate"
@@ -1720,7 +1723,7 @@ msgstr "Inné"
 
 msgctxt "01108.flavor"
 msgid "You open your heart and feel your consciousness settle into your chest. A great warmth spreads within you as you let fall any armor that may unnecessarily hinder this, the truest of connections, oneself laid bare to another."
-msgstr ""
+msgstr "Vous ouvrez votre coeur et sentez votre conscience s'installer dans votre poitrine. Une grande chaleur se répand en vous alorsque vous laissez tomber toute défense qui pourrait inutilement entraver cette connexion, la plus vraie des connexions, celle qui consiste à se mettre à nu pour aider l'autre."
 
 msgctxt "01201.name"
 msgid "Lynx Fur Cloak"
