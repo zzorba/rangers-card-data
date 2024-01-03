@@ -1997,7 +1997,7 @@
     "harm": 3,
     "type_id": "feature",
     "traits": "Underground",
-    "text": "<b>[FOC] + [EXL]: Navigate</b> <f>the winding tunnel to</f> move your [ranger] to this feature.\n<b>Response:</b> When you perform a test, if your [ranger] is on this feature, add 1[harm] to it to dodge each card in the same area.\n<b>Clear [harm]:</b> If your [ranger]is on this feature, suffer 1 injury.",
+    "text": "<b>[FOC] + [exploration]: Navigate</b> <f>the winding tunnel to</f> move your [ranger] to this feature.\n<b>Response:</b> When you perform a test, if your [ranger] is on this feature, add 1[harm] to it to dodge each card in the same area.\n<b>Clear [harm]:</b> If your [ranger]is on this feature, suffer 1 injury.",
     "approach_exploration": 2,
     "spoiler": true
   },

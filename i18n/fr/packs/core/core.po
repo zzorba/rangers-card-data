@@ -1727,7 +1727,7 @@ msgstr "Vous ouvrez votre coeur et sentez votre conscience s'installer dans votr
 
 msgctxt "01201.name"
 msgid "Lynx Fur Cloak"
-msgstr ""
+msgstr "Pelisse en Fourrure de Lynx"
 
 msgctxt "01201.traits"
 msgid "Clothing"
@@ -1735,26 +1735,30 @@ msgstr "Habit"
 
 msgctxt "01201.text"
 msgid "<b>Exhaust:</b> When you would suffer 1 or more fatigue from a path card, reduce the amount of fatigue suffered to 0."
-msgstr ""
+msgstr "<b>Épuisez :</b> Lorsque vous devriez subir 1 Fatigue ou plus d'une carte Chemin, réduisez la Fatigue subie à 0."
 
 msgctxt "01201.flavor"
 msgid "Let this cloak serve as a reminder that no life can be taken without consequence. Each of us, great and small, are woven into the tapestry of existence, and no thread may be pulled without harm being done."
-msgstr ""
+msgstr "Que cette pelisse serve à vous rappeler qu'aucune vie ne peut être prise sans conséquence. Chacun d'entre nous est tissé dans la tapisserie de l'existence, fragile et vulnérable."
 
+# SteveRodrigue: Imo, the name of the card should have an uppercase 'L' for lule.
 msgctxt "01202.name"
 msgid "Scuttler Tunnel"
-msgstr ""
+msgstr "Tunnel de Lule"
 
 msgctxt "01202.traits"
 msgid "Underground"
-msgstr ""
+msgstr "Souterrain"
 
 msgctxt "01202.text"
 msgid ""
-"<b>[FOC] + [EXL]: Navigate</b> <f>the winding tunnel to</f> move your [ranger] to this feature.\n"
+"<b>[FOC] + [exploration]: Navigate</b> <f>the winding tunnel to</f> move your [ranger] to this feature.\n"
 "<b>Response:</b> When you perform a test, if your [ranger] is on this feature, add 1[harm] to it to dodge each card in the same area.\n"
 "<b>Clear [harm]:</b> If your [ranger]is on this feature, suffer 1 injury."
 msgstr ""
+"<b>[CON] + [exploration] : Sondez</b> <f>\n"
+"\n"
+""
 
 msgctxt "01203.name"
 msgid "Kordo's Instinct"
