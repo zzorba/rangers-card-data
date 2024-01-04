@@ -13,52 +13,52 @@ msgstr ""
 
 msgctxt "gear.name"
 msgid "Gear"
-msgstr ""
+msgstr "Accessoire"
 
 msgctxt "attachment.name"
 msgid "Attachment"
-msgstr ""
+msgstr "Soutien"
 
 msgctxt "moment.name"
 msgid "Moment"
-msgstr ""
+msgstr "Instantané"
 
 msgctxt "role.name"
 msgid "Role"
-msgstr ""
+msgstr "Rôle"
 
 msgctxt "aspect.name"
 msgid "Aspect"
-msgstr ""
+msgstr "Aspect"
 
 msgctxt "attribute.name"
 msgid "Attribute"
-msgstr ""
+msgstr "Attribut"
 
 msgctxt "being.name"
 msgid "Being"
-msgstr ""
+msgstr "Être Vivant"
 
 msgctxt "feature.name"
 msgid "Feature"
-msgstr ""
+msgstr "Particularité"
 
 msgctxt "stat.name"
 msgid "Stat"
-msgstr ""
+msgstr "Valeur"
 
 msgctxt "malady.name"
 msgid "Malady"
-msgstr ""
+msgstr "Trauma"
 
 msgctxt "mission.name"
 msgid "Mission"
-msgstr ""
+msgstr "Mission"
 
 msgctxt "location.name"
 msgid "Location"
-msgstr ""
+msgstr "Lieu"
 
 msgctxt "challenge.name"
 msgid "Challenge"
-msgstr ""
+msgstr "Défi"

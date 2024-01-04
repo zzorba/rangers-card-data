@@ -13,32 +13,32 @@ msgstr ""
 
 msgctxt "AWA.name"
 msgid "Awareness"
-msgstr ""
+msgstr "Vigilance"
 
 msgctxt "AWA.short_name"
 msgid "AWA"
-msgstr ""
+msgstr "VIG"
 
 msgctxt "FIT.name"
 msgid "Fitness"
-msgstr ""
+msgstr "Physique"
 
 msgctxt "FIT.short_name"
 msgid "FIT"
-msgstr ""
+msgstr "PHY"
 
 msgctxt "FOC.name"
 msgid "Focus"
-msgstr ""
+msgstr "Concentration"
 
 msgctxt "FOC.short_name"
 msgid "FOC"
-msgstr ""
+msgstr "CON"
 
 msgctxt "SPI.name"
 msgid "Spirit"
-msgstr ""
+msgstr "Esprit"
 
 msgctxt "SPI.short_name"
 msgid "SPI"
-msgstr ""
+msgstr "ESP"

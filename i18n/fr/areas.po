@@ -13,12 +13,12 @@ msgstr ""
 
 msgctxt "play.name"
 msgid "In play"
-msgstr ""
+msgstr "En jeu"
 
 msgctxt "reach.name"
 msgid "Within reach"
-msgstr ""
+msgstr "À Portée"
 
 msgctxt "along.name"
 msgid "Along the way"
-msgstr ""
+msgstr "Le long du Chemin"
