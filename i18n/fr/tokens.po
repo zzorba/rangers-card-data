@@ -261,11 +261,11 @@ msgstr "Ration,Rations"
 
 msgctxt "xp.name"
 msgid "XP"
-msgstr "XP"
+msgstr "PX"
 
 msgctxt "xp.plurals"
 msgid "XP,XP"
-msgstr "XP,XP"
+msgstr "PX,PX"
 
 msgctxt "form.name"
 msgid "Form"
