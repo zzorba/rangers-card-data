@@ -27,4 +27,4 @@ To fit on the physical cards some of the rules above were bented to make the lay
 
 ## What to do if you find a typo or an error on a card?
 
-You can submit French typos or errors to **Intrafin** by using their [web contact form](www.intrafin.eu/fr/contact-us).
+You can submit French typos or errors to **Intrafin** by using their [web contact form](http://www.intrafin.eu/fr/contact-us).
