@@ -1469,7 +1469,7 @@ msgstr ""
 "Manifestation. <f>(Pour jouer une manifestation, défaussez 1 jeton d’un catalyseur).</f>\n"
 "Choisissez un Être Vivant en jeu et mélangez-le dans le deck Chemin. Puis, recherchez un Être Vivant dans le deck Chemin et la défausse et mettez-le en jeu."
 
-# SteveRodrigue: Doesn't translate properly in onto the WEBui? Wait for the next merge to validate.
+#  SteveRodrigue: Doesn't translate properly in onto the WEBui? Wait for the next merge to validate.
 msgctxt "01092.name"
 msgid "Scepter of Harmony"
 msgstr "Sceptre d’Harmonie"
