@@ -1043,10 +1043,10 @@ msgctxt "01065.name"
 msgid "Guardian"
 msgstr "Gardien"
 
-msgctxt "01065.text"
-msgid "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of your turn."
 #  ORIGINAL: "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin de votre tour."
 #  ERRATA: "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin du tour."
+msgctxt "01065.text"
+msgid "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of your turn."
 msgstr "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin du tour."
 
 msgctxt "01066.name"
