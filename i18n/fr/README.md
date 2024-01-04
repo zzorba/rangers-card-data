@@ -15,13 +15,13 @@ Make sure you respect the spacing before and after column, question marks, etc.
 
 ## Earthborne Rangers specifics
 
-#### Harm and Progress
+### Harm and Progress
 
 Don't put space between ``[harm]`` or ``[progress]`` markers and numbers (including X's).
 &nbsp;&nbsp;&nbsp;&nbsp;Good: ``1[harm]`` / ``X[progress]``
 &nbsp;&nbsp;&nbsp;&nbsp;Bad: ``1 [harm]`` / ``X [progress]``
 
-#### Card Layout adjustment
+### Card Layout adjustment
 
 To fit on the physical cards some of the rules above were bented to make the layout clean. Since, the current database isn't used to make cards, we disregard the printing aspect when we translate the text.
 
