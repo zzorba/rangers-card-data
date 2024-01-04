@@ -21,7 +21,7 @@ msgstr "Compétence"
 
 msgctxt "01001.text"
 msgid "Scout 3 path cards, then draw 1 path card."
-msgstr "Obserez 3 cartes Chemin, puis piochez 1 carte Chemin."
+msgstr "Observez 3 cartes Chemin, puis piochez 1 carte Chemin."
 
 msgctxt "01001.flavor"
 msgid "When you were young, you and your father would climb the Mound of the Navigator and look over the Valley. From that high vantage, he taught you to see the subtlest movements and minute detail of the flora and fauna far below."
