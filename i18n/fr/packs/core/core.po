@@ -1513,7 +1513,7 @@ msgstr "Inné"
 #  The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
 msgctxt "01094.text"
 msgid "The number of [conflict] on this attribute is equal to the number of [AWA] in your energy pool."
-msgstr "Le nombre de [conflict] sur cet Attribue est égal au nombre de [AWA] dans votre réserve d’énergie."
+msgstr "Le nombre de [conflict] sur cet Attribut est égal au nombre de [AWA] dans votre réserve d’énergie."
 
 msgctxt "01094.flavor"
 msgid "Your senses heighten and you become aware of every movement and every sound. Time itself seems to slow as you toil unerringly at your task."
@@ -1695,7 +1695,7 @@ msgstr "Inné"
 
 msgctxt "01106.text"
 msgid "You may commit this attribute to any Ranger's test."
-msgstr "Vous pouvez engager cet Attribue dans le test de n’importe quel Ranger."
+msgstr "Vous pouvez engager cet Attribut dans le test de n’importe quel Ranger."
 
 msgctxt "01106.flavor"
 msgid "You have the gift of being able to sense the needs of those around you. Instinctively, you lend a hand without being overbearing, your ego nowhere to be found."
