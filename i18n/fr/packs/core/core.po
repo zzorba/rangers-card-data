@@ -21,7 +21,7 @@ msgstr "Compétence"
 
 msgctxt "01001.text"
 msgid "Scout 3 path cards, then draw 1 path card."
-msgstr "Obserez 3 cartes Chemin, puis piochez 1 carte Chemin."
+msgstr "Observez 3 cartes Chemin, puis piochez 1 carte Chemin."
 
 msgctxt "01001.flavor"
 msgid "When you were young, you and your father would climb the Mound of the Navigator and look over the Valley. From that high vantage, he taught you to see the subtlest movements and minute detail of the flora and fauna far below."
@@ -106,7 +106,7 @@ msgid ""
 "When you play this gear, attach a moment to it from your hand.\n"
 "<b>Exhaust (use 1 echo):</b> Play the attached moment as if it were in your hand. It remains attached to this gear instead of being discarded."
 msgstr ""
-"Lorsque vous jouez cet Accessoire, associez-lui un instantané de votre main."
+"Lorsque vous jouez cet Accessoire, associez-lui un instantané de votre main.\n"
 "<b>Épuisez (utilisez 1 écho) :</b> Jouez l’Instantané associé comme s’il était dans votre main. Il reste associé à cet Accessoire au lieu d’être défaussé."
 
 msgctxt "01007.name"
@@ -359,7 +359,7 @@ msgstr "Expérience"
 
 msgctxt "01021.text"
 msgid "Each Ranger may discard 1[progress] from a being within reach of them to move that being."
-msgstr "Chaque Ranger peur défausser 1[progress] d’un Être Vivant À Sa Portée pour déplacer un Être Vivant."
+msgstr "Chaque Ranger peut défausser 1[progress] d’un Être Vivant À Sa Portée pour déplacer un Être Vivant."
 
 msgctxt "01021.flavor"
 msgid "You've spent countless days, year after year, in relative solitude, alone but for your flock. In that time you've learned that any being can be reasoned with. You just need to ask nicely (and put your back into it)."
@@ -379,7 +379,7 @@ msgstr "Déplacer tous les [progress] d’un Être Vivant sur une Particularité
 
 msgctxt "01022.flavor"
 msgid "Your uncle loves to regale any who'll listen with the Tale of the Shepherd and the Relgerbeast. The shepherd in the tale saves his flock not by harming the beast, but by riding it back to the village. It then becomes a valued member of the community, rooting out Scrofs in the field."
-msgstr "Votre oncle aime raconter l’histoire du berger et de la bête de Relgar. Dans ce conte, le berger sauve son troupeau en ramenant la bête au village.\nElle devient alors une alliée précieuse de la communauté, débusquant les scrofs dans les champs."
+msgstr "Votre oncle aime raconter l’histoire du berger et de la bête de Relgar. Dans ce conte, le berger sauve son troupeau en ramenant la bête au village. Elle devient alors une alliée précieuse de la communauté, débusquant les scrofs dans les champs."
 
 msgctxt "01023.name"
 msgid "Paratrepsis Whistle"
@@ -399,7 +399,7 @@ msgstr "Ce sifflet vous a été offert lors d’une brève romance estivale, et 
 
 msgctxt "01024.name"
 msgid "A Deeper Understanding"
-msgstr "Communiion Animale"
+msgstr "Communion Animale"
 
 msgctxt "01024.traits"
 msgid "Wisdom"
@@ -407,7 +407,7 @@ msgstr "Sagacité"
 
 msgctxt "01024.text"
 msgid "Choose a being. Move [progress] from the chosen being to each other card in play, up to 1[progress] per card."
-msgstr "Choisissez un Être vivant. Déplacez 1 [progress] de cet Être Vivant sur chacune des autres cartes en jeu."
+msgstr "Choisissez un Être Vivant. Déplacez 1 [progress] de cet Être Vivant sur chacune des autres cartes en jeu."
 
 msgctxt "01024.flavor"
 msgid "In your solitude, you once observed the wind describing its course across the plain and came to a place of peace. You saw your life as the wind, ephemeral and beautiful, and you were grateful for it."
@@ -427,7 +427,7 @@ msgid ""
 "Discard 1[harm] from a being to add 3[progress] to it.\n"
 "Heal 1 injury from a Ranger."
 msgstr ""
-"Au choix :\n"
+"<b>Au choix :</b>\n"
 "Défaussez 1[harm] d’un Être Vivant pour lui ajouter 3[progress]\n"
 "Soignez 1 blessure d’un Ranger."
 
@@ -551,7 +551,7 @@ msgid ""
 "[FIT] + [conflict]<b>: Strike [2]</b> <f>out with your gardening tool to</f> add 1[harm] to a being for every 2 effort. If you fail, suffer 1 injury."
 msgstr ""
 "<b>[SPI] + [reason] : Occupez-vous</b> <f>des plantes locales pour</f> ajouter ou retirer autant de [harm] d’une Flore que votre effort.\n"
-"<b>[FIT] + [conflict] : Frappez [2]</b> <f>avec votre outil de jardinage pour</f> ajouter à un Être Vivant autant de [harm] que la moitiéde l’effort (arrondie à l’inférieur). Si vous échouez, subissez 1 blessure."
+"<b>[FIT] + [conflict] : Frappez [2]</b> <f>avec votre outil de jardinage pour</f> ajouter à un Être Vivant autant de [harm] que la moitié de l’effort (arrondie à l’inférieur). Si vous échouez, subissez 1 blessure."
 
 msgctxt "01033.name"
 msgid "Secret Garden"
@@ -667,7 +667,7 @@ msgstr "Habit / Tech"
 
 msgctxt "01040.text"
 msgid "<b>[AWA] + [reason] (use 1 drop): Clarify</b> <f>your view of the environment around you</f> to scout path cards equal to your effort, then draw 1 path card."
-msgstr "<b>[AWA] + [reason] (utilisez 1 goutte) : Amélioriez</b> <f>votre vision de l’environnement qui vous entoure pour</f> observer autant de cartes Chemin que votre effort, puis piochez 1 carte Chemin."
+msgstr "<b>[AWA] + [reason] (utilisez 1 goutte) : Améliorez</b> <f>votre vision de l’environnement qui vous entoure pour</f> observer autant de cartes Chemin que votre effort, puis piochez 1 carte Chemin."
 
 msgctxt "01040.flavor"
 msgid "You depress the applicator, and one small drop of water bubbles and expands to form a single clarifying lens."
@@ -783,7 +783,7 @@ msgid ""
 "<b>Response:</b> When you travel, if this trail is attached to the location, travel to a location up to two paths away. Use the terrain of the second path when building the path deck.\n"
 "<b>Clear [progress]:</b> Attach this trail to the location."
 msgstr ""
-"<b>Réaction :</b> Lorsque vous voyagez, si ce Sentier est associé au lieu, voyagez vers un lieu éloigné jusqu’à deux chemins. Utilisez le terrain du seocnd chemin pour préparer le deck Chemin.\n"
+"<b>Réaction :</b> Lorsque vous voyagez, si ce Sentier est associé au lieu, voyagez vers un lieu éloigné jusqu’à deux chemins. Utilisez le terrain du second chemin pour préparer le deck Chemin.\n"
 "<b>Satisfaites [progress] :</b> Associez ce Sentier au lieu."
 
 msgctxt "01048.name"
@@ -800,7 +800,7 @@ msgstr "<b>Réaction :</b> Lorsque vous réussissez un test <b>Traverser</b>, aj
 
 msgctxt "01048.flavor"
 msgid "Through practice and intention, you've learned to show others the vastness of possibility before them. There are no limits save the ones we place on ourselves."
-msgstr "Fort de votre expérience et votre empathis, vous avez appris à montrer aux autres l’immensité des possibilités qui s’offrent à eux."
+msgstr "Fort de votre expérience et votre empathie, vous avez appris à montrer aux autres l’immensité des possibilités qui s’offrent à eux."
 
 msgctxt "01049.name"
 msgid "Breathe Into It"
@@ -1037,16 +1037,16 @@ msgstr "<b>Réaction :</b> Lorsqu’un Ranger devrait subir 1 Fatigue ou plus, i
 
 msgctxt "01064.flavor"
 msgid "You never leave your workshop without the tools essential to survival in the wilderness.The right tool can turn even the most exhausting of endeavors into a moment of exhilaration."
-msgstr "Vous ne quittez jamais votre atelier sans les outils essentiels à la survie dfans la nature. Le bon outil peut transformer le plus épuisant des efforts en un instant d’exaltation."
+msgstr "Vous ne quittez jamais votre atelier sans les outils essentiels à la survie dans la nature. Le bon outil peut transformer le plus épuisant des efforts en un instant d’exaltation."
 
 msgctxt "01065.name"
 msgid "Guardian"
 msgstr "Gardien"
 
-msgctxt "01065.text"
-msgid "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of your turn."
 #  ORIGINAL: "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin de votre tour."
 #  ERRATA: "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin du tour."
+msgctxt "01065.text"
+msgid "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of your turn."
 msgstr "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin du tour."
 
 msgctxt "01066.name"
@@ -1200,7 +1200,7 @@ msgid ""
 "Attach to a being.\n"
 "<b>Use 1 alarm:</b> When a challenge effect on the attached being would resolve, cancel that effect."
 msgstr ""
-"S’associe à un Être Vivant\n"
+"S’associe à un Être Vivant.\n"
 "<b>Utilisez 1 alarme :</b> Lorsque l’effet Défi de l’Être Vivant associé devrait être résolu, annulez cet effet."
 
 msgctxt "01075.flavor"
@@ -1236,7 +1236,7 @@ msgid ""
 "Friendly. Persistent. Unique.\n"
 "<b>Exhaust:</b> Discard 1[progress] from this being to add 1 token to an Aid card and 2[progress] to another being."
 msgstr ""
-"Amical. Persistant. Unique."
+"Amical. Persistant. Unique.\n"
 "<b>Épuisez :</b> Défaussez 1[progress] de cet Être Vivant pour ajouter 1 jeton sur une carte Aide et 2[progress] sur un autre Être Vivant."
 
 
@@ -1441,6 +1441,7 @@ msgstr "Harmonisation"
 #  msgid "Manifestation"
 #  msgstr "Manifestation"
 
+# SteveRodrigue: For clarity and consistency, we could add  "<f>(Pour jouer une manifestation, défaussez 1 jeton d’un catalyseur).</f>" to the "Manifestation.\n" line below
 msgctxt "01090.text"
 msgid ""
 "Manifestation.\n"
@@ -1449,7 +1450,7 @@ msgid ""
 msgstr ""
 "Manifestation.\n"
 "S’associe à un Être Vivant À Portée de n’importe quel Ranger.\n"
-"<b>Réaction :</b> Après la résolution d’une icône Défi de l’Être Vivant associé, le Range qui a joué cete carte gagne 1 énergie de n’importe quel type."
+"<b>Réaction :</b> Après la résolution d’une icône Défi de l’Être Vivant associé, le Ranger qui a joué cette carte gagne 1 énergie de n’importe quel type."
 
 msgctxt "01091.name"
 msgid "Seen Through Cycles"
@@ -1468,6 +1469,7 @@ msgstr ""
 "Manifestation. <f>(Pour jouer une manifestation, défaussez 1 jeton d’un catalyseur).</f>\n"
 "Choisissez un Être Vivant en jeu et mélangez-le dans le deck Chemin. Puis, recherchez un Être Vivant dans le deck Chemin et la défausse et mettez-le en jeu."
 
+#  SteveRodrigue: Doesn't translate properly in onto the WEBui? Wait for the next merge to validate.
 msgctxt "01092.name"
 msgid "Scepter of Harmony"
 msgstr "Sceptre d’Harmonie"
@@ -1479,7 +1481,7 @@ msgstr "Catalyseur / Expert"
 msgctxt "01092.text"
 msgid ""
 "Conduit. Setup.\n"
-"<b>Response:</b> After you perform a test in which no challenge effects were resolved, add 1 song to this conduit."
+"<b>Response:</b> After you perform a test in which no challenge effects were resolved, add 1 song to this conduit.\n"
 "<b>Exhaust (use X songs):</b> Add X[progress] to a being."
 msgstr ""
 "Catalyseur. Préparation.\n"
@@ -1513,7 +1515,7 @@ msgstr "Inné"
 #  The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
 msgctxt "01094.text"
 msgid "The number of [conflict] on this attribute is equal to the number of [AWA] in your energy pool."
-msgstr "Le nombre de [conflict] sur cet Attribue est égal au nombre de [AWA] dans votre réserve d’énergie."
+msgstr "Le nombre de [conflict] sur cet Attribut est égal au nombre de [AWA] dans votre réserve d’énergie."
 
 msgctxt "01094.flavor"
 msgid "Your senses heighten and you become aware of every movement and every sound. Time itself seems to slow as you toil unerringly at your task."
@@ -1695,7 +1697,7 @@ msgstr "Inné"
 
 msgctxt "01106.text"
 msgid "You may commit this attribute to any Ranger's test."
-msgstr "Vous pouvez engager cet Attribue dans le test de n’importe quel Ranger."
+msgstr "Vous pouvez engager cet Attribut dans le test de n’importe quel Ranger."
 
 msgctxt "01106.flavor"
 msgid "You have the gift of being able to sense the needs of those around you. Instinctively, you lend a hand without being overbearing, your ego nowhere to be found."
@@ -1745,11 +1747,9 @@ msgctxt "01201.flavor"
 msgid "Let this cloak serve as a reminder that no life can be taken without consequence. Each of us, great and small, are woven into the tapestry of existence, and no thread may be pulled without harm being done."
 msgstr "Que cette pelisse serve à vous rappeler qu’aucune vie ne peut être prise sans conséquence. Chacun d’entre nous est tissé dans la tapisserie de l’existence, fragile et vulnérable."
 
-#  SteveRodrigue: Imo, the name of the card should have an uppercase 'L' for lule.
-#  ORIGINAL: "Tunnel de lule"
 msgctxt "01202.name"
 msgid "Scuttler Tunnel"
-msgstr "Tunnel de Lule"
+msgstr "Tunnel de lule"
 
 msgctxt "01202.traits"
 msgid "Underground"
@@ -1779,7 +1779,7 @@ msgstr "Recherchez la carte de votre choix dans le deck Chemin puis placez-la au
 
 msgctxt "01203.flavor"
 msgid "Kordo has imparted to you the wisdom of his years in the wilderness, tracking predators and dangerous biomelds in the name of protecting the balance of nature and the lives of the people he loves."
-msgstr "Kordo vous à transmis la sagesse de ses années passées dans la nature sauvage, à traquer les prédateues et les biosynths dangereux au nom de la protection de la nature et de ceux qu’il aime."
+msgstr "Kordo vous à transmis la sagesse de ses années passées dans la nature sauvage, à traquer les prédateurs et les biosynths dangereux au nom de la protection de la nature et de ceux qu’il aime."
 
 msgctxt "01204.name"
 msgid "Sil's Sketchbook"
@@ -1833,7 +1833,7 @@ msgstr "<b>Épuisez (utilisez 1 modèle) :</b> Épuisez et déplacez un Être Vi
 
 msgctxt "01206.flavor"
 msgid "A gift from Tollin Lang, the sculpture glitters in the sunlight. Tiny shards of glass flow and coalesce as it takes the shape of an rabbit that begins to run and leap about. It's astonishingly lifelike."
-msgstr "Cadeau de Tollin Lang, la sculpte scintille à la lumière du soleil. De minuscules éclats de verre se liquéfient et s’assemblent pour former un lapin qui commence à courir et à bondir. C’est étonnament réaliste."
+msgstr "Cadeau de Tollin Lang, la sculpture scintille à la lumière du soleil. De minuscules éclats de verre se liquéfient et s’assemblent pour former un lapin qui commence à courir et à bondir. C’est étonnament réaliste."
 
 msgctxt "01207.name"
 msgid "Reclaimer Mucus"
@@ -1850,7 +1850,7 @@ msgid ""
 "<b>Response:</b> When the attached card fatigues a Ranger, add 1[harm] to it."
 msgstr ""
 "S’associe à une carte Chemin.\n"
-"Réduit la présence de la cate associée de 2.\n"
+"Réduit la présence de la carte associée de 2.\n"
 "­<b>Réaction :</b> Lorsque la carte associée fatigue un Ranger, ajoutez-lui 1[harm]."
 
 msgctxt "01208.name"
@@ -1867,7 +1867,7 @@ msgstr "<b>[AWA] + [reason] (utiliser 1 graphe) : Calibrez</b> <f>le dispositif 
 
 msgctxt "01208.flavor"
 msgid "Recovered from a crumbling ruin in the Marsh of Rebirth, this mysterious piece of Estian technology somehow scans the nearby environment and brings it to life in the palm of your hand."
-msgstr "Récupéré dans une ruine du Marais de la Renaissance, cet object mystérieux de technologie estienne scanne en quelques sorte l’environnement proche et lui donne vie dans la paume de votre main."
+msgstr "Récupéré dans une ruine du Marais de la Renaissance, cet objet mystérieux de technologie estienne scanne en quelques sorte l’environnement proche et lui donne vie dans la paume de votre main."
 
 msgctxt "01209.name"
 msgid "Quiet"
@@ -1929,9 +1929,9 @@ msgstr "Tech / Arme"
 
 msgctxt "01212.text"
 msgid "<b>[FIT] + [conflict] (use 1 fiber): Slice [X]</b> <f>with the fibrous blade to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence."
-msgstr "<b>[FIT] + [conflict] (utiliser 1 fibre) : Tranchez [X]</b> <f>avec la fibre acérée pour</f> ajoutet autant de [harm] à un Être Vivant que votre effort. Si vous échouez subissez 1 blessure. X est égal à la présence de l’Être Vivant."
+msgstr "<b>[FIT] + [conflict] (utiliser 1 fibre) : Tranchez [X]</b> <f>avec la fibre acérée pour</f> ajouter autant de [harm] à un Être Vivant que votre effort. Si vous échouez subissez 1 blessure. X est égal à la présence de l’Être Vivant."
 
-#  In the French version, this flavor text is not present on the (physical) card - Not enough room.
+#  SteveRodrigue: In the French version, this flavor text is not present on the (physical) card - Not enough room.
 msgctxt "01212.flavor"
 msgid "This blade looks like a small bolt of cloth, but when flicked a certain way, it instantly stiffens into a razor-sharp knife."
 msgstr "Cette lame ressemble à un petit morceau de tissu, mais lorqu’elle est agitée d’une certaine façon, elle se raidit instantanément pour devenir un couteau tranchant comme un rasoir."
@@ -2084,7 +2084,7 @@ msgstr "<b>Réaction :</b> Lorqu’un Ranger effectue un test, augmentez l’eff
 
 msgctxt "01221.flavor"
 msgid "After spending a harrowing night with Jaris atop Greenbriar Knoll, you feel there is nothing you can't do. Fear is but a construct of the mind, a fiction with precious little basis in fact, that courage may swiftly overcome."
-msgstr "Après avoir passé une nuit éprouvante avec Jaris au somme du Tertre de Verbruyère, vous pensez qu’il n’y a rien désormais que voue ne puissier faire. LA peur n’est qu’une construction de l’esprit, une fiction que le courage peut surmonter."
+msgstr "Après avoir passé une nuit éprouvante avec Jaris au somme du Tertre de Verbruyère, vous pensez qu’il n’y a rien désormais que vous ne puissier faire. La peur n’est qu’une construction de l’esprit, une fiction que le courage peut surmonter."
 
 msgctxt "01222.name"
 msgid "Biosign Sensor"
@@ -2104,7 +2104,7 @@ msgstr ""
 
 msgctxt "01222.flavor"
 msgid "The sensor blinks with warms dots of light, pulsing with the heartbeat of each nearby being."
-msgstr "Le capteur affiche des points lumineux clignotant au rythme des battements de cœur de chaque être vivant à proximité."
+msgstr "Le capteur affiche des points lumineux clignotants au rythme des battements de cœur de chaque être vivant à proximité."
 
 msgctxt "01223.name"
 msgid "Dendritic Vine"
@@ -2120,7 +2120,7 @@ msgstr "<b>Utilisez 1 choc :</b> Lorsque vous vous reposez, observez 3 cartes Ra
 
 msgctxt "01223.flavor"
 msgid "Plucked from within the terravore, this \"vine\" comes to life with a thought, sending branching growths over the surface of your skin, somehow enhancing your natural abilities."
-msgstr "Cueillie à l’intérieur du terravore, cette \"liane\" prend viepar la pensée, tressant un réseau végétal à la surface de votre peau, améliorant en quelque sorte vos capacités naturelles."
+msgstr "Cueillie à l’intérieur du terravore, cette \"liane\" prend vie par la pensée, tressant un réseau végétal à la surface de votre peau, améliorant en quelque sorte vos capacités naturelles."
 
 msgctxt "01224.name"
 msgid "Clarity of the Headwaters"
@@ -2168,7 +2168,7 @@ msgstr "Ajouter 1[harm] sur chaque Flore. Ajoutez X[progress] sur chaque Être V
 
 msgctxt "01226.flavor"
 msgid "The complex flavors of the stew blend perfectly--rich but not overpowering, fresh but hearty, warm and soothing yet light and effervescent."
-msgstr "Les saveurs complexes du regoût se mélangent parfaitement, riches, mais pas trop fortes, fraîches et réconfortantes."
+msgstr "Les saveurs complexes du ragoût se mélangent parfaitement, riches, mais pas trop fortes, fraîches et réconfortantes."
 
 msgctxt "01227.name"
 msgid "Philosopher's Honey"
@@ -2184,7 +2184,7 @@ msgstr "<b>Épuisez (utiliser 1 cuiller) :</b> Choisissez un Ranger. Ce Ranger r
 
 msgctxt "01227.flavor"
 msgid "The smallest taste sends a warming sensation throughout your body. Your senses tingle as colors become more vibrant, scents more fragrant."
-msgstr "La moindre saveur envoie une sensation de chaleur dans tout votre corps. Vos sens se mettent à vibrer lorsque les parfuns deviennent plus odorants."
+msgstr "La moindre saveur envoie une sensation de chaleur dans tout votre corps. Vos sens se mettent à vibrer lorsque les parfums deviennent plus odorants."
 
 msgctxt "01228.name"
 msgid "Quisi's Favorite Snack"
@@ -2232,7 +2232,7 @@ msgstr "Chaque Ranger réduit sa Fatigue à 0."
 
 msgctxt "01230.flavor"
 msgid "You close your eyes and give thanks to the spirit of the Earth, and to the spirits of all who dwell within her nurturing embrace. You feel a deep sense of calm and of purpose, knowing that your connection to all life is eternal, a bond that even death cannot break."
-msgstr "Vous fermez les yeux et remerciez l’esprit de la Terre, ainsi que les espris de tous ceux qui vivent dans son étreinte nourricière. Vous ressentez un profond sentiment de calme et de détermination, sachant que votre lien avec toute vie est éternel, un lien nque même la more ne peut briser."
+msgstr "Vous fermez les yeux et remerciez l’esprit de la Terre, ainsi que les esprits de tous ceux qui vivent dans son étreinte nourricière. Vous ressentez un profond sentiment de calme et de détermination, sachant que votre lien avec toute vie est éternel, un lien nque même la mort ne peut briser."
 
 msgctxt "01231.name"
 msgid "Ranger Badge"
@@ -2268,6 +2268,6 @@ msgid ""
 "<b>Response:</b> When you draw this card, attach it to your role.\n"
 "<b>[FIT] + [reason]: Treat [2]</b> <f>and bandage the injury to</f> return this card to your collection."
 msgstr ""
-"Augmente la Fatigue de 2."
+"Augmente la Fatigue de 2.\n"
 "<b>Réaction :</b> Quand vous piochez cette carte, associez-la à votre Rôle.\n"
 "<b>[FIT] + [reason] : Soignez [2]</b> <f>et pansez la blessure pour</f> remettre cette carte dans votre collection."
