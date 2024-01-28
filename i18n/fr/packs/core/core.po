@@ -76,7 +76,7 @@ msgid "It's a delicious medley of cherry moss pemmican, marbled great beans, sta
 msgstr "C’est un délicieux mélange de pemmican aux mousses-cerises, de haricots vers marbrés, de caramboles, d’amandes et de quelques surprises."
 
 # @zzorba: Why cards 01005 and 01006 are in reverse order?
-#          The English core.json is also in reverse order.
+# The English core.json is also in reverse order.
 msgctxt "01006.name"
 msgid "Perfect Recall"
 msgstr "Souvenir Parfait"
@@ -189,7 +189,7 @@ msgctxt "01011.text"
 msgid ""
 "Reduce the equip value of your gear by 1 (to a minimum of 1).\n"
 "[AWA] + [reason] <b>use 1 pocket: Open</b> <f>your belt pouch and reach inside</f> to search your Ranger deck for a gear and add it to your hand."
-msgstr "" 
+msgstr ""
 "Réduisez de 1 la valeur d’encombrement de chacun de vos Accessoires (jusqu’à un minimum de 1).\n"
 "<b>[AWA] + [reason] (utilisez 1 poche) : Fouillez </b> <f>l’une des poches de votre ceinturon pour</f> rechercher un Accessoire dans votre Deck Ranger et l’ajouter à votre main."
 
@@ -693,11 +693,10 @@ msgctxt "01042.name"
 msgid "Boundary Sensor"
 msgstr "Capteur de Proximité"
 
-#  Following isn't required for French Translation
-#  msgctxt "01042.traits"
-#  msgid "Tech"
-#  msgstr "Tech"
-
+# Following isn't required for French Translation
+# msgctxt "01042.traits"
+# msgid "Tech"
+# msgstr "Tech"
 msgctxt "01042.text"
 msgid "<b>Exhaust (use 1 sensor):</b> When a Ranger performs a <b>Traverse</b> test, commit 1 effort."
 msgstr "<b>Épuisez (utiliser 1 capteur) :</b> Lorsqu’un Ranger effectue un test <b>Traverser</b>, augmentez l’effort de 1."
@@ -884,11 +883,10 @@ msgctxt "01055.name"
 msgid "Dayhowler"
 msgstr "Hurleur Diurne"
 
-#  Following isn't required for French Translation
-#  msgctxt "01055.traits"
-#  msgid "Tech"
-#  msgstr "Tech"
-
+# Following isn't required for French Translation
+# msgctxt "01055.traits"
+# msgid "Tech"
+# msgstr "Tech"
 msgctxt "01055.text"
 msgid ""
 "Discard this gear from play to exhaust beings equal to the number of charges on this gear.\n"
@@ -1043,8 +1041,8 @@ msgctxt "01065.name"
 msgid "Guardian"
 msgstr "Gardien"
 
-#  ORIGINAL: "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin de votre tour."
-#  ERRATA: "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin du tour."
+# ORIGINAL: "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin de votre tour."
+# ERRATA: "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin du tour."
 msgctxt "01065.text"
 msgid "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of your turn."
 msgstr "<b>Épuisez :</b> La présence d’un Être Vivant est réduite à 0 jusqu’à la fin du tour."
@@ -1239,7 +1237,6 @@ msgstr ""
 "Amical. Persistant. Unique.\n"
 "<b>Épuisez :</b> Défaussez 1[progress] de cet Être Vivant pour ajouter 1 jeton sur une carte Aide et 2[progress] sur un autre Être Vivant."
 
-
 msgctxt "01077.flavor"
 msgid "Pokodo is unswervingly loyal and adored by all who meet her."
 msgstr "Pokodo est d’une loyauté inébranlable et est adoré par tous ceux qui le rencontrent."
@@ -1332,11 +1329,10 @@ msgctxt "01084.name"
 msgid "What Should Never Be"
 msgstr "Ce Qui ne Devait Jamais Être"
 
-#  Following isn't required for French Translation
-#  msgctxt "01084.traits"
-#  msgid "Manifestation"
-#  msgstr "Manifestation"
-
+# Following isn't required for French Translation
+# msgctxt "01084.traits"
+# msgid "Manifestation"
+# msgstr "Manifestation"
 msgctxt "01084.text"
 msgid ""
 "Manifestation.\n"
@@ -1349,11 +1345,10 @@ msgctxt "01085.name"
 msgid "Shape the Earth"
 msgstr "Façonner la Terre"
 
-#  Following isn't required for French Translation
-#  msgctxt "01085.traits"
-#  msgid "Manifestation"
-#  msgstr "Manifestation"
-
+# Following isn't required for French Translation
+# msgctxt "01085.traits"
+# msgid "Manifestation"
+# msgstr "Manifestation"
 msgctxt "01085.text"
 msgid ""
 "Manifestation. <f>(To play a manifestation, discard 1 token from a conduit.)</f>\n"
@@ -1384,11 +1379,10 @@ msgctxt "01087.name"
 msgid "Throng of Life"
 msgstr "Déferlement de Vivacité"
 
-#  Following isn't required for French Translation
-#  msgctxt "01087.traits"
-#  msgid "Manifestation"
-#  msgstr "Manifestation"
-
+# Following isn't required for French Translation
+# msgctxt "01087.traits"
+# msgid "Manifestation"
+# msgstr "Manifestation"
 msgctxt "01087.text"
 msgid ""
 "Manifestation. <f>(To play a manifestation, discard 1 token from a conduit.)</f>\n"
@@ -1401,11 +1395,10 @@ msgctxt "01088.name"
 msgid "Novice Lens"
 msgstr "Lentille du Novice"
 
-#  Following isn't required for French Translation
-#  msgctxt "01088.traits"
-#  msgid "Tech"
-#  msgstr "Tech"
-
+# Following isn't required for French Translation
+# msgctxt "01088.traits"
+# msgid "Tech"
+# msgstr "Tech"
 msgctxt "01088.text"
 msgid ""
 "<b>Response:</b> After you perform a test in which you committed 1 or more manifestation, gain 1 [FOC].\n"
@@ -1436,11 +1429,10 @@ msgctxt "01090.name"
 msgid "Harmonize"
 msgstr "Harmonisation"
 
-#  Following isn't required for French Translation
-#  msgctxt "01090.traits"
-#  msgid "Manifestation"
-#  msgstr "Manifestation"
-
+# Following isn't required for French Translation
+# msgctxt "01090.traits"
+# msgid "Manifestation"
+# msgstr "Manifestation"
 # SteveRodrigue: For clarity and consistency, we could add  "<f>(Pour jouer une manifestation, défaussez 1 jeton d’un catalyseur).</f>" to the "Manifestation.\n" line below
 msgctxt "01090.text"
 msgid ""
@@ -1456,11 +1448,10 @@ msgctxt "01091.name"
 msgid "Seen Through Cycles"
 msgstr "Cycles de la Vie"
 
-#  Following isn't required for French Translation
-#  msgctxt "01091.traits"
-#  msgid "Manifestation"
-#  msgstr "Manifestation"
-
+# Following isn't required for French Translation
+# msgctxt "01091.traits"
+# msgid "Manifestation"
+# msgstr "Manifestation"
 msgctxt "01091.text"
 msgid ""
 "Manifestation. <f>(To play a manifestation, discard 1 token from a conduit.)</f>\n"
@@ -1469,7 +1460,7 @@ msgstr ""
 "Manifestation. <f>(Pour jouer une manifestation, défaussez 1 jeton d’un catalyseur).</f>\n"
 "Choisissez un Être Vivant en jeu et mélangez-le dans le deck Chemin. Puis, recherchez un Être Vivant dans le deck Chemin et la défausse et mettez-le en jeu."
 
-#  SteveRodrigue: Doesn't translate properly in onto the WEBui? Wait for the next merge to validate.
+# SteveRodrigue: Doesn't translate properly in onto the WEBui? Wait for the next merge to validate.
 msgctxt "01092.name"
 msgid "Scepter of Harmony"
 msgstr "Sceptre d’Harmonie"
@@ -1512,7 +1503,7 @@ msgctxt "01094.traits"
 msgid "Innate"
 msgstr "Inné"
 
-#  The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
+# The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
 msgctxt "01094.text"
 msgid "The number of [conflict] on this attribute is equal to the number of [AWA] in your energy pool."
 msgstr "Le nombre de [conflict] sur cet Attribut est égal au nombre de [AWA] dans votre réserve d’énergie."
@@ -1589,7 +1580,7 @@ msgctxt "01099.traits"
 msgid "Innate"
 msgstr "Inné"
 
-#  The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
+# The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
 msgctxt "01099.text"
 msgid "The number of [exploration] on this attribute is equal to the number of [FIT] in your energy pool."
 msgstr "Le nombre de [exploration] sur cet Attribut est égal au nombre de [FIT] dans votre réserve d’énergie."
@@ -1650,7 +1641,7 @@ msgctxt "01103.traits"
 msgid "Innate"
 msgstr "Inné"
 
-#  The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
+# The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
 msgctxt "01103.text"
 msgid "The number of [reason] on this attribute is equal to the number of [FOC] in your energy pool."
 msgstr "Le nombre de [reason] sur cet Attribut est égal au nombre de [FOC] dans votre réserve d’énergie."
@@ -1711,7 +1702,8 @@ msgctxt "01107.traits"
 msgid "Innate"
 msgstr "Inné"
 
-#  The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.msgctxt "01107.text"
+# The following card contains an asterisk with the [conflict] icon, which isn't referred in the following string.
+msgctxt "01107.text"
 msgid "The number of [connection] on this attribute is equal to the number of [SPI] in your energy pool."
 msgstr "Le nombre de [connection] sur cet Attribut est égal au nombre de [SPI] dans votre réserve d’énergie."
 
@@ -1801,11 +1793,10 @@ msgctxt "01205.name"
 msgid "Light As a Feather"
 msgstr "Léger comme une plume"
 
-#  Following isn't required for French Translation
-#  msgctxt "01205.traits"
-#  msgid "Manifestation"
-#  msgstr "Manifestation"
-
+# Following isn't required for French Translation
+# msgctxt "01205.traits"
+# msgid "Manifestation"
+# msgstr "Manifestation"
 msgctxt "01205.text"
 msgid ""
 "Manifestation.\n"
@@ -1822,11 +1813,10 @@ msgctxt "01206.name"
 msgid "Kinetic Glass Sculpture"
 msgstr "Sculpture en verre cinétique"
 
-#  Following isn't required for French Translation
-#  msgctxt "01206.traits"
-#  msgid "Tech"
-#  msgstr "Tech"
-
+# Following isn't required for French Translation
+# msgctxt "01206.traits"
+# msgid "Tech"
+# msgstr "Tech"
 msgctxt "01206.text"
 msgid "<b>Exhaust (use 1 form):</b> Exhaust and move a being."
 msgstr "<b>Épuisez (utilisez 1 modèle) :</b> Épuisez et déplacez un Être Vivant."
@@ -1931,7 +1921,7 @@ msgctxt "01212.text"
 msgid "<b>[FIT] + [conflict] (use 1 fiber): Slice [X]</b> <f>with the fibrous blade to</f> add [harm] to a being equal to your effort. If you fail, suffer 1 injury. X is equal to the being's presence."
 msgstr "<b>[FIT] + [conflict] (utiliser 1 fibre) : Tranchez [X]</b> <f>avec la fibre acérée pour</f> ajouter autant de [harm] à un Être Vivant que votre effort. Si vous échouez subissez 1 blessure. X est égal à la présence de l’Être Vivant."
 
-#  SteveRodrigue: In the French version, this flavor text is not present on the (physical) card - Not enough room.
+# SteveRodrigue: In the French version, this flavor text is not present on the (physical) card - Not enough room.
 msgctxt "01212.flavor"
 msgid "This blade looks like a small bolt of cloth, but when flicked a certain way, it instantly stiffens into a razor-sharp knife."
 msgstr "Cette lame ressemble à un petit morceau de tissu, mais lorqu’elle est agitée d’une certaine façon, elle se raidit instantanément pour devenir un couteau tranchant comme un rasoir."
@@ -2004,7 +1994,7 @@ msgctxt "01216.flavor"
 msgid "Thanks to you, Tala has found a home after years of wandering in exile. In exchange, she shared with you the climbing techniques employed by her people."
 msgstr "Grâce à vous, Tala a trouvé un foyer après des années d’exil. En échange, elle a partagé avec vous les techniques d’escalade employées par son peuple."
 
-#  SteveRodrigue: I would have translated it to "L’ombre d’Umbra" to match the English tone.
+# SteveRodrigue: I would have translated it to "L’ombre d’Umbra" to match the English tone.
 msgctxt "01217.name"
 msgid "Umbra's Shadow"
 msgstr "Ombre d’Umbra"
@@ -2029,7 +2019,7 @@ msgctxt "01218.traits"
 msgid "Tech / Estian"
 msgstr "Tech / Estien"
 
-#  SteveRodrigue: A better translation for the second phrase may be: "Dépensez 1 énergie correspondant à l’aspect de ce modificateur pour l’utiliser à la place pour ce test."
+# SteveRodrigue: A better translation for the second phrase may be: "Dépensez 1 énergie correspondant à l’aspect de ce modificateur pour l’utiliser à la place pour ce test."
 msgctxt "01218.text"
 msgid "<b>Use 1 needles:</b> When a Ranger reveals a challenge card during a test, choose a modifier from that card. Spend 1 energy matching that modifier's aspect to use it for this test instead."
 msgstr "<b>Utilisez 1 aiguille :</b> Lorqu’un Ranger pioche une carte Défi pendant un test, choisissez un modificateur sur cette carte. Dépensez 1 énergie correspondant à l’aspect de ce modificateur pour utiliser cet aspect pour ce test."
@@ -2271,3 +2261,43 @@ msgstr ""
 "Augmente la Fatigue de 2.\n"
 "<b>Réaction :</b> Quand vous piochez cette carte, associez-la à votre Rôle.\n"
 "<b>[FIT] + [reason] : Soignez [2]</b> <f>et pansez la blessure pour</f> remettre cette carte dans votre collection."
+
+msgctxt "01042.traits"
+msgid "Tech"
+msgstr ""
+
+msgctxt "01055.traits"
+msgid "Tech"
+msgstr ""
+
+msgctxt "01084.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01085.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01087.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01088.traits"
+msgid "Tech"
+msgstr ""
+
+msgctxt "01090.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01091.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01205.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01206.traits"
+msgid "Tech"
+msgstr ""
