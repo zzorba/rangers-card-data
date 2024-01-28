@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgctxt "AWA.name"
+msgid "Awareness"
+msgstr ""
+
+msgctxt "AWA.short_name"
+msgid "AWA"
+msgstr ""
+
+msgctxt "FIT.name"
+msgid "Fitness"
+msgstr ""
+
+msgctxt "FIT.short_name"
+msgid "FIT"
+msgstr ""
+
+msgctxt "FOC.name"
+msgid "Focus"
+msgstr ""
+
+msgctxt "FOC.short_name"
+msgid "FOC"
+msgstr ""
+
+msgctxt "SPI.name"
+msgid "Spirit"
+msgstr ""
+
+msgctxt "SPI.short_name"
+msgid "SPI"
+msgstr ""
