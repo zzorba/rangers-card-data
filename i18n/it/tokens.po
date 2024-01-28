@@ -126,7 +126,7 @@ msgid "Morsel,Morsels"
 msgstr "Boccone,Bocconi"
 
 msgctxt "pocket.name"
-msgid "Pocker"
+msgid "Pocket"
 msgstr "Tasca"
 
 msgctxt "pocket.plurals"

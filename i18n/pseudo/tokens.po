@@ -124,7 +124,7 @@ msgid "Morsel,Morsels"
 msgstr ""
 
 msgctxt "pocket.name"
-msgid "Pocker"
+msgid "Pocket"
 msgstr ""
 
 msgctxt "pocket.plurals"
