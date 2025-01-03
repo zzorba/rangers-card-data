@@ -1204,7 +1204,7 @@
     "set_position": 1,
     "name": "Guardian",
     "type_id": "role",
-    "text": "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of your turn.",
+    "text": "<b>Exhaust:</b> Reduce a being’s presence to 0 until the end of the turn.",
     "illustrator": "Evan Simonet"
   },
   {
