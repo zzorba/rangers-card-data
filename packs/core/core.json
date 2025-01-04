@@ -507,7 +507,7 @@
     "harm": 3,
     "type_id": "being",
     "traits": "Companion / Mammal / Expert",
-    "text": "Friendly. Persistent. Unique.\n<b>Exhaust:</b> Move a being and add 2[progress] to it.\n[FIT] + [connection]<b>: Pet</b> <f>your canine companion</f> to ready this being and soothe 1 fatigue.",
+    "text": "Friendly. Persistent. Unique.\n<b>Exhaust:</b> Move a being and add 2[progress] to it.\n[FIT] + [connection]<b>: Pet</b> <f>your canine companion to</f> ready this being and soothe 1 fatigue.",
     "approach_connection": 1,
     "illustrator": "Evan Simonet"
   },
@@ -1425,7 +1425,7 @@
     "presence": 1,
     "harm": 1,
     "traits": "Companion / Mammal",
-    "text": "Friendly. Persistent. Unique.\n<b>Exhaust:</b> Discard 1[progress] from this being to add 1 token to an Aid card and 2[progress] to another being.",
+    "text": "Friendly. Persistent. Unique.\n<b>Exhaust:</b> Discard 1[progress] from this being to add 1 token to an aid card and 2[progress] to another being.",
     "approach_exploration": 1,
     "approach_conflict": 1,
     "flavor": "Pokodo is unswervingly loyal and adored by all who meet her.",
