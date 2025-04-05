@@ -1,0 +1,65 @@
+[
+  {
+    "id": "loa_reward",
+    "name": "Reward",
+    "size": 29
+  },
+  {
+    "id": "sov_artisan",
+    "name": "Artisan",
+    "type_id": "background",
+    "size": 4
+  },
+  {
+    "id": "sov_forager",
+    "name": "Forager",
+    "type_id": "background",
+    "size": 4
+  },
+  {
+    "id": "sov_shepherd",
+    "name": "Shepherd",
+    "type_id": "background",
+    "size": 4
+  },
+  {
+    "id": "sov_traveler",
+    "name": "Traveler",
+    "type_id": "background",
+    "size": 4
+  },
+  {
+    "id": "sov_artificer",
+    "name": "Artificer",
+    "type_id": "specialty",
+    "size": 5
+  },
+  {
+    "id": "sov_conciliator",
+    "name": "Conciliator",
+    "type_id": "specialty",
+    "size": 5
+  },
+  {
+    "id": "sov_shaper",
+    "name": "Shaper",
+    "type_id": "specialty",
+    "size": 5
+  },
+  {
+    "id": "sov_explorer",
+    "name": "Explorer",
+    "type_id": "specialty",
+    "size": 5
+  },
+  {
+    "id": "sov_personality",
+    "name": "Personality",
+    "size": 8
+  },
+  {
+    "id": "sov_rewards",
+    "name": "Rewards",
+    "size": 5
+  }
+]
