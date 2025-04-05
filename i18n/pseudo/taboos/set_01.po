@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Language: pseudo\n"
+"Plural-Forms: nplurals=2l plural=(n != 1);\n"
+
+msgctxt "01002.name"
+msgid "Paths We’ve Roamed Before"
+msgstr ""
+
+msgctxt "01002.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01002.text"
+msgid "Choose up to 4 total moments or attributes not named Paths We've Roamed Before from any number of Ranger discards. Place the chosen cards facedown on the top of their Ranger’s fatigue stack."
+msgstr ""
+
+msgctxt "01002.flavor"
+msgid "As you walk the Valley, you recall the wisdom gained during the seasonal wanderings of your youth."
+msgstr ""
+
+msgctxt "01009.name"
+msgid "Meditation Pillow"
+msgstr ""
+
+msgctxt "01009.traits"
+msgid "Tool"
+msgstr ""
+
+msgctxt "01009.text"
+msgid "[FOC] + [connection]<b> (use 1 session): Meditate</b> <f>on your journey</f> to shuffle a number of cards from your fatigue stack into your Ranger deck equal to your effort."
+msgstr ""
+
+msgctxt "01009.flavor"
+msgid "You feel that quiet meditation is essential to daily life, and that the ability to enjoy moments of stillness is paramount to one's well-being."
+msgstr ""
+
+msgctxt "01013.name"
+msgid "Functional Replica"
+msgstr ""
+
+msgctxt "01013.traits"
+msgid "Tool / Tech"
+msgstr ""
+
+msgctxt "01013.text"
+msgid "<b>Exhaust (use 1 charge):</b> Choose a Ranger’s equipped tech. Resolve the chosen tech’s effect as if you had used a token from it and/or exhausted it."
+msgstr ""
+
+msgctxt "01013.flavor"
+msgid "So you would discover the artistry in even the simplest of objects, your mentor encouraged you to mimic the work of master craftspeople."
+msgstr ""
+
+msgctxt "01021.name"
+msgid "A Gentle Nudge"
+msgstr ""
+
+msgctxt "01021.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01021.text"
+msgid "One at a time, Each Ranger may move a being within reach of them. Add 1[progress] to each being moved in this way."
+msgstr ""
+
+msgctxt "01021.flavor"
+msgid "You've spent countless days, year after year, in relative solitude, alone but for your flock. In that time you've learned that any being can be reasoned with. You just need to ask nicely (and put your back into it)."
+msgstr ""
+
+msgctxt "01027.name"
+msgid "Oru the Sheep Dog"
+msgstr ""
+
+msgctxt "01027.traits"
+msgid "Companion / Mammal / Expert"
+msgstr ""
+
+msgctxt "01027.text"
+msgid ""
+"Friendly. Persistent. Unique.\n"
+"<b>Exhaust:</b> Move a being and add 1[progress] to it.\n"
+"[FIT] + [connection]<b>: Pet</b> <f>your canine companion to</f> ready this being and soothe 1 fatigue."
+msgstr ""
+
+msgctxt "01041.name"
+msgid "Share in the Valley’s Secrets"
+msgstr ""
+
+msgctxt "01041.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01041.text"
+msgid "Exhaust each obstacle."
+msgstr ""
+
+msgctxt "01041.flavor"
+msgid "Your mentor once took you into the hills beyond Lone Tree, blindfolded, and had you lead the way home in the night, with only the stars to guide you."
+msgstr ""
+
+msgctxt "01044.name"
+msgid "Afforded by Nature"
+msgstr ""
+
+msgctxt "01044.traits"
+msgid "Experience / Weapon"
+msgstr ""
+
+msgctxt "01044.text"
+msgid "Discard any number of [progress] from a trail to add an equal number of [harm] to a being."
+msgstr ""
+
+msgctxt "01044.flavor"
+msgid "You've learned from experience that sometimes a persistent predator can only be dissuaded from its meal by a faceful of rocks or a decaying log suddenly dropped in its path."
+msgstr ""
+
+msgctxt "01065.name"
+msgid "Guardian"
+msgstr ""
+
+msgctxt "01065.text"
+msgid "<b>Exhaust:</b> Reduce a being’s presence by 2 until the end of your turn."
+msgstr ""
+
+msgctxt "01069.name"
+msgid "One With Nature"
+msgstr ""
+
+msgctxt "01069.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01069.text"
+msgid "Reduce the presence of each card in play to 0 until the end of the next turn."
+msgstr ""
+
+msgctxt "01069.flavor"
+msgid "For years you've preserved the harmony of your village by not only fostering love and compassion in your community, but by spending time in the surrounding mountains and forests, connecting with the natural world."
+msgstr ""
+
+msgctxt "01074.name"
+msgid "Safeguard"
+msgstr ""
+
+msgctxt "01074.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "01074.text"
+msgid "<b>Response:</b> When a Ranger would suffer an injury or [harm] would be added to a being, cancel that effect."
+msgstr ""
+
+msgctxt "01074.flavor"
+msgid "You are selfless in your defense of others, knowing that all wounds are temporary, and the scars you carry are reminders of your sworn duty."
+msgstr ""
+
+msgctxt "01075.name"
+msgid "Nidocyte Sentinel"
+msgstr ""
+
+msgctxt "01075.traits"
+msgid "Tech / Aid"
+msgstr ""
+
+msgctxt "01075.text"
+msgid ""
+"Attach to the location.\n"
+"<b>Use 1 alarm:</b> Before a challenge effect on a being would resolve, cancel that effect."
+msgstr ""
+
+msgctxt "01075.flavor"
+msgid "A small ceramic device worn at your waist sends a pulse of energy to your chest, altering you to potential dangers."
+msgstr ""
+
+msgctxt "01077.name"
+msgid "Pokodo the Ferret"
+msgstr ""
+
+msgctxt "01077.traits"
+msgid "Companion / Mammal"
+msgstr ""
+
+msgctxt "01077.text"
+msgid ""
+"Friendly. Persistent. Unique.\n"
+"<b>Exhaust:</b> Discard 1[progress] from this being to add 1 token to an aid card or 2[progress] to another being."
+msgstr ""
+
+msgctxt "01077.flavor"
+msgid "Pokodo is unswervingly loyal and adored by all who meet her."
+msgstr ""
+
+msgctxt "01080.name"
+msgid "Prodigy of the Floating Tower"
+msgstr ""
+
+msgctxt "01080.text"
+msgid "<b>Exhaust:</b> Discard a card from your hand to choose a manifestation in your discard and add it to your hand."
+msgstr ""
+
+msgctxt "01084.name"
+msgid "What Should Never Be"
+msgstr ""
+
+msgctxt "01084.traits"
+msgid "Manifestation"
+msgstr ""
+
+msgctxt "01084.text"
+msgid ""
+"Manifestation.\n"
+"<b>Response:</b> When drawing challenge cards during a test, draw and discard challenge cards one at a time until you choose to stop. Use the last challenge card drawn for this test, and suffer fatigue equal to the number of cards discarded this way."
+msgstr ""
+
+msgctxt "01226.name"
+msgid "Hy Pimpot's Secret Recipe"
+msgstr ""
+
+msgctxt "01226.traits"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "01226.text"
+msgid "Add 1[harm] to up to 5 flora. Add X[progress] to each being. Then each ranger soothes X fatigue. X is equal to the total number of [harm] added by this card."
+msgstr ""
+
+msgctxt "01226.flavor"
+msgid "The complex flavors of the stew blend perfectly--rich but not overpowering, fresh but hearty, warm and soothing yet light and effervescent."
+msgstr ""
