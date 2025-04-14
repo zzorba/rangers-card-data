@@ -375,7 +375,7 @@ msgstr "Опыт"
 
 msgctxt "01022.text"
 msgid "Move all [progress] from a being to a feature."
-msgstr "Перенесите все [progress] с <i>Существа</i> на <i>Объект</i>."
+msgstr "Перенесите все [progress] с <i>существа</i> на <i>объект</i>."
 
 msgctxt "01022.flavor"
 msgid "Your uncle loves to regale any who'll listen with the Tale of the Shepherd and the Relgerbeast. The shepherd in the tale saves his flock not by harming the beast, but by riding it back to the village. It then becomes a valued member of the community, rooting out Scrofs in the field."
@@ -1031,7 +1031,7 @@ msgstr "Опыт"
 
 msgctxt "01064.text"
 msgid "<b>Reponse:</b> When a Ranger would suffer 1 or more fatigue, they soothe that amount of fatigue instead."
-msgstr "<b>Реакция:</b> вместо того чтобы испытать 1+усталость, рейнджер снимает столько же усталости."
+msgstr "<b>Реакция:</b> вместо того чтобы испытать 1+ усталость, рейнджер снимает столько же усталости."
 
 msgctxt "01064.flavor"
 msgid "You never leave your workshop without the tools essential to survival in the wilderness.The right tool can turn even the most exhausting of endeavors into a moment of exhilaration."
@@ -1517,7 +1517,7 @@ msgstr "Врожденное"
 
 msgctxt "01095.text"
 msgid "After you succeed at a test in which you committed this attribute, gain 1 [AWA]."
-msgstr "После успешного испытания, в котором вы использовали «Восприимчивость», получите 1[AWA]."
+msgstr "После успешного испытания, в котором вы использовали «Восприимчивость», получите 1 [AWA]."
 
 msgctxt "01095.flavor"
 msgid "The world comes to life as you perceive every detail of your surroundings: the gentle sway of grass in the bloom-scented breeze, the melodic buzz of insects in the forest, and the reflected light of the sun as it gives shape to all within your vision."
