@@ -24,6 +24,12 @@
     "size": 9
   },
   {
+    "id": "talespinner",
+    "name": "Talespinner",
+    "type_id": "background",
+    "size": 13
+  },
+  {
     "id": "artificer",
     "name": "Artificer",
     "type_id": "specialty",
@@ -46,6 +52,12 @@
     "name": "Explorer",
     "type_id": "specialty",
     "size": 14
+  },
+  {
+    "id": "spirit_speaker",
+    "name": "Spirit Speaker",
+    "type_id": "specialty",
+    "size": 19
   },
   {
     "id": "personality",

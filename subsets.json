@@ -2,64 +2,86 @@
   {
     "id": "loa_reward",
     "name": "Reward",
-    "size": 29
+    "size": 29,
+    "set_id": "reward",
+    "pack_id": "loa"
   },
   {
-    "id": "sov_artisan",
+    "id": "sotv_artisan",
     "name": "Artisan",
     "type_id": "background",
-    "size": 4
+    "size": 4,
+    "set_id": "artisan",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_forager",
+    "id": "sotv_forager",
     "name": "Forager",
     "type_id": "background",
-    "size": 4
+    "size": 4,
+    "set_id": "forager",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_shepherd",
+    "id": "sotv_shepherd",
     "name": "Shepherd",
     "type_id": "background",
-    "size": 4
+    "size": 4,
+    "set_id": "shepherd",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_traveler",
+    "id": "sotv_traveler",
     "name": "Traveler",
     "type_id": "background",
-    "size": 4
+    "size": 4,
+    "set_id": "traveler",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_artificer",
+    "id": "sotv_artificer",
     "name": "Artificer",
     "type_id": "specialty",
-    "size": 5
+    "size": 5,
+    "set_id": "artificer",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_conciliator",
+    "id": "sotv_conciliator",
     "name": "Conciliator",
     "type_id": "specialty",
-    "size": 5
+    "size": 5,
+    "set_id": "conciliator",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_shaper",
+    "id": "sotv_shaper",
     "name": "Shaper",
     "type_id": "specialty",
-    "size": 5
+    "size": 5,
+    "set_id": "shaper",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_explorer",
+    "id": "sotv_explorer",
     "name": "Explorer",
     "type_id": "specialty",
-    "size": 5
+    "size": 5,
+    "set_id": "explorer",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_personality",
+    "id": "sotv_personality",
     "name": "Personality",
-    "size": 8
+    "size": 8,
+    "set_id": "personality",
+    "pack_id": "sotv"
   },
   {
-    "id": "sov_rewards",
-    "name": "Rewards",
-    "size": 5
+    "id": "sotv_reward",
+    "name": "Reward",
+    "size": 5,
+    "set_id": "reward",
+    "pack_id": "sotv"
   }
 ]
