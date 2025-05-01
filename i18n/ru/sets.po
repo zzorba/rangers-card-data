@@ -96,3 +96,11 @@ msgstr "Долина"
 msgctxt "general.name"
 msgid "General"
 msgstr "Общий набор"
+
+msgctxt "talespinner.name"
+msgid "Talespinner"
+msgstr ""
+
+msgctxt "spirit_speaker.name"
+msgid "Spirit Speaker"
+msgstr ""

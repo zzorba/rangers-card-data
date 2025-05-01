@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgctxt "loa_reward.name"
+msgid "Reward"
+msgstr ""
+
+msgctxt "sotv_artisan.name"
+msgid "Artisan"
+msgstr ""
+
+msgctxt "sotv_forager.name"
+msgid "Forager"
+msgstr ""
+
+msgctxt "sotv_shepherd.name"
+msgid "Shepherd"
+msgstr ""
+
+msgctxt "sotv_traveler.name"
+msgid "Traveler"
+msgstr ""
+
+msgctxt "sotv_artificer.name"
+msgid "Artificer"
+msgstr ""
+
+msgctxt "sotv_conciliator.name"
+msgid "Conciliator"
+msgstr ""
+
+msgctxt "sotv_shaper.name"
+msgid "Shaper"
+msgstr ""
+
+msgctxt "sotv_explorer.name"
+msgid "Explorer"
+msgstr ""
+
+msgctxt "sotv_personality.name"
+msgid "Personality"
+msgstr ""
+
+msgctxt "sotv_reward.name"
+msgid "Reward"
+msgstr ""
