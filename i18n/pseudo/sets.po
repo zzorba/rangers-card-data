@@ -27,6 +27,10 @@ msgctxt "traveler.name"
 msgid "Traveler"
 msgstr ""
 
+msgctxt "talespinner.name"
+msgid "Talespinner"
+msgstr ""
+
 msgctxt "artificer.name"
 msgid "Artificer"
 msgstr ""
@@ -41,6 +45,10 @@ msgstr ""
 
 msgctxt "explorer.name"
 msgid "Explorer"
+msgstr ""
+
+msgctxt "spirit_speaker.name"
+msgid "Spirit Speaker"
 msgstr ""
 
 msgctxt "personality.name"

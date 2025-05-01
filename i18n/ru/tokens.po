@@ -308,3 +308,179 @@ msgstr "Ложка"
 msgctxt "dollop.plurals"
 msgid "Dollop,Dollops"
 msgstr "Ложка,Ложки,Ложек"
+
+msgctxt "flash.name"
+msgid "Flash"
+msgstr ""
+
+msgctxt "flash.plurals"
+msgid "Flash,Flashes"
+msgstr ""
+
+msgctxt "filter.name"
+msgid "Filter"
+msgstr ""
+
+msgctxt "filter.plurals"
+msgid "Filter,Filters"
+msgstr ""
+
+msgctxt "cell.name"
+msgid "Cell"
+msgstr ""
+
+msgctxt "cell.plurals"
+msgid "Cell,Cells"
+msgstr ""
+
+msgctxt "gleam.name"
+msgid "Gleam"
+msgstr ""
+
+msgctxt "gleam.plurals"
+msgid "Gleam,Gleams"
+msgstr ""
+
+msgctxt "puff.name"
+msgid "Puff"
+msgstr ""
+
+msgctxt "puff.plurals"
+msgid "Puff,Puffs"
+msgstr ""
+
+msgctxt "tune.name"
+msgid "Tune"
+msgstr ""
+
+msgctxt "tune.plurals"
+msgid "Tune,Tunes"
+msgstr ""
+
+msgctxt "essay.name"
+msgid "Essay"
+msgstr ""
+
+msgctxt "essay.plurals"
+msgid "Essay,Essays"
+msgstr ""
+
+msgctxt "record.name"
+msgid "Record"
+msgstr ""
+
+msgctxt "record.plurals"
+msgid "Record,Records"
+msgstr ""
+
+msgctxt "story.name"
+msgid "Story"
+msgstr ""
+
+msgctxt "story.plurals"
+msgid "Story,Stories"
+msgstr ""
+
+msgctxt "reading.name"
+msgid "Reading"
+msgstr ""
+
+msgctxt "reading.plurals"
+msgid "Reading,Readings"
+msgstr ""
+
+msgctxt "remote.name"
+msgid "Remote"
+msgstr ""
+
+msgctxt "remote.plurals"
+msgid "Remote,Remotes"
+msgstr ""
+
+msgctxt "strain.name"
+msgid "Strain"
+msgstr ""
+
+msgctxt "strain.plurals"
+msgid "Strain,Strains"
+msgstr ""
+
+msgctxt "beat.name"
+msgid "Beat"
+msgstr ""
+
+msgctxt "beat.plurals"
+msgid "Beat,Beats"
+msgstr ""
+
+msgctxt "insight.name"
+msgid "Insight"
+msgstr ""
+
+msgctxt "insight.plurals"
+msgid "Insight,Insights"
+msgstr ""
+
+msgctxt "hunch.name"
+msgid "Hunch"
+msgstr ""
+
+msgctxt "hunch.plurals"
+msgid "Hunch,Hunches"
+msgstr ""
+
+msgctxt "lesson.name"
+msgid "Lesson"
+msgstr ""
+
+msgctxt "lesson.plurals"
+msgid "Lesson,Lessons"
+msgstr ""
+
+msgctxt "slice.name"
+msgid "Slice"
+msgstr ""
+
+msgctxt "slice.plurals"
+msgid "Slice,Slices"
+msgstr ""
+
+msgctxt "journey.name"
+msgid "Journey"
+msgstr ""
+
+msgctxt "journey.plurals"
+msgid "Journey,Journeys"
+msgstr ""
+
+msgctxt "deed.name"
+msgid "Deed"
+msgstr ""
+
+msgctxt "deed.plurals"
+msgid "Deed,Deeds"
+msgstr ""
+
+msgctxt "melody.name"
+msgid "Melody"
+msgstr ""
+
+msgctxt "melody.plurals"
+msgid "Melody,Melodies"
+msgstr ""
+
+msgctxt "strum.name"
+msgid "Strum"
+msgstr ""
+
+msgctxt "strum.plurals"
+msgid "Strum,Strums"
+msgstr ""
+
+msgctxt "hum.name"
+msgid "Hum"
+msgstr ""
+
+msgctxt "hum.plurals"
+msgid "Hum,Hums"
+msgstr ""
