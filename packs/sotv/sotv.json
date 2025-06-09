@@ -181,7 +181,7 @@
     "traits": "Skill",
     "type_id": "moment",
     "text": "Search your Ranger deck for a being and add it to your hand. You may discard another being from your hand to play the being you searched for without paying its energy cost.",
-    "flavor": "Since you were young you've had a whistle that can be heard at great distances. Your closest friends never take long to respond.",
+    "flavor": "Since you were young, you've had a whistle that can be heard at great distances. Your closest friends never take long to respond.",
     "subset_id": "sotv_shepherd",
     "subset_position": 1
   },
@@ -264,7 +264,7 @@
     "approach_exploration": 1,
     "traits": "Wisdom / Nature",
     "type_id": "moment",
-    "text": "Scout X path cards. X is equal to twice the number of flora in play. If there are no flora in play, search the path deck for the next flora.",
+    "text": "Scout X path cards. X is equal to twice the number of flora in play. If there are no flora in play, search the path deck for the next flora and put it into play.",
     "flavor": "Beneath every rock, behind every tree, and in the moist darkness of the soil, you'll find entire ecosystems at work; life brimming at its fullest, blissful in its relative isolation.",
     "subset_id": "sotv_forager",
     "subset_position": 1
@@ -441,7 +441,7 @@
     "name": "Gregarious Inventor",
     "illustrator": "Evan Simonet",
     "type_id": "role",
-    "text": "<b>Exhaust:</b> Choose a Ranger. That Ranger may search their deck for a gear and add it to their hand <i>(paying its cost)</i>.",
+    "text": "<b>Exhaust:</b> Choose a Ranger. That Ranger may search their deck for a gear and play it <i>(paying its cost)</i>.",
     "subset_id": "sotv_artificer",
     "subset_position": 1
   },
