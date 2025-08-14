@@ -655,7 +655,7 @@
     "type_id": "attachment",
     "token_id": "strain",
     "token_count": 3,
-    "text": "Manifestation.\nAttach to a path card.\n<b>Use 1 strain:</b> When the attached card would ready, it remains exhausted.\n<b>Response:</b> When the attached card leaves play, discard 1 token from a conduit to attach this manifestation to another path card.",
+    "text": "Manifestation.\nAttach to a path card.\n<b>Use 1 strain:</b> When the attached card would ready, it remains exhausted.\n<b>Response:</b> When the attached card leaves play, you may discard 1 token from a conduit to attach this manifestation to another path card.",
     "subset_id": "sotv_shaper",
     "subset_position": 2
   },
@@ -861,7 +861,7 @@
     "approach_exploration": 1,
     "traits": "Knowledge / Spiritual",
     "type_id": "attachment",
-    "text": "Attach to a spirit.\n<b>Response:</b> When a Ranger interacts with a card in the same area as the attached spirit, exhaust that spirit to commit its approach icons to that test.\n<b>Exhaust:</b> Move the attached spirit."
+    "text": "Attach to a spirit.\n<b>Response:</b> When a Ranger interacts with a card in the same area as the attached spirit, you may exhaust that spirit to commit its approach icons to that test.\n<b>Exhaust:</b> Move the attached spirit."
   },
   {
     "id": "03046",
