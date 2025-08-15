@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "core.name"
+msgid "Core set"
+msgstr ""
+
+msgctxt "loa.name"
+msgid "Legacy of the Ancestors"
+msgstr ""
+
+msgctxt "loa.short_name"
+msgid "LOA"
+msgstr ""
+
+msgctxt "sotv.name"
+msgid "Stewards of the Valley"
+msgstr ""
+
+msgctxt "sotv.short_name"
+msgid "SOV"
+msgstr ""
