@@ -5,44 +5,44 @@ msgstr ""
 
 msgctxt "loa_reward.name"
 msgid "Reward"
-msgstr ""
+msgstr "Recompensa"
 
 msgctxt "sotv_artisan.name"
 msgid "Artisan"
-msgstr ""
+msgstr "Artesano"
 
 msgctxt "sotv_forager.name"
 msgid "Forager"
-msgstr ""
+msgstr "Recolector"
 
 msgctxt "sotv_shepherd.name"
 msgid "Shepherd"
-msgstr ""
+msgstr "Pastor"
 
 msgctxt "sotv_traveler.name"
 msgid "Traveler"
-msgstr ""
+msgstr "Viajero"
 
 msgctxt "sotv_artificer.name"
 msgid "Artificer"
-msgstr ""
+msgstr "Inventor"
 
 msgctxt "sotv_conciliator.name"
 msgid "Conciliator"
-msgstr ""
+msgstr "Conciliador"
 
 msgctxt "sotv_shaper.name"
 msgid "Shaper"
-msgstr ""
+msgstr "Moldeador"
 
 msgctxt "sotv_explorer.name"
 msgid "Explorer"
-msgstr ""
+msgstr "Explorador"
 
 msgctxt "sotv_personality.name"
 msgid "Personality"
-msgstr ""
+msgstr "Personalidad"
 
 msgctxt "sotv_reward.name"
 msgid "Reward"
-msgstr ""
+msgstr "Recompensa"

@@ -5,12 +5,12 @@ msgstr ""
 
 msgctxt "play.name"
 msgid "In play"
-msgstr ""
+msgstr "En juego"
 
 msgctxt "reach.name"
 msgid "Within reach"
-msgstr ""
+msgstr "Al alcance"
 
 msgctxt "along.name"
 msgid "Along the way"
-msgstr ""
+msgstr "En el camino"

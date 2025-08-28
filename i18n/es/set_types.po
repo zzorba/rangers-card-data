@@ -5,12 +5,12 @@ msgstr ""
 
 msgctxt "background.name"
 msgid "Background"
-msgstr ""
+msgstr "Origen"
 
 msgctxt "specialty.name"
 msgid "Specialty"
-msgstr ""
+msgstr "Especialidad"
 
 msgctxt "terrain.name"
 msgid "Terrain"
-msgstr ""
+msgstr "Terreno"

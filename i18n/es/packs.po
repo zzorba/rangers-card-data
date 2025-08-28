@@ -5,20 +5,20 @@ msgstr ""
 
 msgctxt "core.name"
 msgid "Core set"
-msgstr ""
+msgstr "Core"
 
 msgctxt "loa.name"
 msgid "Legacy of the Ancestors"
-msgstr ""
+msgstr "Legado de los Ancestros"
 
 msgctxt "loa.short_name"
 msgid "LOA"
-msgstr ""
+msgstr "LDLA"
 
 msgctxt "sotv.name"
 msgid "Stewards of the Valley"
-msgstr ""
+msgstr "Protectores del Valle"
 
 msgctxt "sotv.short_name"
 msgid "SOV"
-msgstr ""
+msgstr "PDV"
