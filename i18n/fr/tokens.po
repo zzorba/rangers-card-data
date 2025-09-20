@@ -309,176 +309,176 @@ msgstr "Cuiller,Cuillers"
 
 msgctxt "flash.name"
 msgid "Flash"
-msgstr ""
+msgstr "Flash"
 
 msgctxt "flash.plurals"
 msgid "Flash,Flashes"
-msgstr ""
+msgstr "Flash,Flashs"
 
 msgctxt "filter.name"
 msgid "Filter"
-msgstr ""
+msgstr "Filtre"
 
 msgctxt "filter.plurals"
 msgid "Filter,Filters"
-msgstr ""
+msgstr "Filtre,Filtres"
 
 msgctxt "cell.name"
 msgid "Cell"
-msgstr ""
+msgstr "Batterie"
 
 msgctxt "cell.plurals"
 msgid "Cell,Cells"
-msgstr ""
+msgstr "Batterie,Batteries"
 
 msgctxt "gleam.name"
 msgid "Gleam"
-msgstr ""
+msgstr "Éclat"
 
 msgctxt "gleam.plurals"
 msgid "Gleam,Gleams"
-msgstr ""
+msgstr "Éclat,Éclats"
 
 msgctxt "puff.name"
 msgid "Puff"
-msgstr ""
+msgstr "Dose"
 
 msgctxt "puff.plurals"
 msgid "Puff,Puffs"
-msgstr ""
+msgstr "Dose,Doses"
 
 msgctxt "tune.name"
 msgid "Tune"
-msgstr ""
+msgstr "Son"
 
 msgctxt "tune.plurals"
 msgid "Tune,Tunes"
-msgstr ""
+msgstr "Son,Sons"
 
 msgctxt "essay.name"
 msgid "Essay"
-msgstr ""
+msgstr "Essai"
 
 msgctxt "essay.plurals"
 msgid "Essay,Essays"
-msgstr ""
+msgstr "Essai,Essais"
 
 msgctxt "record.name"
 msgid "Record"
-msgstr ""
+msgstr "Examen"
 
 msgctxt "record.plurals"
 msgid "Record,Records"
-msgstr ""
+msgstr "Examen,Examens"
 
 msgctxt "story.name"
 msgid "Story"
-msgstr ""
+msgstr "Note"
 
 msgctxt "story.plurals"
 msgid "Story,Stories"
-msgstr ""
+msgstr "Note,Notes"
 
 msgctxt "reading.name"
 msgid "Reading"
-msgstr ""
+msgstr "Lecture"
 
 msgctxt "reading.plurals"
 msgid "Reading,Readings"
-msgstr ""
+msgstr "Lecture,Lectures"
 
 msgctxt "remote.name"
 msgid "Remote"
-msgstr ""
+msgstr "Émetteur"
 
 msgctxt "remote.plurals"
 msgid "Remote,Remotes"
-msgstr ""
+msgstr "Émetteur,Émetteurs"
 
 msgctxt "strain.name"
 msgid "Strain"
-msgstr ""
+msgstr "Stress
 
 msgctxt "strain.plurals"
 msgid "Strain,Strains"
-msgstr ""
+msgstr "Stress,Stress"
 
 msgctxt "beat.name"
 msgid "Beat"
-msgstr ""
+msgstr "Coup"
 
 msgctxt "beat.plurals"
 msgid "Beat,Beats"
-msgstr ""
+msgstr "Coup,Coups"
 
 msgctxt "insight.name"
 msgid "Insight"
-msgstr ""
+msgstr "Idée"
 
 msgctxt "insight.plurals"
 msgid "Insight,Insights"
-msgstr ""
+msgstr "Idée,Idées"
 
 msgctxt "hunch.name"
 msgid "Hunch"
-msgstr ""
+msgstr "Intuition"
 
 msgctxt "hunch.plurals"
 msgid "Hunch,Hunches"
-msgstr ""
+msgstr "Intuition,Intuitions"
 
 msgctxt "lesson.name"
 msgid "Lesson"
-msgstr ""
+msgstr "Leçon"
 
 msgctxt "lesson.plurals"
 msgid "Lesson,Lessons"
-msgstr ""
+msgstr "Leçon,Leçons"
 
 msgctxt "slice.name"
 msgid "Slice"
-msgstr ""
+msgstr "Tranche"
 
 msgctxt "slice.plurals"
 msgid "Slice,Slices"
-msgstr ""
+msgstr "Tranche,Tranches"
 
 msgctxt "journey.name"
 msgid "Journey"
-msgstr ""
+msgstr "Trajet"
 
 msgctxt "journey.plurals"
 msgid "Journey,Journeys"
-msgstr ""
+msgstr "Trajet,Trajets"
 
 msgctxt "deed.name"
 msgid "Deed"
-msgstr ""
+msgstr "Prouesse"
 
 msgctxt "deed.plurals"
 msgid "Deed,Deeds"
-msgstr ""
+msgstr "Prouesse,Prouesses"
 
 msgctxt "melody.name"
 msgid "Melody"
-msgstr ""
+msgstr "Mélodie"
 
 msgctxt "melody.plurals"
 msgid "Melody,Melodies"
-msgstr ""
+msgstr "Mélodie,Mélodies"
 
 msgctxt "strum.name"
 msgid "Strum"
-msgstr ""
+msgstr "Accord"
 
 msgctxt "strum.plurals"
 msgid "Strum,Strums"
-msgstr ""
+msgstr "Accord,Accords"
 
 msgctxt "hum.name"
 msgid "Hum"
-msgstr ""
+msgstr "Repos"
 
 msgctxt "hum.plurals"
 msgid "Hum,Hums"
-msgstr ""
+msgstr "Repos,Repos"

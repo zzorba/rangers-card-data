@@ -13,25 +13,27 @@ msgstr ""
 
 msgctxt "02201.name"
 msgid "Lambance Rig"
-msgstr ""
+msgstr "Éclairage Portatif"
 
 msgctxt "02201.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "02201.text"
 msgid ""
 "<b>Exhaust (use 1 flash)</b>: Choose a path card. That card gains illumination until the end of the turn.\n"
 "[FOC] + [reason] (use 1 flash): Distract</b> <f>with a brilliant flash of light to</f> exhaust a being."
 msgstr ""
+"<b>Épuisez (utilisez 1 flash)</b> : Choisissez une carte Chemin. Cette carte gagne Illumination jusqu’à la fin du tour.\n"
+"[FOC] + [reason] (utilisez 1 flash) : Émettez</b> <f>un brillant flash de lumière pour</f> épuiser un Être Vivant."
 
 msgctxt "02202.name"
 msgid "\"Lucky\" Cloak"
-msgstr ""
+msgstr "Cape Porte-Bonheur"
 
 msgctxt "02202.traits"
 msgid "Clothing"
-msgstr ""
+msgstr "Habit"
 
 msgctxt "02202.text"
 msgid ""
@@ -40,14 +42,19 @@ msgid ""
 "[mountain] Prevent that fatigue.\n"
 "[crest] Suffer 1 additional fatigue or discard this gear."
 msgstr ""
+"<b>Épuisez :</b> Lorsque vous devriez subir 1 Fatigue ou plus, piochez une carte Défi et appliquez l’effet suivant selon son icône :\n"
+"[sun] Réduisez cette quantité de Fatigue à la place.\n"
+"[mountain] Ne subissez pas cette Fatigue.\n"
+"[crest] Subissez 1 Fatigue supplémentaire ou défaussez cet Accessoire."
+
 
 msgctxt "02203.name"
 msgid "A Frog this Way Comes"
-msgstr ""
+msgstr "Une Grenouille se Rapproche"
 
 msgctxt "02203.traits"
 msgid "Experience / Nature"
-msgstr ""
+msgstr "Expérience / Nature"
 
 msgctxt "02203.text"
 msgid ""
@@ -55,14 +62,17 @@ msgid ""
 "Exhaust X path cards.\n"
 "Shuffle a path card with X or less presence into the path deck. Then search the General set for a Fractal Frog and shuffle it into the path deck."
 msgstr ""
+"<b>Au choix :</b>\n"
+"Épuisez X cartes Chemin.\n"
+"Mélangez une carte Chemin avec X Présences ou moins dans le deck Chemin. Puis recherchez une Grenouille Fractale dans le set Général et mélangez-la dans le deck Chemin."
 
 msgctxt "02204.name"
 msgid "The Shapeshifter"
-msgstr ""
+msgstr "Le Métamorphe"
 
 msgctxt "02204.traits"
 msgid "Companion / Biomeld"
-msgstr ""
+msgstr "Compagnon / Biosynth"
 
 msgctxt "02204.text"
 msgid ""
@@ -71,58 +81,70 @@ msgid ""
 "If there is not a being attached to this biomeld, it gains the following test:\n"
 "<b>[AWA] + [connection]: Suggest</b> <f>a new form to</f> attach a non-human being from the path discard facedown to this biomeld. Then exhaust this biomeld."
 msgstr ""
+"Amical. Persistant. Unique.\n"
+"<b>Épuisez :</b> Mélangez un Être Vivant associé à ce Biosynth dans le deck Chemin. Si cet Être Vivant était un prédateur, ajoutez 3[harm] à un autre Être Vivant. S’il s’agissait d’une proie, ajoutez 4[progress] à un autre Être Vivant. Si ce n’etait aucun des deux , épuisez un Être Vivant supplémentaire.\n"
+"Si aucun Être Vivant n’est associé à ce Biosynth, il gagne le test suivant :\n"
+"<b>[AWA] + [connection] : Suggérez</b> <f>une nouvelle forme pour</f> associer face cachée un Être Vivant non-humain depuis la défausse Chemin à ce Biosynth. Puis épuisez ce Biosynth."
 
 msgctxt "02205.name"
 msgid "Grasp of the Verdessa"
-msgstr ""
+msgstr "Étreinte de la Verdessa"
 
 msgctxt "02205.traits"
 msgid "Manifestation / Nature"
-msgstr ""
+msgstr "Manifestation / Nature"
 
 msgctxt "02205.text"
 msgid ""
 "Manifestation. <i>(To play a manifestation, discard 1 token from a conduit.)</i>\n"
 "Add 1[harm] to a flora to place a path card on top of the path deck. If that card is a biomeld, place it on the bottom of the path deck instead."
 msgstr ""
+"Manifestation. <i>(Pour jouer une Manifestation, défaussez 1 jeton d’un catalyseur.)</i>\n"
+"Ajoutez 1[harm] à une Flore pour placer une carte Chemin au sommet du deck Chemin. Si cette carte est un Biosynth, placez-la en sous le deck Chemin à la place."
+
 
 msgctxt "02206.name"
 msgid "Silaro's Fastidiousness"
-msgstr ""
+msgstr "Intransigeance de Silaro"
 
 msgctxt "02206.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "02206.text"
 msgid ""
 "Attach to a Ranger's equipped gear.\n"
 "<b>Response:</b> After a Ranger succeeds at a test from the attached gear, if it cleared a being, scout 1 path card. If it cleared a feature, add 2[progress] to the location. Otherwise, scout 1 Ranger card."
 msgstr ""
+"S’associe à un Accessoire équipé par un Ranger.\n"
+"<b>Réaction :</b> Après qu’un Ranger réussit un test de l’Accessoire équipé, si cela satisfait un Être Vivant, observez 1 carte Chemin. Si cela satisfait une Particularité, ajoutez 2[progress] sur le lieu. Sinon, observez 1 carte Ranger."
+
 
 msgctxt "02207.name"
 msgid "Fate of the Reclaimers"
-msgstr ""
+msgstr "Destinée des Récupérateurs"
 
 msgctxt "02207.traits"
 msgid "Tale / Weapon"
-msgstr ""
+msgstr "Conte / Arme"
 
 msgctxt "02207.text"
 msgid "If you have a weapon equipped, add 3[harm] to a being. It fatigues you. If it fatigues you for 2 or more, add 2 additional [harm]."
 msgstr ""
+"Si vous avez une arme équipée, ajoutez 3[harm] à un Être Vivant. Il vous fatigue. S’il vous fatigue de 2 ou plus, ajoutez 2[harm] supplémentaires."
 
 msgctxt "02207.flavor"
 msgid "The reclaimer invasion has reached its nadir, and they appear to be dying off. You wonder, however, if they have simply gone dormant and will one day return."
 msgstr ""
+"L’invasion des récupérateurs s’essoufle, ils semblent en voie de disparition. Vous vous demandez cependant s’ils ne sont pas simplement entrés en sommeil et s’ils ne reviendront pas un jour."
 
 msgctxt "02208.name"
 msgid "Rebreather"
-msgstr ""
+msgstr "Respirateur"
 
 msgctxt "02208.traits"
 msgid "Tech / Estian"
-msgstr ""
+msgstr "Tech / Estien"
 
 msgctxt "02208.text"
 msgid ""
@@ -130,14 +152,18 @@ msgid ""
 "<b>Exhaust (use 1 filter):</b> When you interact with a water card, commit 2 effort.\n"
 "This gear cannot be discarded or returned to your hand by path card effects."
 msgstr ""
+"Préparation.\n"
+"<b>Épuisez (utilisez 1 filtre) :</b> Lorsque vous interagissez avec une carte Eau, engagez 2 Efforts.\n"
+Cet Accessoire ne peut être ni défaussé ni remis dans votre main par des effets de carte Chemin."
+
 
 msgctxt "02209.name"
 msgid "Gus the Mole"
-msgstr ""
+msgstr "Gus la Taupe"
 
 msgctxt "02209.traits"
 msgid "Companion / Mammal"
-msgstr ""
+msgstr "Compagnon / Mammifère"
 
 msgctxt "02209.text"
 msgid ""
@@ -145,78 +171,104 @@ msgid ""
 "<b>Exhaust:</b> Look at the top card of the path deck. Add [progress] equal to its presence to another path card in play that shares its card type.\n"
 "<b>[FIT] + [connection]: Nuzzle</b> <f>your little friend to</f> ready this being and soothe 1 fatigue."
 msgstr ""
+"Amical. Persistant. Unique.\n"
+"<b>Épuisez :</b> Consultez la première carte du deck Chemin. Ajoutez autant de [progress] que sa présence à une autre carte Chemin en jeu du même type.\n"
+"<b>[FIT] + [connection] : Bécotez</b> <f>votre petit compagnon pour</f> restaurer cet Être Vivant et réduire votre Fatigue de 1."
+
 
 msgctxt "02210.name"
 msgid "Portable Generator"
-msgstr ""
+msgstr "Générateur Portable"
 
 msgctxt "02210.traits"
 msgid "Tech / Estian"
-msgstr ""
+msgstr "Tech / Estien"
 
 msgctxt "02210.text"
 msgid ""
 "Attach to a feature.\n"
 "<b>Exhaust:</b> The attached feature gains illumination until the end of the turn. Then, if it's a machine, add 1 power to it."
 msgstr ""
+"S’associe à une Particularité.\n"
+<b>Épuisez :</b> La Particularité associée gagne Illumination jusqu’à la fin du tour. Puis, s’il s’agit d’une machine, ajoute-lui 1 Puissance."
+
 
 msgctxt "02210.flavor"
 msgid "You took this device from Orlin's Vault not knowing how truly useful it would be."
-msgstr ""
+msgstr "Vous avez pris cet appareil dans la chambre souterraine d’Orlin sans certitude quant à son utilité."
+
 
 msgctxt "02211.name"
 msgid "Wanderer Spirit"
-msgstr ""
+msgstr "Esprit Vagabond"
+
+
+#####################
+#Estian was missing
 
 msgctxt "02211.traits"
-msgid "Spirit"
-msgstr ""
+msgid "Spirit / Estian"
+msgstr "Esprit / Estien"
+
+##########################
 
 msgctxt "02211.text"
 msgid ""
 "Friendly. Persistent. Unique. Spirit.\n"
 "<b>[FOC] + [exploration]: Navigate [2]</b> alongside the spirit to add [progress] to this being equal to your effort. Then you may move your [ranger] to a feature in the same area."
 msgstr ""
+"Amical. Persistant. Unique. Esprit.\n"
+<b>[FOC] + [exploration] : Accompagnez [2]</b> <f>l’esprit pour</f> ajouter autant de [progress] à cet Être Vivant que votre Effort. Puis vous pouvez déplacer votre [ranger] sur une Particularité dans la même zone."
 
 msgctxt "02211.mountain_challenge"
 msgid "You may exhaust this spirit to move up to 3◭ from it to the location."
-msgstr ""
+msgstr "Vous pouvez épuiser cet Esprit pour déplacer jusqu’à 3[progress] présents sur lui sur le lieu."
+
 
 msgctxt "02212.name"
 msgid "Expedition Logbook"
-msgstr ""
+msgstr "Journal d’Expédition"
 
 msgctxt "02212.traits"
 msgid "Book"
-msgstr ""
+msgstr "Ouvrage"
 
 msgctxt "02212.text"
 msgid "<b>[FOC] + [exploration] (use 1 entry): Consult</b> <f>observations on the arcology to</f> add 1[progress] to a feature for every 2 effort. If that feature is a ruin or machine, add [progress] equal to your effort instead. Then, read [guide] 197."
 msgstr ""
+"<b>[FOC] + [exploration] (utilisez 1 entrée) : Consultez</b> <f>les observations sur l’Arcologie pour</f> ajouter 1[progress] sur une Particularité pour chaque 2 Efforts. "
+"Si cette Particularité est une Ruine ou une Machine, ajoutez autant de [progress] que votre Effort à la place. "
+"Puis, lisez [guide] 197."
+
+
 
 msgctxt "02213.name"
 msgid "The Ambition of the Estians"
-msgstr ""
+msgstr "L’Ambition des Estiens"
 
 msgctxt "02213.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "02213.text"
 msgid "Move a feature. It fatigues you. Then add [progress] to that feature equal to your fatigue."
 msgstr ""
+"Déplacez une Particularité. Elle vous fatigue. "
+"Puis ajoutez autant de [progress] sur cette Particularité que votre Fatigue actuelle."
 
 msgctxt "02213.flavor"
 msgid "The Estian's vision for their arcology was grand. Not only could it house hundreds of thousands, but its inhabitants were tasked with inventing new technologies that would preserve their legacy."
 msgstr ""
+"Le Estiens avient une vision grandiose pour leur arcologie: elle accueillait des centaines de milliers d’habitants charger d’inventer de nouvelles technologiesafin de préserver leur héritage "
+
 
 msgctxt "02214.name"
 msgid "Ren Kobo's Hat"
-msgstr ""
+msgstr "Chapeau de Ren Kobo"
 
 msgctxt "02214.traits"
 msgid "Clothing"
-msgstr ""
+msgstr "Habit"
 
 msgctxt "02214.text"
 msgid ""
@@ -224,30 +276,34 @@ msgid ""
 "<b>Exhaust:</b> When you suffer 1 or more fatigue, add an equal number of [progress] to the location.\n"
 "<b>Response:</b> If you have 1 or less fatigue, discard this gear."
 msgstr ""
+"Unique.\n"
+"<b>Épuisez :</b> Lorsque vous subissez 1  Fatigue ou plus, ajoutez la même quantité de [progress] sur le Lieu.\n"
+"<b>Réaction :</b> Si vous avez 1 Fatigue ou moins, défaussez cet Accessoire."
+
 
 msgctxt "02215.name"
 msgid "As Above, So Below"
-msgstr ""
+msgstr "Dessus et en dessous identiques"
 
 msgctxt "02215.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "02215.text"
 msgid "Each Ranger can move their [ranger] to a being, feature, or the location."
-msgstr ""
+msgstr "Chaque Ranger peut déplacer son [ranger] sur un Être Vivant, une Particularité ou le Lieu."
 
 msgctxt "02215.flavor"
 msgid "After exploring every inch of the subterranean chambers of the arcology, and encountering no small number of wondrous beings, you've come to understand that there is no place on Earth that is not home to multitudinous life, be that under the sun, or below its surface."
-msgstr ""
+msgstr "Après avoir exploré les moindres recoins des salles souterraines de l’Arcologie, et rencontré un grand nombre d’Êtres fascinants, vous avez pris conscience que le moindre endroit sur Terre abrite une vie foisonnante, que ce soit à sa surface ou dessous."
 
 msgctxt "02216.name"
 msgid "Lunn's Door Opener"
-msgstr ""
+msgstr "Crocheteur de Lunn"
 
 msgctxt "02216.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "02216.text"
 msgid ""
@@ -255,18 +311,21 @@ msgid ""
 "<b>Exhaust (use 1 cell):</b> When you interact with a machine, commit 2 effort.\n"
 "<b>[FOC] + [reason] (use 1 cell): Interface</b> <f>with a device to</f> add 1 power to a machine for every 2 effort."
 msgstr ""
+"Préparation.\n"
+"<b>Épuisez (utilisez 1 batterie) :</b> Lorsque vous interagissez avec une Machine, engagez 2 Efforts.\n"
+"<b>[FOC] + [reason] (utilisez 1 batterie) : Interfacez-vous</b> <f>avec un appareil pour</f> ajouter 1 puissance sur une Machine pour chaque 2 Efforts."
 
 msgctxt "02216.flavor"
 msgid "Lunn gifted you this \"artisanal\" device."
-msgstr ""
+msgstr "Lunn vous a offert cet appareil de son invention."
 
 msgctxt "02217.name"
 msgid "Stripe, Loyal Lutrinal"
-msgstr ""
+msgstr "Zébri, Loutrinal Loyal"
 
 msgctxt "02217.traits"
 msgid "Companion / Mammal"
-msgstr ""
+msgstr "Compagnon / Mammifère"
 
 msgctxt "02217.text"
 msgid ""
@@ -274,14 +333,18 @@ msgid ""
 "<b>Exhaust:</b> Discard 3[progress] from this being to resolve a challenge effect on a being.\n"
 "<b>[AWA] + [exploration]: Chase [2]</b> <f>the scampering lutrinal to</f> add 1[progress] to a feature for every 2 effort. Then add an equal amount of [progress] to this being and move it."
 msgstr ""
+"Amical. Persistant. Unique.\n"
+"<b>Épuisez :</b> Défaussez 3[progress] de cet Être Vivant pour résoudre un effet Défi sur un Être Vivant.\n"
+"<b>[AWA] + [exploration] : Pourchassez [2]</b> <f>l’insaisissable loutrinal pour</f> ajouter 1[progress] sur une Particularité pour chaque 2 Efforts. Puis ajoutez la même quantité de [progress] sur cet Être Vivant et déplacez‑le."
+
 
 msgctxt "02218.name"
 msgid "Carried by the Wind"
-msgstr ""
+msgstr "Porté par le Vent"
 
 msgctxt "02218.traits"
 msgid "Manifestation"
-msgstr ""
+msgstr "Manifestation"
 
 msgctxt "02218.text"
 msgid ""
@@ -289,76 +352,98 @@ msgid ""
 "Attach to a feature or location.\n"
 "When you <b>Traverse</b> the attached card, dodge all obstacles. If you fail, prevent the injury and return this manifestation to your hand."
 msgstr ""
+"Manifestation.\n"
+"S’associe sur une Particularité ou un Lieu.\n"
+"Lorsque vous <b>Traversez</b> la carte associée, esquivez tous les Obstacles. Si vous échouez, ne subissez pas la blessure et remettez cette Manifestation dans votre main."
 
 msgctxt "02219.name"
 msgid "Archivist Spirit"
-msgstr ""
+msgstr "Esprit Archiviste"
 
 msgctxt "02219.traits"
 msgid "Spirit / Estian"
-msgstr ""
+msgstr "Esprit / Estien"
 
 msgctxt "02219.text"
 msgid ""
 "Friendly. Persistent. Unique. Spirit.\n"
 "<b>[SPI] + [reason]: Reflect [2]</b> <f>on the spirit's wisdom to</f> add [progress] to this being equal to your effort. Then scout 1 challenge card."
 msgstr ""
+"Amical. Persistant. Unique. Esprit.\n"
+"<b>[SPI] + [reason] : Réfléchissez [2]</b> <f>à la sagesse de l’esprit pour</f> ajouter autant de [progress] sur cet Être Vivant que votre Effort. Puis observez 1 carte Défi."
 
 msgctxt "02219.crest_challenge"
 msgid "You may exhaust this spirit and discard 3[progress] from it to place all fatigue you suffered this test on the bottom of your Ranger deck."
-msgstr ""
+msgstr "Vous pouvez épuiser cet Esprit et défausser 3[progress] de celui‑ci pour placer sous votre deck Ranger toute la Fatigue subie lors de ce test."
+
 
 msgctxt "02220.name"
 msgid "Call the Scuttlebus"
-msgstr ""
+msgstr "Appeler le lule-Express"
 
 msgctxt "02220.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "02220.text"
 msgid "<b>Response:</b> Before you decide to travel, if there is 2[per_ranger] or more [progress] on the location, you may travel <i>(regardless of the location's [progress] threshold)</i>. If there is 5[per_ranger] or more [progress] on it, travel to a location up to two paths away. Use the terrain of the second path when building the path deck."
-msgstr ""
+msgstr "<b>Réaction :</b> Avant de décider de voyager, s’il y a 2[per_ranger] [progress] ou plus sur le lieu, vous pouvez voyager <i>(en ignorant le seuil de [progress] du Lieu)</i>. S’il y a 5[per_ranger] [progress] ou plus dessus, voyagez vers un Lieu éloigné de deux chemins (au) maximum. Utilisez le terrain du second chemin pour préparer le deck Chemin."
+
 
 msgctxt "02221.name"
 msgid "Quisi's Lantern"
-msgstr ""
+msgstr "Lanterne de Quisi"
 
 msgctxt "02221.traits"
 msgid "Tool / Aid"
-msgstr ""
+msgstr "Outil / Aide"
 
 msgctxt "02221.text"
 msgid ""
 "While this card has at least 1 gleam remaining, within reach is illuminated.\n"
 "<b>Exhaust (use 1 gleam):</b> When you perform a test, dodge each card within reach."
 msgstr ""
+"Tant qu’il reste au moins 1 éclat sur cette carte, À Portée est Illuminée.\n"
+"<b>Épuisez (utilisez 1 éclat) :</b> Lorsque vous effectuez un test, esquivez chaque carte À Portée."
 
-msgctxt "02221.flavor"
-msgid "You hold the lantern aloft and \"Slugmond\" squirms, emitting a warm glow."
-msgstr ""
+
 
 msgctxt "02222.name"
 msgid "Echoes of the Estians"
-msgstr ""
+msgstr "Résonance des Estiens"
 
 msgctxt "02222.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "02222.text"
 msgid ""
 "Attach to a path card.\n"
 "<b>Exhaust:</b> When a Ranger performs a test that interacts with the attached card, commit 2 effort. This test can be performed without commiting energy."
 msgstr ""
+"S’associe à une carte Chemin.\n"
+"<b>Épuisez :</b> Lorsqu’un Ranger effectue un test qui interagit avec la carte associée, engagez 2 Efforts. Ce test peut être effectué sans engager d’énergie."
+
+
+
+###########################
+#flavor part missing
+
+msgctxt "02222.flavor"
+msgid "You can sense the presence of the Estians all amoun you, their hands shaping the present through the medium of the past."
+msgstr "Vous sentez la présence de Estiens tout autour de vous, leurs mains façonnant le présent en s’inspirant du passé."
+
+#############################
+
+
 
 msgctxt "02223.name"
 msgid "Repllant Spores"
-msgstr ""
+msgstr "Spores Répulsives"
 
 msgctxt "02223.traits"
 msgid "Nature / Tech"
-msgstr ""
+msgstr "Nature / Tech"
 
 msgctxt "02223.text"
 msgid ""
@@ -366,99 +451,114 @@ msgid ""
 "<b>Exhaust (use 1 puff):</b> When you interact with a flora, commit 2 effort.\n"
 "<b>[FOC] + [reason] (use 1 puff): Release</b> <f>a cloud of spores to</f> exhaust a flora."
 msgstr ""
+"Préparation.\n"
+"<b>Épuisez (utilisez 1 dose) :</b> Lorsque vous interagissez avec une Flore, engagez 2 Efforts.\n"
+"<b>[FOC] + [reason] (utilisez 1 dose) : Libérez</b> <f>un nuage de spores pour</f> épuiser une Flore."
+
 
 msgctxt "02224.name"
 msgid "Bursting with Life"
-msgstr ""
+msgstr "Explosion de Vie"
 
 msgctxt "02224.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "02224.text"
 msgid ""
 "Manifestation.\n"
 "Choose a flora and either remove 1[harm] from it or add 2[progress] to it. Then add 4[progress] to a non-biomeld being in the same area as the chosen flora."
 msgstr ""
+"Manifestation.\n"
+"Choisissez une Flore, ouis, soit retirez‑lui 1[harm], soit ajoutez‑lui 2[progress]. Puis ajoutez 4[progress] sur un Être Vivant non‑Biosynth dans la même zone que la Flore choisie."
 
 msgctxt "02224.flavor"
-msgid "Ever since you delivered the mysterious seed to its destination, you have discovered a new kinship with the Valley's plant life, and a new source of wisdom."
-msgstr ""
+msgid "Ever since you delivered the mysterious seed to its destination, you have discovered a new kinship with the Valley’s plant life, and a new source of wisdom."
+msgstr "Depuis que vous avez livré la mystérieuse graine à sa destination, vous avez découvert une nouvelle parenté avec la vie végétale de la Vallée, ainsi qu’une nouvelle source de sagesse."
 
 msgctxt "02225.name"
 msgid "Memlev Hammock"
-msgstr ""
+msgstr "Hamac Memlev"
 
 msgctxt "02225.traits"
 msgid "Tech / Tool"
-msgstr ""
+msgstr "Tech / Outil"
 
 msgctxt "02225.text"
 msgid ""
 "<b>Deployed:</b> When you add 1 or more [progress] to a being, increase the [progress] added by 1. When you add 1 or more [progress] to a feature, decrease the [progress] added by 1. This gear gains the following ability:\n"
 "<b>Response:</b> When you rest, soothe 2 fatigue."
 msgstr ""
+"<b>Déployé :</b> Lorsque vous ajoutez 1[progress] ou plus sur un Être Vivant, augmentez de 1 la [progress] ajoutée. Lorsque vous ajoutez 1[progress] ou plus sur une Particularité, diminuez de 1 la [progress] ajoutée. Cet Accessoire gagne la capacité suivante :\n"
+"<b>Réaction :</b> Lorsque vous vous reposez, réduisez votre Fatigue de 2."
 
 msgctxt "02226.name"
 msgid "Mycelial Incense"
-msgstr ""
+msgstr "Encens Mycélien"
 
 msgctxt "02226.traits"
 msgid "Nature"
-msgstr ""
+msgstr "Nature"
 
 msgctxt "02226.text"
 msgid ""
 "You can <b>Connect</b> with flora features.\n"
 "<b>Exhaust:</b> After you successfully <b>Connect</b> with a flora, soothe 1 fatigue. If that flora has the mycelial keyword, add [progress] equal to your effort to each other flora with the mycelial keyword."
 msgstr ""
+"Vous pouvez vous <b>Connecter</b> avec des Particularités Flore.\n"
+"<b>Épuisez :</b> Après vous être <b>Connecté</b> avec à une Flore, réduisez votre Fatigue de 1. Si cette Flore a le mot‑clé Mycélien, ajoutez autant de [progress] que votre Effort sur chaque autre Flore avec ce mot‑clé."
+
 
 msgctxt "02227.name"
 msgid "Gardener Spirit"
-msgstr ""
+msgstr "Esprit Jardinier"
 
 msgctxt "02227.traits"
 msgid "Spirit / Estian"
-msgstr ""
+msgstr "Esprit / Estien"
 
 msgctxt "02227.text"
 msgid ""
 "Friendly. Persistent. Unique. Spirit.\n"
 "<b>[FIT] + [connection]: Tend [2]</b> <f>to the land alongside the spirit to</f> add [progress] to this being equal to your effort. You may discard 1[harm] from a feature. If it is a flora, soothe 2 fatigue."
 msgstr ""
+"Amical. Persistant. Unique. Esprit.\n"
+"<b>[FIT] + [connection] : Choyez [2]</b> <f>la terre aux côtés de l’esprit pour</f> ajouter autant de [progress] sur cet Être Vivant que votre Effort. Vous pouvez défausser 1[harm] d’une Particularité. S’il s’agit d’une Flore, réduisez votre Fatigue de 2."
 
 msgctxt "02227.sun_challenge"
 msgid "You may discard 3[progress] from this spirit and exhaust it to choose a nature card in your discard and add it to your hand."
-msgstr ""
+msgstr "Vous pouvez défausser 3[progress] de cet Esprit et l’épuiser pour choisir une carte Nature de votre défausse et l’ajouter à votre main."
+
 
 msgctxt "02228.name"
 msgid "The Audacity of the Estians"
-msgstr ""
+msgstr "L’Audace des Estiens"
 
 msgctxt "02228.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "02228.text"
 msgid "Choose a Ranger to soothe all of their fatigue. Then that Ranger places an equal number of cards from their hand facedown on top of their fatigue stack in any order."
-msgstr ""
+msgstr "Choisissez un Ranger qui réduit toute sa Fatigue. Puis ce Ranger place autant de cartes de sa main au sommet de sa pile de Fatigue, face cachée, dans l’ordre de son choix."
 
 msgctxt "02228.flavor"
 msgid "The Estians feared no limitation and heeded no boundary; as evidenced by the biomelds that yet roam the Arcology ruin."
-msgstr ""
+msgstr "Les Estiens ne s’imposaient aucune limite et n’obéissaient à aucune frontière ; comme en témoignent les Biosynths errant encore dans les ruines de l’Arcologie."
+
 
 msgctxt "02229.name"
 msgid "Flowsteel Lithophone"
-msgstr ""
+msgstr "Lithophone en Acier Liquide"
 
 msgctxt "02229.traits"
 msgid "Tech / Instrument"
-msgstr ""
+msgstr "Tech / Instrument"
 
 msgctxt "02229.text"
-msgid "<b>Exhaust (use 1 tune):</b> After you play a moment or attachment, soothe 1 fatigue. If that card is a tale, gain 1 energy matching that card's aspect."
-msgstr ""
+msgid "<b>Exhaust (use 1 tune):</b> After you play a moment or attachment, soothe 1 fatigue. If that card is a tale, gain 1 energy matching that card’s aspect."
+msgstr "<b>Épuisez (utilisez 1 son) :</b> Après avoir joué un Instantané ou un Soutien, réduisez votre Fatigue de 1. Si cette carte est un Conte, gagnez 1 Énergie correspondant à l’aspect de cette carte."
 
 msgctxt "02229.flavor"
 msgid "Crafted by Tollin Lang, this lithophone is capable of rich, vibrating tones that resonate deep within, supplying listeners with a profound sense of well-being."
-msgstr ""
+msgstr "Fabriqué par Tollin Lang, ce lithophone est capable de produire des tonalités riches et vibrantes qui résonnent au plus profond de l’être humain et procurent aux auditeurs un profond sentiment de bien‑être."

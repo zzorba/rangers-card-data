@@ -1883,7 +1883,7 @@ msgstr "Le grand lynx surgit du sous-bois, silencieux comme une ombre. Il vous r
 
 msgctxt "01210.name"
 msgid "Umbral Claw"
-msgstr "Serre d’Umbre"
+msgstr "Serre d’Umbra"
 
 msgctxt "01210.traits"
 msgid "Weapon"
@@ -1895,7 +1895,7 @@ msgstr "<b>[FIT] + [conflict] (utiliser 1 racle) : Entaillez [X]</b> <f>avec la 
 
 msgctxt "01211.name"
 msgid "Ar Tel's Vaulting Rod"
-msgstr "Canne-harbon d’Ar Tel"
+msgstr "Canne-harpon d’Ar Tel"
 
 msgctxt "01211.traits"
 msgid "Tech / Aid"
