@@ -615,7 +615,6 @@
     "name": "Empathy Amplifier",
     "illustrator": "Evan Simonet",
     "approach_connection": 1,
-    "approach_reason": 1,
     "traits": "Tech / Aid",
     "type_id": "gear",
     "token_id": "reading",
