@@ -954,7 +954,7 @@ msgid ""
 "When you play this gear, choose an aspect (you may place a spare energy token here as a reminder).\n"
 "<b>Exhaust (use 1 sip):</b> Gain 1 energy matching the chosen aspect."
 msgstr ""
-"При розыгрыше «Фляги с настоем» выберите <i>черту</i> (положите сюда запасной энергии как памятку).\n"
+"При розыгрыше «Фляги с настоем» выберите <i>черту</i> (положите сюда запасной жетон энергии как памятку).\n"
 "<b>Поверните (используйте 1 глоток):</b> получите 1 энергию, совпадающую с выбранной <i>чертой</i>."
 
 msgctxt "01060.name"
@@ -1425,7 +1425,7 @@ msgstr ""
 
 msgctxt "01090.name"
 msgid "Harmonize"
-msgstr "Гаромнизация"
+msgstr "Гармонизация"
 
 msgctxt "01090.traits"
 msgid "Manifestation"
