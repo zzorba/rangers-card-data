@@ -71,7 +71,7 @@ msgstr "Еда / Поддержка"
 
 msgctxt "01004.text"
 msgid "<b>Exhaust (use 1 morsel):</b> Choose a Ranger. That Ranger soothes fatigue equal to the number of [FIT] in their energy pool."
-msgstr "<b>Поверните (используйте 1 порцию):</b> выберите рейнджера - он снимает с себя усталость, равную количеству [FIT] в своем запасе энергии."
+msgstr "<b>Поверните (используйте 1 порцию):</b> выберите рейнджера — он снимает с себя усталость, равную количеству [FIT] в своем запасе энергии."
 
 msgctxt "01004.flavor"
 msgid "It's a delicious medley of cherry moss pemmican, marbled great beans, starpeas, almonds, and a few surprises."
