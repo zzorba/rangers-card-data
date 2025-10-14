@@ -1037,7 +1037,7 @@
     "traits": "Spirit",
     "type_id": "being",
     "presence": 0,
-    "text": "Persistent. Spirit.",
+    "text": "Persistent. Spirit.\n<b>Response:</b> Before a Romping Lutrinal would move, discard 1[progress] from this spirit to prevent it.",
     "sun_challenge": "You may either exhaust this spirit or discard 2[progress] from it. If you do, move up to 3[progress] from this spirit to a non-spirit being in the same area."
   },
   {
