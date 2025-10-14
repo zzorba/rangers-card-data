@@ -5,23 +5,23 @@ msgstr ""
 
 msgctxt "gear.name"
 msgid "Gear"
-msgstr ""
+msgstr "Equipo"
 
 msgctxt "attachment.name"
 msgid "Attachment"
-msgstr ""
+msgstr "Anexo"
 
 msgctxt "moment.name"
 msgid "Moment"
-msgstr ""
+msgstr "Momento"
 
 msgctxt "role.name"
 msgid "Role"
-msgstr ""
+msgstr "Rol"
 
 msgctxt "aspect.name"
 msgid "Aspect"
-msgstr ""
+msgstr "Aspecto"
 
 msgctxt "attribute.name"
 msgid "Attribute"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "being.name"
 msgid "Being"
-msgstr ""
+msgstr "Ser"
 
 msgctxt "feature.name"
 msgid "Feature"
-msgstr ""
+msgstr "Característica"
 
 msgctxt "stat.name"
 msgid "Stat"
@@ -41,16 +41,16 @@ msgstr ""
 
 msgctxt "malady.name"
 msgid "Malady"
-msgstr ""
+msgstr "Enfermedad"
 
 msgctxt "mission.name"
 msgid "Mission"
-msgstr ""
+msgstr "Misión"
 
 msgctxt "location.name"
 msgid "Location"
-msgstr ""
+msgstr "Localización"
 
 msgctxt "challenge.name"
 msgid "Challenge"
-msgstr ""
+msgstr "Desafío"

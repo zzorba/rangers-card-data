@@ -5,92 +5,92 @@ msgstr ""
 
 msgctxt "artisan.name"
 msgid "Artisan"
-msgstr ""
+msgstr "Artesano"
 
 msgctxt "forager.name"
 msgid "Forager"
-msgstr ""
+msgstr "Recolector"
 
 msgctxt "shepherd.name"
 msgid "Shepherd"
-msgstr ""
+msgstr "Pastor"
 
 msgctxt "traveler.name"
 msgid "Traveler"
-msgstr ""
+msgstr "Viajero"
 
 msgctxt "talespinner.name"
 msgid "Talespinner"
-msgstr ""
+msgstr "Cuentahistorias"
 
 msgctxt "artificer.name"
 msgid "Artificer"
-msgstr ""
+msgstr "Inventor"
 
 msgctxt "conciliator.name"
 msgid "Conciliator"
-msgstr ""
+msgstr "Conciliador"
 
 msgctxt "shaper.name"
 msgid "Shaper"
-msgstr ""
+msgstr "Moldeador"
 
 msgctxt "explorer.name"
 msgid "Explorer"
-msgstr ""
+msgstr "Explorador"
 
 msgctxt "spirit_speaker.name"
 msgid "Spirit Speaker"
-msgstr ""
+msgstr "Portavoz espiritual"
 
 msgctxt "personality.name"
 msgid "Personality"
-msgstr ""
+msgstr "Personalidad"
 
 msgctxt "reward.name"
 msgid "Reward"
-msgstr ""
+msgstr "Recompensa"
 
 msgctxt "malady.name"
 msgid "Malady"
-msgstr ""
+msgstr "Enfermedad"
 
 msgctxt "woods.name"
 msgid "Woods"
-msgstr ""
+msgstr "Bosque"
 
 msgctxt "lakeshore.name"
 msgid "Lakeshore"
-msgstr ""
+msgstr "Orilla del lago"
 
 msgctxt "mountain_pass.name"
 msgid "Mountain Pass"
-msgstr ""
+msgstr "Montaña"
 
 msgctxt "old_growth.name"
 msgid "Old-Growth"
-msgstr ""
+msgstr "Arboleda"
 
 msgctxt "grassland.name"
 msgid "Grassland"
-msgstr ""
+msgstr "Pradera"
 
 msgctxt "swamp.name"
 msgid "Swamp"
-msgstr ""
+msgstr "Ciénaga"
 
 msgctxt "ravine.name"
 msgid "Ravine"
-msgstr ""
+msgstr "Barranco"
 
 msgctxt "river.name"
 msgid "River"
-msgstr ""
+msgstr "Río"
 
 msgctxt "the_valley.name"
 msgid "The Valley"
-msgstr ""
+msgstr "El Valle"
 
 msgctxt "general.name"
 msgid "General"
-msgstr ""
+msgstr "General"

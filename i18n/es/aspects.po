@@ -5,32 +5,32 @@ msgstr ""
 
 msgctxt "AWA.name"
 msgid "Awareness"
-msgstr ""
+msgstr "Percepción"
 
 msgctxt "AWA.short_name"
 msgid "AWA"
-msgstr ""
+msgstr "PER"
 
 msgctxt "FIT.name"
 msgid "Fitness"
-msgstr ""
+msgstr "Aptitud"
 
 msgctxt "FIT.short_name"
 msgid "FIT"
-msgstr ""
+msgstr "APT"
 
 msgctxt "FOC.name"
 msgid "Focus"
-msgstr ""
+msgstr "Concentración"
 
 msgctxt "FOC.short_name"
 msgid "FOC"
-msgstr ""
+msgstr "CON"
 
 msgctxt "SPI.name"
 msgid "Spirit"
-msgstr ""
+msgstr "Vitalidad"
 
 msgctxt "SPI.short_name"
 msgid "SPI"
-msgstr ""
+msgstr "VIT"
