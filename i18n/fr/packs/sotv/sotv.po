@@ -13,27 +13,27 @@ msgstr ""
 
 msgctxt "03001.name"
 msgid "Resourceful"
-msgstr ""
+msgstr "Débrouillard"
 
 msgctxt "03001.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03001.text"
 msgid "After you commit this attribute, search your Ranger deck for the next attribute that you can commit to this test and commit it. If this test is successful, place that attribute on top of your fatigue stack."
-msgstr ""
+msgstr "Après avoir engagécet Attibut, recherchez dans votre deck Ranger le prochain Attribut que vous pouvez engager dans ce test et engagez-le. Si ce test est réussi, placez cet Attribut au sommet de votre pile de Fatigue."
 
 msgctxt "03001.flavor"
 msgid "When you encounter a problem, you often discover that you already have a solution."
-msgstr ""
+msgstr "Lorsque vous rencontrez un problème, vous découvrez souvent que vous avez déjà une solution."
 
 msgctxt "03002.name"
 msgid "Grell's Secret Map"
-msgstr ""
+msgstr "Plan secret de Grell"
 
 msgctxt "03002.traits"
 msgid "Map / Expert"
-msgstr ""
+msgstr "Plan / Expert"
 
 msgctxt "03002.text"
 msgid ""
@@ -42,46 +42,50 @@ msgid ""
 "<b>Exhaust:</b> When a feature with 2 or more presence is cleared, add 1 hunch to this gear and 1[progress] to the location.\n"
 "<b>Response:</b> When you travel, ready this gear."
 msgstr ""
+"Unique. Aspiration (6 intuitions: [aspiration]).\n"
+"Cet Accessoire n’est pas restauré pendant la phase Entretien.\n"
+"<b>Épuisez:</b> Lorsqu’une Particularité avec 2 présences ou plus est satisfaite, ajoutez 1 intuition à cet Accessoire et 1[progress] sur le lieu.\n"
+"<b>Réaction:</b> Lorsque vous voyagez, restaurez cet Accessoire."
 
 msgctxt "03003.name"
 msgid "Ironwool Cap"
-msgstr ""
+msgstr "Casque en laine de fer"
 
 msgctxt "03003.traits"
 msgid "Clothing"
-msgstr ""
+msgstr "Habit"
 
 msgctxt "03003.text"
 msgid "<b>Exhaust (use 1 insight):</b> Before you play a moment, reduce its cost by 1 (to a minimum of 1)."
-msgstr ""
+msgstr "<b>Épuisez (utilisez 1 idée) :</b> Avant de jouer un Instantané, réduisez son coût de 1 (jusqu’à un minimum de 1)."
 
 msgctxt "03003.flavor"
 msgid "As you place the cap upon your head, you note the softness of the lining.The brushed ironwool whisks away moisture and allows for a delightful amount of breathability – warm or cool as circumstances demand."
-msgstr ""
+msgstr "Lorsque vous posez le casque sur votre tête, vous remarquez la douceur de la doublure. La laine de fer brossée évacue l’humidité et offre une grande respirabilité : au chaud ou au frais, selon les circonstances."
 
 msgctxt "03004.name"
 msgid "The Best Teacher"
-msgstr ""
+msgstr "Le Meilleur Professeur"
 
 msgctxt "03004.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "03004.text"
 msgid "<b>Response:</b> After a path card is cleared by [progress], choose a Ranger. That Ranger names a trait. Then they search their Ranger deck and discard for the next moment with the chosen trait and add it to their hand."
-msgstr ""
+msgstr "<b>Réaction :</b> Après avoir satisfait une carte Chemin par [progress], choisissez un Ranger. Ce Ranger nomme un trait. Puis, il cherche dans son deck Ranger et sa défausse Ranger le prochain Instantané avec le trait choisi et l’ajoute à sa main."
 
 msgctxt "03004.flavor"
 msgid "Sometimes you need only reflect upon your own experience to discern the way forward."
-msgstr ""
+msgstr "Parfois, il suffit de réfléchir à sa propre expérience pour discerner la voie à suivre."
 
 msgctxt "03005.name"
 msgid "Friendly Repair Service"
-msgstr ""
+msgstr "Service de Réparation Gracieux"
 
 msgctxt "03005.traits"
 msgid "Skill / Expert"
-msgstr ""
+msgstr "Compétence / Expert"
 
 msgctxt "03005.text"
 msgid ""
@@ -90,80 +94,95 @@ msgid ""
 "<b>Response:</b> When a Ranger <b>Connects</b> with the attached human, the Ranger who played this card may discard 1 token from on of their equipped gear to commit 1 effort.\n"
 "<b>Response:</b> After the attached human is cleared with [progress], record 1 improvement and discard this attachment."
 msgstr ""
+"Aspiration (6 améliorations : [aspiration]).\n"
+"S’associeà un humain.\n"
+"<b>Réaction :</b> Lorsqu’un Ranger <b>Se Connecte</b> avec l’Humain associé, le Ranger qui a joué cette carte peut défausser 1 jeton d’un de ses Accessoires pour engager 1 Effort.\n"
+"<b>Réaction :</b> Après avoir satisfait l’Humain associé avec [progress], inscrivez 1 amélioration et défaussez ce Soutien."
 
 msgctxt "03006.name"
 msgid "Kinetic Power Generator"
-msgstr ""
+msgstr "Générateur de Puissance Cinétique"
+
 
 msgctxt "03006.traits"
 msgid "Mod / Tech"
-msgstr ""
+msgstr "Modif / Tech"
 
 msgctxt "03006.text"
 msgid ""
 "Attach to one of your equipped tech.\n"
 "<b>Exhaust:</b> After you succeed at a Traverse test, add 1 token to the attached tech."
 msgstr ""
+"S’associe à l’une de vos Tech équipées.\n"
+"<b>Épuisez :</b> Après avoir réussi un test <b>Traverser</b>, ajoutez 1 jeton sur la Tech associée."
 
 msgctxt "03006.flavor"
 msgid "You socket your gear into the cradle at your waist. When you head out, you hear a quiet thwomp of energy as the gear slowly charges with each and every step."
-msgstr ""
+msgstr "Vous insérez votre équipement dans le harnais que vous portez à la taille. Lorsque vous partez, vous entendez un ronfflement d’énergie alors que l’équipement se charge lentement à chaque pas."
+
 
 msgctxt "03007.name"
 msgid "Alloy Recycler"
-msgstr ""
+msgstr "Recycleur d’Alliages"
 
 msgctxt "03007.traits"
 msgid "Tool / Tech"
-msgstr ""
+msgstr "Outil / Tech"
 
 msgctxt "03007.text"
 msgid ""
 "<b>Response:</b> When one of your equipped gear is discarded, you may attach it to this gear, facedown.\n"
 "<b>Exhaust:</b> When a Ranger performs a test, commit a card attached to this gear. <i>(Discard the committed card after the test is resolved.)</i>"
 msgstr ""
+"<b>Réaction :</b> Lorsqu’un de vos Accessoires équipés est défaussé, vous pouvez l’associer à cet Accessoire, face cachée.\n"
+"<b>Épuisez :</b> Lorsqu’un Ranger effectue un test, engagez une carte associée à cet Accessoire. <i>(défaussez la carte engagée après résolution du test.)</i>"
+
 
 msgctxt "03008.name"
 msgid "Featherweight Gauzeweave"
-msgstr ""
+msgstr "Étoffe Poids-Plume"
 
 msgctxt "03008.traits"
 msgid "Mod"
-msgstr ""
+msgstr "Modif"
 
 msgctxt "03008.text"
 msgid ""
-"Attach to a Ranger's equipped gear.\n"
+"Attach to a Ranger’s equipped gear.\n"
 "Reduce the equip value of the attached gear by 2 (to a minimum of 0)."
 msgstr ""
+"S’associe à un Accessoire équipé par un Ranger.\n"
+"Réduisez la valeur d’encombrement de l’Accessoire associé de 2 (jusqu’à un minimum de 0)."
 
 msgctxt "03008.flavor"
 msgid "Your mentor taught you to always consider the material components of your ideas at their inception. Otherwise you might doom that idea to your sketchpad, never to experience life beyond its pages."
-msgstr ""
+msgstr "Votre mentor vous a appris à toujours prendre en compte les composantes matérielles de vos idées dès leur conception. Sinon, vous pourriez condamner cette idée à rester à l’état de croquis, sans jamais connaître la concrétiser."
+
 
 msgctxt "03009.name"
 msgid "Piercing Whistle"
-msgstr ""
+msgstr "Sifflement Perçant"
 
 msgctxt "03009.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "03009.text"
 msgid "Search your Ranger deck for a being and add it to your hand. You may discard another being from your hand to play the being you searched for without paying its energy cost."
-msgstr ""
+msgstr "Recherchez un Être Vivant dans votre deck Ranger et ajoutez-le à votre main. Vous pouvez défausser un autre Être Vivant de votre main pour jouer l’Être Vivant que vous venez de rechercher sans payer son coût en énergie."
 
 msgctxt "03009.flavor"
 msgid "Since you were young, you've had a whistle that can be heard at great distances. Your closest friends never take long to respond."
-msgstr ""
+msgstr "Depuis votre plus jeun âge, vous émettez un sifflement qui s’entend à grande distance. Vos amis les plus proches ne tardent jamais à vous répondre."
+
 
 msgctxt "03010.name"
 msgid "Essays on Shepherding"
-msgstr ""
+msgstr "Essais sur le pastoralisme"
 
 msgctxt "03010.traits"
 msgid "Book / Aid"
-msgstr ""
+msgstr "Ouvrage / Aide"
 
 msgctxt "03010.text"
 msgid ""
@@ -171,28 +190,36 @@ msgid ""
 "<b>Use 1 essay:</b> When a being would move, it does not.\n"
 "<b>[SPI] + [exploration]: Deepen [2]</b> <f>your understanding to</f> add 1[progress] to a being for every 2 effort. Then add 1 essay to this book."
 msgstr ""
+"<b>Épuisez (utilisez 1 essai) :</b> Déplacez un Être Vivant.\n"
+"<b>Utilisez 1 essai :</b> Lorsqu’un Être Vivant devrait se déplacer, il ne le fait pas.\n"
+"<b>[SPI] + [exploration] : Approfondissez [2]</b> <f>votre compréhension pour</f> ajouter 1[progress] à un Être Vivant pour chaque 2 Efforts. Puis ajoutez 1 essai à cet Ouvrage."
+
 
 msgctxt "03011.name"
 msgid "Zoological Recorder"
-msgstr ""
+msgstr "Enregistreur Zoologique"
 
 msgctxt "03011.traits"
 msgid "Tech / Expert"
-msgstr ""
+msgstr "Tech / Expert"
 
 msgctxt "03011.text"
 msgid ""
 "Objective (7 records: [aspiration]).\n"
 "<b>Exhaust:</b> Choose a being in the path discard with the same name as a being in play. If no attached beings have that name, attach the being from the path discard to this gear facedown. If you do, add 1 record to this gear and 2[progress] to the being in play."
 msgstr ""
+"Aspiration (7 examens : [aspiration]).\n"
+"<b>Épuisez :</b> Choisissez un Être Vivant dans la défausse Chemin portant le même nom qu’un Être Vivant en jeu. Si aucun Être Vivant associé ne porte ce nom, associez l’Être Vivant choisi dans la défausse Chemin à cet Accessoire, face cachée. Si vous le faites, ajoutez 1 enregistrement à cet Accessoire et 2[progress] à l’Être Vivant en jeu."
+
+
 
 msgctxt "03012.name"
 msgid "A Deeper Connection"
-msgstr ""
+msgstr "Une plus Forte Connexion"
 
 msgctxt "03012.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "03012.text"
 msgid ""
@@ -200,106 +227,127 @@ msgid ""
 "<b>Response:</b> After you successfully <b>Connect</b> with the attached being, soothe 1 fatigue.\n"
 "<b>Response:</b> When [harm] would be added to the attached being, discard this attachment to prevent that [harm]."
 msgstr ""
+"S’associe à un Être Vivant À Portée.\n"
+"<b>Réaction :</b> Après avoir réussi à vous <b>Connecter</b> avec l’Être Vivant associé, réduisez votre Fatigue de 1.\n"
+"<b>Réaction :</b> Lorsque [harm] devrait être ajouté à l’Être Vivant associé, défaussez cet attachement pour empêcher ce [harm]."
+
 
 msgctxt "03013.name"
 msgid "The Full Understory"
-msgstr ""
+msgstr "Toute la Vérité"
 
 msgctxt "03013.traits"
 msgid "Wisdom / Nature"
-msgstr ""
+msgstr "Sagacité / Nature"
 
 msgctxt "03013.text"
 msgid "Scout X path cards. X is equal to twice the number of flora in play. If there are no flora in play, search the path deck for the next flora and put it into play."
-msgstr ""
+msgstr "Observez X cartes Chemin. X est égal à deux fois le nombre de flores en jeu. S’il n’y a aucune flore en jeu, Recherchez la prochaine flore dans le deck Chemin et mettez-la en jeu."
 
 msgctxt "03013.flavor"
 msgid "Beneath every rock, behind every tree, and in the moist darkness of the soil, you'll find entire ecosystems at work; life brimming at its fullest, blissful in its relative isolation."
-msgstr ""
+msgstr "Sous chaque rocher, derrière chaque arbre et dans l’obscurité humide du sol, vous trouverez des écosystèmes entiers à l’œuvre : la vie s’épanouit pleinement, heureuse dans son isolement relatif."
+
 
 msgctxt "03014.name"
 msgid "Needle Moss"
-msgstr ""
+msgstr "Mousse-Aiguilles"
 
 msgctxt "03014.traits"
 msgid "Nature"
-msgstr ""
+msgstr "Nature"
+
+msgctxt "03014.name"
+msgid "Needle Moss"
+msgstr "Mousse Aiguille"
+
+msgctxt "03014.traits"
+msgid "Nature"
+msgstr "Nature"
 
 msgctxt "03014.text"
 msgid ""
 "Attach to a flora.\n"
 "<b>Response:</b> When the attached flora clears by [harm], add [harm] to a being in the same area equal to the amount of [harm] on that flora."
 msgstr ""
+"S’associe à une Flore.\n"
+"<b>Réaction :</b> Lorsque la Flore associée est satistfaite par [harm], ajoutez autant de [harm] à un Être Vivant dans la même zone que le nombre de [harm] sur cette Flore."
 
 msgctxt "03014.flavor"
 msgid "You catch the distinctively sweet smell of a nearby patch of needle moss."
-msgstr ""
+msgstr "Vous sentez l’odeur douce et distincte d’une parcelle de mousse-aiguilles toute proche."
 
 msgctxt "03015.name"
 msgid "Mir's Botany"
-msgstr ""
+msgstr "La Botanie de Mir"
 
 msgctxt "03015.traits"
 msgid "Book / Aid"
-msgstr ""
+msgstr "Ouvrage / Aide"
 
 msgctxt "03015.text"
 msgid "<b>[FOC] + [reason] (use 1 lesson): Absorb</b> <f>the botanical knowledge to</f> choose a nature card in your Ranger discard and place it on top of your fatigue stack."
-msgstr ""
+msgstr "<b>[FOC] + [reason] (utilisez 1 leçon) : Assimilez</b> <f>des connaissances botaniques pour</f> choisir une carte Nature dans votre défausse Ranger et la placer au sommet de votre pile de Fatigue."
 
 msgctxt "03015.flavor"
 msgid "Before she became a Ranger, Sirisana Mir wandered the Valley, documenting its plantlife in exhaustive detail.You're fortunate enough to have acquired a copy."
-msgstr ""
+msgstr "Avant de devenir Ranger, Sirisana Mir a parcouru la Vallée, documentant sa flore dans les moindres détails. Vous avez la chance d’avoir acquis un exemplaire de son recueil."
+
 
 msgctxt "03016.name"
 msgid "The Brilliant Gardener"
-msgstr ""
+msgstr "Le Génial Jardinier"
 
 msgctxt "03016.traits"
 msgid "Nature / Expert"
-msgstr ""
+msgstr "Nature / Expert"
 
 msgctxt "03016.text"
 msgid ""
 "Objective (6 seeds: [aspiration]).\n"
 "<b>[SPI] + [reason]: Plant [5]</b> <f>a brightfruit seed to</f> add 1[progress] to a feature and record 1 seed. Reduce the difficulty of this test by 1 for each flora in play."
 msgstr ""
+"Aspiration (6 pépins : [aspiration]).\n"
+"<b>[SPI] + [reason] : Plantez [5]</b> <f>un pépin de lumifruit pour</f> ajouter 1[progress] à une Particularité et inscrire 1 pépin. Réduisez la difficulté de ce test de 1 pour chaque Flore en jeu."
 
 msgctxt "03016.flavor"
 msgid "It is said that brightfuit seeds only take root when planted by a luminous soul."
-msgstr ""
+msgstr "On dit que les pépins de lumifruit ne prennent racine que lorsqu’ils sont plantés par une âme lumineuse."
+
 
 msgctxt "03017.name"
 msgid "Vigilant Lookout"
-msgstr ""
+msgstr "Observateur Vigilant"
 
 msgctxt "03017.text"
 msgid "<b>Exhaust:</b> Scout 1 path card."
-msgstr ""
+msgstr "<b>Épuisez :</b> Observez 1 carte Chemin."
+
 
 msgctxt "03018.name"
 msgid "A Circuitous Route"
-msgstr ""
+msgstr "Détour d’Itinéraire"
 
 msgctxt "03018.traits"
 msgid "Wisdom"
-msgstr ""
+msgstr "Sagacité"
 
 msgctxt "03018.text"
 msgid "<b>Response:</b> When you would draw a path card, instead discard the top card of the path deck. Then, suffer fatigue equal to that card's presence."
-msgstr ""
+msgstr "<b>Réaction :</b> Lorsque vous devriez piocher une carte Chemin, à la place défaussez la carte du dessus du deck Chemin. Puis, subissez un nombre de Fatigue égal à la Présence de cette carte."
 
 msgctxt "03018.flavor"
 msgid "Your mentor taught you that it is an explorer's solemn responsibility to take the long way around when given the option. For there awaits the unknown."
-msgstr ""
+msgstr "Votre mentor vous a enseigné que l’explorateur a la responsabilité solennelle de prendre le chemin le plus long lorsqu’il en a la possibilité. Car c’est là que se trouve l’inconnu."
+
 
 msgctxt "03019.name"
 msgid "Toro the Raccoon"
-msgstr ""
+msgstr "Toro le Raton Laveur"
 
 msgctxt "03019.traits"
 msgid "Companion / Mammal"
-msgstr ""
+msgstr "Compagnon / Mammifère"
 
 msgctxt "03019.text"
 msgid ""
@@ -307,190 +355,221 @@ msgid ""
 "<b>Exhaust:</b> Discard 1[progress] from an obstacle to move your [ranger] to it.\n"
 "<b>[AWA] + [exploration]: Scavenge [2]</b> <f>for useful scrap to</f> add 1 token to a tech. If you fail, draw a path card."
 msgstr ""
+"Amical. Persistant. Unique.\n"
+"<b>Épuisez :</b> Défaussez 1[progress] d’un Obstacle pour déplacer votre [ranger] dessus.\n"
+"<b>[AWA] + [exploration] : Fouillez [2]</b> <f> les décombres en quête d’un truc utile pour et</f> ajouter 1 jeton sur une Tech. Si vous échouez, piochez une carte Chemin."
+
 
 msgctxt "03020.name"
 msgid "Personal Travelogue"
-msgstr ""
+msgstr "Carnet de Voyage Personnel"
 
 msgctxt "03020.traits"
 msgid "Book"
-msgstr ""
+msgstr "Ouvrage"
 
 msgctxt "03020.text"
 msgid ""
 "<b>Exhaust:</b> When you suffer 1 or more fatigue, add an equal number of stories to this book.\n"
 "<b>[SPI] + [exploration]: Reflect [2]</b> <f>on your travels to</f> discard all stories from this book. If you discarded at least 4 stories, shuffle up to 2 cards from your fatigue stack into your deck."
 msgstr ""
+"<b>Épuisez :</b> Lorsque vous subissez 1 Fatigue ou plus, ajoutez autant de notes sur cet Ouvrage.\n"
+"<b>[SPI] + [exploration] : Réfléchissez [2]</b> <f>à vos voyages pour</f> défausser toutes les notes de cet Ouvrage. Si vous en défaussez au moins 4 , mélangez jusqu’à 2 cartes de votre pile de Fatigue dans votre deck."
 
 msgctxt "03021.name"
 msgid "Nut-rolled Honey Loaf"
-msgstr ""
+msgstr "Cake au Miel Enrobé de Noix"
 
 msgctxt "03021.traits"
 msgid "Food"
-msgstr ""
+msgstr "Nourriture"
 
 msgctxt "03021.text"
-msgid "<b>Use 1 slice:</b> After a being enters play, if it's the start of the round, add 1[progress] to that being. If it enters play during a Ranger's turn, add 2◭ to that being instead."
-msgstr ""
+msgid "<b>Use 1 slice:</b> After a being enters play, if it's the start of the round, add 1[progress] to that being. If it enters play during a Ranger's turn, add 2[progress] to that being instead."
+msgstr "<b>Utilisez 1 tranche :</b> Après qu’un Être Vivant entre en jeu, si c’est le début de la manche, ajoutez 1[progress] à cet Être Vivant. S’il s’agit du tour d’un Ranger, ajoutez 2[progress] à cet Être Vivant à la place."
 
 msgctxt "03021.flavor"
 msgid "After years in the wild, you've learned that nothing breaks the ice quite like a slice of freshly baked honey loaf, a traditional confection loved by all beings."
-msgstr ""
+msgstr "Après des années passées dans la nature, vous avez appris que rien ne brise la glace aussi bien qu’une tranche de cake au miel fraîchement cuit, une patisserie traditionnelle appréciée par tout un chacun."
+
+
+
+
+
+
 
 msgctxt "03022.name"
 msgid "Gregarious Inventor"
-msgstr ""
+msgstr "Inventeur Grégaire"
 
 msgctxt "03022.text"
 msgid "<b>Exhaust:</b> Choose a Ranger. That Ranger may search their deck for a gear and play it <i>(paying its cost)</i>."
-msgstr ""
+msgstr "<b>Épuisez :</b> Choisissez un Ranger. Ce Ranger peut rechercher dans son deck un Accessoire et le jouer <i>(en payant son coût)</i>."
+
 
 msgctxt "03023.name"
 msgid "Creative"
-msgstr ""
+msgstr "Créatif"
 
 msgctxt "03023.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03023.text"
 msgid "After you succeed at a test in which you committed this attribute, choose a gear in your Ranger discard and place it on top of your fatigue stack. If your total effort was 3 or more, add it to your hand instead."
-msgstr ""
+msgstr "Après avoir réussi un test dans lequel vous avez engagé cet Attribut, choisissez un Accessoire dans votre défausse Ranger et placez-le au sommet de votre pile de Fatigue. Si votre Effort total est de 3 ou plus, ajoutez-le à votre main à la place."
+
 
 msgctxt "03024.name"
 msgid "Carbonforged Theodolite"
-msgstr ""
+msgstr "Théodolite en Carbone Forgé"
 
 msgctxt "03024.traits"
 msgid "Tech / Tool"
-msgstr ""
+msgstr "Tech / Outil"
 
 msgctxt "03024.text"
 msgid ""
 "<b>Deployed:</b> When you perform an <b>Avoid</b> test, reduce your effort by 1. When you perform a <b>Traverse</b> test, commit 1 effort. This gear gains the following test:\n"
 "<b>[FOC] + [exploration]: Study</b> <f>the landscape to</f> move a feature and add 1[progress] to it."
 msgstr ""
+"<b>Déployé :</b> Lorsque vous effectuez un test <b>Éviter</b>, réduisez votre Effort de 1. Lorsque vous effectuez un test <b>Traverser</b>, engagez 1 Effort. Cet Accessoire gagne le test suivant :\n"
+"<b>[FOC] + [exploration] : Observez</b> <f>le paysage pour</f> déplacer une Particularité et y ajouter 1[progress]."
+
 
 msgctxt "03025.name"
 msgid "Power Cell Recycler"
-msgstr ""
+msgstr "Recycleur de Batteries"
 
 msgctxt "03025.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "03025.text"
 msgid ""
 "<b>Exhaust:</b> Discard 2 tokens from one of your equipped tech to add 1 token to any Ranger's equipped tech.\n"
 "<b>Exhaust:</b> Discard a tech from your hand to add 2 tokens to any Ranger's equipped tech."
 msgstr ""
+"<b>Épuisez :</b> Défaussez 2 jetons de l’une de vos Tech équipées pour ajouter 1 jeton sur n’importe quelle Tech équipée par un Ranger.\n"
+"<b>Épuisez :</b> Défaussez une Tech de votre main pour ajouter 2 jetons sur n’importe quelle Tech équipée par un Ranger."
+
 
 msgctxt "03026.name"
 msgid "Remote Sentinels"
-msgstr ""
+msgstr "Sentinelles Télécommandées"
 
 msgctxt "03026.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "03026.text"
 msgid "<b>Exhaust (use 1 remote):</b> Move a being, treating it as if it does not have ambush. If you moved it within reach, add 1[progress] to it."
-msgstr ""
+msgstr "<b>Épuisez (utilisez 1 émetteur) :</b> Déplacez un Être Vivant, et considérez-le dépourvu du mot-clé Embuscade. Si vous le déplacez À Portée, ajoutez-lui 1[progress]."
 
 msgctxt "03026.flavor"
 msgid "You whistle the two notes, holding long on the second. A moment later, the remotes lift into the air, their rotors making a sound like the beating wings of a hummingbird."
-msgstr ""
+msgstr "Vous sifflez les deux notes, en retenant plus longuement la seconde . Un instant plus tard, les sentinelles s’élèvent dans les airs, leurs rotors produisant un son semblable au battement d’ailes d’un colibri."
+
 
 msgctxt "03027.name"
 msgid "Pathwarden"
-msgstr ""
+msgstr "Gardien du Sentier"
 
 msgctxt "03027.text"
 msgid "<b>Exhaust:</b> Either move a being, treating it as if it does not have ambush or discard 1[harm] from a being."
-msgstr ""
+msgstr "<b>Épuisez :</b> Soit déplacez un Être Vivant, en le considérantdépourvu du mot-clé Embuscade, soit défaussez 1[harm] d’un Être Vivant."
+
 
 msgctxt "03028.name"
 msgid "Show No Fear"
-msgstr ""
+msgstr "Ne Montrez Aucune Peur"
 
 msgctxt "03028.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "03028.text"
 msgid "Discard a being with 0 presence. If that being is a predator, place it on top of the path deck instead."
-msgstr ""
+msgstr "Défaussez un Être Vivant avec 0 présence. Si cet Être Vivant est un Prédateur, placez-le au sommet du deck Chemin à la place."
 
 msgctxt "03028.flavor"
 msgid "You recall your mentor's words: \"Use  caution, but show no fear. As your understanding grows, so will your fear diminish. All beings are but manifestations of a greater whole. We are all one.\""
-msgstr ""
+msgstr "Vous vous souvenez les paroles de votre mentor : « Soyez prudent, mais n’ayez pas peur. au fur et à mesure que votre compréhension grandira, votre peur diminuera. Tous les Êtres Vivants ne sont que des manifestations d’un grand tout. Nous ne faisons qu’un. »"
 
 msgctxt "03029.name"
 msgid "All Together Now"
-msgstr ""
+msgstr "Dorénavant Tous Ensemble"
 
 msgctxt "03029.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "03029.text"
 msgid "When you perform a test, discard 2 or more [progress] from beings within reach to commit 1 effort for every 2[progress] discarded."
-msgstr ""
+msgstr "Lorsque vous effectuez un test, défaussez 2[progress] ou plus d’Êtres Vivants À Portée pour engager 1 Effort pour chaque tranche de 2[progress] défaussés."
 
 msgctxt "03029.flavor"
 msgid "As a conciliator, you've found that there are few joys greater than that of bringing people together to share in the completion a difficult task."
-msgstr ""
+msgstr "En tant que conciliateur, vous avez découvert qu’il existe peu de joies plus grandes que celle de réunir des personnes pour partager l’achèvement d’une tâche difficile."
+
 
 msgctxt "03030.name"
 msgid "Influential"
-msgstr ""
+msgstr "Influent"
 
 msgctxt "03030.traits"
 msgid "Skill"
-msgstr ""
+msgstr "Compétence"
 
 msgctxt "03030.text"
 msgid "If you commited this attribute while interacting with a being, and the test is successful, you may decide which, if any, of that being's challenge effects resolve."
-msgstr ""
+msgstr "Si vous avez engagé cet Attribut en interagissant avec un Être Vivant et que le test est réussi, vous pouvez décider lequel, s’il y en a, des effets Défi de cet Être Vivant est résolu."
 
 msgctxt "03030.flavor"
 msgid "You've spent years cultivating deep and meaningful connections with the people of your village. As such, you've come to be regarded as a source of great wisdom."
-msgstr ""
+msgstr "Vous avez passé des années à cultiver des liens profonds et significatifs avec les habitants de votre village. À ce titre, vous êtes considéré comme une source de grande sagesse."
 
 msgctxt "03031.name"
 msgid "Empathy Amplifier"
-msgstr ""
+msgstr "Amplificateur d’Empathie"
 
 msgctxt "03031.traits"
 msgid "Tech / Aid"
-msgstr ""
+msgstr "Tech / Aide"
 
 msgctxt "03031.text"
 msgid ""
 "<b>Deployed:</b> When you perform a <b>Traverse</b> test, reduce your effort by 1. When you perform a <b>Connect</b> test, commit 1 effort. This gear gains the following ability:\n"
 "<b>Use 1 reading:</b> When a Ranger performs a test that is on a being, commit 2 effort."
 msgstr ""
+"<b>Déployé :</b> Lorsque vous effectuez un test <b>Traverser</b>, réduisez votre Effort de 1. Lorsque vous effectuez un test <b>Se Connecter</b>, engagez 1 Effort. Cet Accessoire gagne la capacité suivante :\n"
+"<b>Utilisez 1 lecture :</b> Lorsqu’un Ranger effectue un test sur un Être Vivant, engagez 2 Efforts."
 
+
+################
 msgctxt "03031.flavor"
-msgid "You've spent years cultivating deep and meaningful connections with the people of your village. As such, you've come to be regarded as a source of great wisdom."
-msgstr ""
+msgid "You've spent years cultivating deep and meaningful connections with the people of your village. As such, you've come to be regarded as a source of great
+
+# same line than 03030.flavor and no flavor on french version.
+####################
+
 
 msgctxt "03032.name"
 msgid "Anchorite of Stone"
-msgstr ""
+msgstr "Ermite Inébranlable"
 
 msgctxt "03032.text"
 msgid "<b>Exhaust:</b> Add 1 token to a Conduit or ready it."
-msgstr ""
+msgstr "<b>Épuisez :</b> Ajoutez 1 jeton à un Catalyseur ou restaurez-le."
+
 
 msgctxt "03033.name"
 msgid "Slow Time"
-msgstr ""
+msgstr "Temps Ralenti"
 
 msgctxt "03033.traits"
 msgid "Manifestation"
-msgstr ""
+msgstr "Manifestation"
 
 msgctxt "03033.text"
 msgid ""
@@ -499,82 +578,93 @@ msgid ""
 "<b>Use 1 strain:</b> When the attached card would ready, it remains exhausted.\n"
 "<b>Response:</b> When the attached card leaves play, you may discard 1 token from a conduit to attach this manifestation to another path card."
 msgstr ""
+"Manifestation.\n"
+"S’associe à une carte Chemin.\n"
+"<b>Utilisez 1 stress:</b> Lorsque la carte associée devrait être restaurée, elle reste épuisée.\n"
+"<b>Réaction :</b> Lorsque la carte associée quitte le jeu, défaussez 1 jeton d’un Catalyseur pour associer cette Manifestation à une autre carte Chemin."
+
 
 msgctxt "03034.name"
 msgid "All is Clay"
-msgstr ""
+msgstr "Tout Est Argile"
 
 msgctxt "03034.traits"
 msgid "Manifestation"
-msgstr ""
+msgstr "Manifestation"
 
 msgctxt "03034.text"
 msgid ""
 "Manifestation.\n"
 "Move any number of beings or features. After moving the last card, each area must have same number of path cards as before you played this manifestation. While moving cards this way, treat them as if they do not have the ambush keyword."
 msgstr ""
+"Manifestation.\n"
+"Déplacez autant d’Êtres Vivants et de Particularités que soihaité. Après avoir déplacé la dernière carte, chaque zone doit contenir autant de cartes Chemin qu’avant que vous ne jouiez cette Manifestation. En déplaçant des cartes de cette façon, considérez qu’aucune n’a le mot-clé Embuscade."
+
 
 msgctxt "03035.name"
 msgid "Conductor"
-msgstr ""
+msgstr "Conducteur"
 
 msgctxt "03035.traits"
 msgid "Manifestation"
-msgstr ""
+msgstr "Manifestation"
 
 msgctxt "03035.text"
 msgid ""
 "Manifestation. <i>(To commit this attribute, discard 1 token from a conduit.)</i>\n"
 "You can commit this attribute to any test you perform. When you do, suffer 1 fatigue and double the energy committed to this test."
 msgstr ""
+"Manifestation. <i>(Pour engager cet Attribut, défaussez 1 jeton d’un Catalyseur.)</i>\n"
+"Vous pouvez engager cet Attribut dans n’importe quel test que vous effectuez. Lorsque vous le faites, subissez 1 Fatigue et doublez l’énergie engagée pour ce test."
 
 msgctxt "03036.name"
 msgid "Visions of the Floating Tower"
-msgstr ""
+msgstr "Visions de la Tour Flottante"
 
 msgctxt "03036.traits"
 msgid "Book"
-msgstr ""
+msgstr "Ouvrage"
 
 msgctxt "03036.text"
 msgid "<b>Use 1 vision:</b> After you discard 1 or more tokens from a conduit, soothe an equal number of fatigue."
-msgstr ""
+msgstr "<b>Utilisez 1 vision :</b> Après avoir défaussé 1 jeton ou plus d’un Catalyseur, réduisez votre Fatigue d’autant."
 
 msgctxt "03036.flavor"
 msgid "Shortly after Spire was settled, Bastian Cress began having visions. He describes a spike of pearl above a mountain top, wreathed in diaphanous clouds, and out from it reaching a pair of grasping hands."
-msgstr ""
+msgstr "Peu après la construction  de Flèche, Bastian Cress commença à avoir des visions. Il décrit une pointe perle au-dessus du sommet d’une montagne, enveloppée de nuages diaphanes, d’où jaillissent des mains menaçantes."
 
 msgctxt "03037.name"
 msgid "Keeper of the Grove"
-msgstr ""
+msgstr "Gardien du Bosquet"
 
 msgctxt "03037.text"
 msgid "<b>Exhaust:</b> Before your first turn of the round, add 2[progress] to a spirit. Then, <b>spiritspeak</b>."
-msgstr ""
+msgstr "<b>Épuisez :</b> Avant votre premier tour de la Manche, ajoutez 2[progress] à un Esprit. Puis, <b>spiriconversez</b>."
 
 msgctxt "03038.name"
 msgid "Cartographer of Many Worlds"
-msgstr ""
+msgstr "Cartographe des Multimondes"
 
 msgctxt "03038.text"
 msgid "<b>Exhaust:</b> Spend 1 energy to <b>spiritspeak</b>."
-msgstr ""
+msgstr "<b>Épuisez :</b> Dépensez 1 Énergie pour <b>spiriconverser</b>."
 
 msgctxt "03039.name"
 msgid "Descendant of the Guide"
-msgstr ""
+msgstr "Descendant du Guide"
 
 msgctxt "03039.text"
 msgid "<b>Exhaust:</b> Perform a spirit speaker test."
-msgstr ""
+msgstr "<b>Épuisez :</b> Effectuez un test Chuchoteur d’Esprit."
+
 
 msgctxt "03040.name"
 msgid "Clearer of Ways"
-msgstr ""
+msgstr "Ouvreur de Chemins"
 
 msgctxt "03040.traits"
 msgid "Wisdom / Spiritual"
-msgstr ""
+msgstr "Sagacité / Spirituel"
 
 msgctxt "03040.text"
 msgid ""
@@ -582,82 +672,92 @@ msgid ""
 "When you play this attachment, you may ready the attached spirit.\n"
 "<b>Response:</b> When a Ranger performs a test, they may discard 2 or more [progress] from the attached spirit. Dodge a card in the same area as it for every 2[progress] discarded."
 msgstr ""
+"S’associe à un Esprit.\n"
+"Lorsque vous jouez ce Soutien, vous pouvez restaurer l’Esprit associé.\n"
+"<b>Réaction :</b> Lorsqu’un Ranger effectue un test, il peut défausser 2[progress] ou plus de l’Esprit associé. Esquivez une carte dans la même zone que lui pour chaque tranche de 2[progress] défaussés."
 
 msgctxt "03041.name"
 msgid "Call Upon the Spirits"
-msgstr ""
+msgstr "Invoquer les Esprits"
 
 msgctxt "03041.traits"
 msgid "Knowledge / Expert"
-msgstr ""
+msgstr "Connaissance / Expert"
 
 msgctxt "03041.text"
 msgid "Search your deck for a spirit and add it to your hand. If you are <b>spiritspeaking</b>, you may play that spirit, reducing its cost by 1. Otherwise, you may exhaust your role to <b>spiritspeak</b>."
-msgstr ""
+msgstr "Recherchez dans votre deck un Esprit et ajoutez-le à votre main. Si vous <b>spiriconversez</b> actuellement, vous pouvez jouer cet Esprit en réduisant son coût de 1. Sinon, vous pouvez épuiser votre rôle pour <b>spiriconverser</b>."
 
 msgctxt "03041.flavor"
 msgid "Your helping spirits are always with you, but you've learned that they are most effective when given explicit instruction."
-msgstr ""
+msgstr "Les Esprits sont toujours prêts à vous aider, mais vous avez appris qu’ils étaient plus efficaces lorsqu’ils recevaient des instructions explicites."
+
 
 msgctxt "03042.name"
 msgid "Sitka Spirit"
-msgstr ""
+msgstr "Esprit de Sitka"
 
 msgctxt "03042.traits"
 msgid "Spirit"
-msgstr ""
+msgstr "Esprit"
 
 msgctxt "03042.text"
 msgid ""
 "Persistent. Spirit.\n"
 "<b>Response:</b> Before a Sitka Buck would resolve a challenge effect, discard 2[progress] from this spirit to exhaust the Buck."
 msgstr ""
+"Persistant. Esprit.\n"
+"<b>Réaction :</b> Avant qu’un Cerf Sitka ne résolve un effet Défi, défaussez 2[progress] de cet Esprit pour épuiser le Cerf."
 
 msgctxt "03042.crest_challenge"
 msgid "You may discard 1 or more [progress] from this spirit to exhaust a being in the same area with presence equal to the number of [progress] discarded."
-msgstr ""
+msgstr "Vous pouvez défausser 1[progress] ou plus de cet Esprit pour épuiser un Être Vivant dans la même zone dont la Présence est égal au nombre de [progress] défaussés."
 
 msgctxt "03043.name"
 msgid "Spirit of the Verdessa"
-msgstr ""
+msgstr "Esprit de la Verdessa"
 
 msgctxt "03043.traits"
 msgid "Spirit / Major"
-msgstr ""
+msgstr "Esprit / Majeur"
 
 msgctxt "03043.text"
 msgid ""
 "Persistent. Unique. Spirit.\n"
 "<b>Exhaust:</b> Discard up to 3[progress] from this spirit to choose a path card in the same area. Reduce that card's presence by the number of [progress] discarded until the end of the turn."
 msgstr ""
+"Persistant. Unique. Esprit.\n"
+"<b>Épuisez :</b> Défaussez jusqu’à 3[progress] de cet Esprit pour choisir une carte Chemin dans la même zone. Réduisez la Présence de cette carte du nombre de [progress] défaussés jusqu’à la fin du tour."
 
 msgctxt "03043.sun_challenge"
 msgid "You may discard 2[progress] from this spirit to search the path deck for the next being or feature. Then, add 2[progress] to that card."
-msgstr ""
+msgstr "Vous pouvez défausser 2[progress] de cet Esprit pour rechercher dans le deck Chemin le prochain Être Vivant ou la prochaine Particularité. Puis, ajoutez 2[progress] à cette carte."
+
 
 msgctxt "03044.name"
 msgid "The Path Opens Before Me"
-msgstr ""
+msgstr "La Voie s’Ouvre Devant Moi"
 
 msgctxt "03044.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "03044.text"
 msgid "<b>Response:</b> After you succeed at a test that interacts with a spirit, add [progress] to the location equal to your effort. This is in addition to the test's standard effect."
-msgstr ""
+msgstr "<b>Réaction :</b> Après avoir réussi un test qui interagit avec un Esprit, ajoutez autant de [progress] au lieu que votre effort. Ceci s’ajoute à l’effet standard du test."
 
 msgctxt "03044.flavor"
 msgid "You quiet the chatter of your mind and reflect upon the message you've received. As usual, what the spirit told you was both incredibly simple, and undeniably wise."
-msgstr ""
+msgstr "Vous calmez le bavardage de votre esprit et réfléchissez au message que vous avez reçu. Comme d’habitude, ce que l’esprit vous a dit est à la fois incroyablement simple et indéniablement sage."
+
 
 msgctxt "03045.name"
 msgid "Attendant Guide"
-msgstr ""
+msgstr "Guide Domestiqué"
 
 msgctxt "03045.traits"
 msgid "Knowledge / Spiritual"
-msgstr ""
+msgstr "Connaissance / Spirituel"
 
 msgctxt "03045.text"
 msgid ""
@@ -665,122 +765,139 @@ msgid ""
 "<b>Response:</b> When a Ranger interacts with a card in the same area as the attached spirit, you may exhaust that spirit to commit its approach icons to that test.\n"
 "<b>Exhaust:</b> Move the attached spirit."
 msgstr ""
+"S’associe à un Esprit.\n"
+"<b>Réaction :</b> Lorsqu’un Ranger interagit avec une carte dans la même zone que l’Esprit associé, vous pouvez épuiser cet Esprit pour engager ses icônes Approche dans ce test.\n"
+"<b>Épuisez :</b> Déplacez l’Esprit associé."
+
 
 msgctxt "03046.name"
 msgid "Atrox Spirit"
-msgstr ""
+msgstr "Esprit d’Atrox"
 
 msgctxt "03046.traits"
 msgid "Spirit"
-msgstr ""
+msgstr "Esprit"
 
 msgctxt "03046.text"
 msgid ""
 "Persistent. Spirit.\n"
 "<b>Response:</b> When Pouncing Atrox enters play, discard 2[progress] from this spirit to treat the Atrox as if it did not have ambush."
 msgstr ""
+"Persistant. Esprit.\n"
+"<b>Réaction :</b> Lorsque l’Atrox Bondissant entre en jeu, défaussez 2[progress] de cet Esprit pour traiter l’Atrox comme dépourvu du mot-clé Embuscade."
 
 msgctxt "03046.sun_challenge"
 msgid "You may either exhaust this spirit or discard 2[progress] from it. If you do, move up to 3[progress] from this spirit to a feature in the same area."
-msgstr ""
+msgstr "Vous pouvez soit épuiser cet Esprit, soit défausser 2[progress] présent dessus. Si vous le faites, déplacez jusqu’à 3[progress] de cet Esprit sur une Particularité dans la même zone."
+
 
 msgctxt "03047.name"
 msgid "Spirit of Mount Nim"
-msgstr ""
+msgstr "Esprit du Mont Nim"
 
 msgctxt "03047.traits"
 msgid "Spirit / Major"
-msgstr ""
+msgstr "Esprit / Majeur"
 
 msgctxt "03047.text"
 msgid ""
 "Persistent. Unique. Spirit.\n"
 "<b>Exhaust:</b> When a Ranger interacts with a card in the same area as this spirit, discard 2 or more [progress[ from this spirit to commit 1 effort for every 2[progress] discarded."
 msgstr ""
+"Persistant. Unique. Esprit.\n"
+"<b>Épuisez :</b> Lorsqu’un Ranger interagit avec une carte dans la même zone que cet Esprit, défaussez 2[progress] ou plus de cet Esprit pour engager 1 effort pour chaque tranche de 2[progress] défaussés."
 
 msgctxt "03047.mountain_challenge"
 msgid "You may discard 3[progress] from this spirit to exhaust a feature in the same area."
-msgstr ""
+msgstr "Vous pouvez défausser 3[progress] de cet Esprit pour épuiser une Particularité dans la même zone."
 
 msgctxt "03048.name"
 msgid "Carbonforged Drum"
-msgstr ""
+msgstr "Tambour en Carbone Forgé"
 
 msgctxt "03048.traits"
 msgid "Instrument / Tech"
-msgstr ""
+msgstr "Instrument / Tech"
 
 msgctxt "03048.text"
 msgid "<b>Exhaust (use 1 beat):</b> When a Ranger reveals a challenge card during a test, choose a challenge effect on an active being. Resolve that effect this test."
-msgstr ""
+msgstr "<b>Épuisez (utilisez 1 coup) :</b> Lorsqu’un Ranger révèle une carte Défi pendant un test, choisissez un effet Défi sur un Être Vivant actif. Résolvez cet effet pour ce test."
 
 msgctxt "03048.flavor"
 msgid "It's as though each strike of the drum conjures a deep and ancient memory; one shared by all beings. The sound is comforting and invigorating all at once."
-msgstr ""
+msgstr "C’est comme si chaque coup de tambour évoquait un souvenir profond et ancien, partagé par tous les êtres. Le son est à la fois réconfortant et vivifiant."
+
 
 msgctxt "03049.name"
 msgid "The Long Walk"
-msgstr ""
+msgstr "La Longue Marche"
 
 msgctxt "03049.traits"
 msgid "Book"
-msgstr ""
+msgstr "Ouvrage"
 
 msgctxt "03049.text"
 msgid ""
 "<b>Exhaust (use 1 journey):</b> After you succeed at a test that interacts with a spirit, add [progress] to another spirit equal to your effort.\n"
 "<b>[SPI] + [reason]: Study [2]</b> <f>the wisdom of your ancestors to</f> add 1[progress] for every 2 effort to a spirit. Then add 1 journey to this book."
 msgstr ""
+"<b>Épuisez (utilisez 1 trajet) :</b> Après avoir réussi un test qui interagit avec un Esprit, ajoutez un nombre de [progress] à un autre Esprit égal à votre Effort.\n"
+"<b>[SPI] + [reason] : Étudiez [2]</b> <f>la sagesse de vos ancêtres pour</f> ajouter 1[progress] sur un Esprit pour chaque tranche de 2 Efforts . Puis, ajoutez 1 trajet à cet Ouvrage."
+
 
 msgctxt "03050.name"
 msgid "Irix Spirit"
-msgstr ""
+msgstr "Esprit d’Irix"
 
 msgctxt "03050.traits"
 msgid "Spirit"
-msgstr ""
+msgstr "Esprit"
 
 msgctxt "03050.text"
 msgid ""
 "Persistent. Spirit.\n"
 "<b>Response:</b> When you travel, discard 2[progress] from this spirit to treat all Circling Irix as if they did not have persistent."
 msgstr ""
+"Persistant. Esprit.\n"
+"<b>Réaction :</b> Lorsque vous voyagez, défaussez 2[progress] de cet Esprit pour traiter tous les Irix En Chasse comme dépourvus du mot-clé Persistant."
 
 msgctxt "03050.mountain_challenge"
 msgid "You may either exhaust this spirit or discard 1[progress] from it. If you do, resolve a challenge effect on another being in the same area."
-msgstr ""
+msgstr "Vous pouvez soit épuiser cet Esprit, soit défausser 1[progress] présent dessus. Si vous le faites, résolvez un effet Défi d’un autre Être Vivant dans la même zone."
+
 
 msgctxt "03051.name"
 msgid "Spirit of the Valley"
-msgstr ""
+msgstr "Esprit de la Vallée"
 
 msgctxt "03051.traits"
 msgid "Spirit / Major"
-msgstr ""
+msgstr "Esprit / Majeur"
 
 msgctxt "03051.text"
 msgid "Persistent. Unique. Spirit."
-msgstr ""
+msgstr "Persistant. Unique. Esprit."
 
 msgctxt "03051.sun_challenge"
 msgid "You may move up to 4[progress] from this spirit to another spirit in the same area."
-msgstr ""
+msgstr "Vous pouvez déplacer jusqu’à 4[progress] de cet Esprit sur un autre Esprit dans la même zone."
 
 msgctxt "03051.mountain_challenge"
 msgid "You may discard 3[progress] from this spirit to gain 1 energy of any type."
-msgstr ""
+msgstr "Vous pouvez défausser 3[progress] de cet Esprit pour gagner 1 énergie de votre choix."
 
 msgctxt "03051.crest_challenge"
 msgid "You may discard 2[progress] from this spirit to scout 1 challenge card."
-msgstr ""
+msgstr "Vous pouvez défausser 2[progress] de cet Esprit pour observer 1 carte Défi."
+
 
 msgctxt "03052.name"
 msgid "That Which Connects Us"
-msgstr ""
+msgstr "Ce Qui Nous Lie"
 
 msgctxt "03052.traits"
 msgid "Skill / Spiritual"
-msgstr ""
+msgstr "Compétence / Spirituel"
 
 msgctxt "03052.text"
 msgid ""
@@ -788,78 +905,102 @@ msgid ""
 "The attached being gains friendly.\n"
 "<b>Exhaust:</b> Move up to 2[progress] from the attached being to another being in the same area."
 msgstr ""
+"S’associe à un Être Vivant d’une Présence de 1 ou moins.\n"
+"L’Être Vivant associé gagne Amical.\n"
+"<b>Épuisez :</b> Déplacez jusqu’à 2[progress] de l’Être Vivant associé sur un autre Être Vivant dans la même zone."
 
 msgctxt "03053.name"
 msgid "Heart Harmonizer"
-msgstr ""
+msgstr "Harmonisateur Cardiaque"
 
 msgctxt "03053.traits"
 msgid "Tech"
-msgstr ""
+msgstr "Tech"
 
 msgctxt "03053.text"
 msgid ""
 "<b>Exhaust (use 1 song):</b> After you succeed at a <b>Connect</b> or <b>Commune</b> test, soothe 1 fatigue.\n"
 "<b>Response:</b> When you would suffer an injury, spend 2[progress] from a spirit within reach to prevent it."
 msgstr ""
+"<b>Épuisez (utilisez 1 chant) :</b> Après avoir réussi un test <b>Se Connecter</b> ou <b>Communier</b>, réduisez votre Fatigue de 1.\n"
+"<b>Réaction :</b> Lorsque vous devriez subir une blessure, dépensez 2[progress] d’un Esprit à Portée pour l’ignorer."
 
 msgctxt "03054.name"
 msgid "Lutrinal Spirit"
-msgstr ""
+msgstr "Esprit de Loutrinal"
 
 msgctxt "03054.traits"
 msgid "Spirit"
-msgstr ""
+msgstr "Esprit"
+
+
+#########################################
+
+# the Response line was missing
 
 msgctxt "03054.text"
-msgid "Persistent. Spirit."
+msgid ""
+"Persistent. Spirit.\n"
+"<b>Response:</b> Before a romping Lutrinal would move, discard 1[progress] from this spirit to prevent it."
 msgstr ""
+"Persistant. Esprit.\n"
+"<b>Réaction :</b> Avant qu’un Loutrinal Facétieux ne se déplace, défaussez 1[progress] de cet Esprit pour l’en empêcher."
+
+
+#####################################################
+
+
 
 msgctxt "03054.sun_challenge"
 msgid "You may either exhaust this spirit or discard 2[progress] from it. If you do, move up to 3[progress] from this spirit to a non-spirit being in the same area."
-msgstr ""
+msgstr "Vous pouvez soit épuiser cet Esprit, soit défausser 2[progress] présents dessus. Si vous le faites, déplacez jusqu’à 3[progress] de cet Esprit vers un Être Vivant non-Esprit dans la même zone."
+
 
 msgctxt "03055.name"
 msgid "Spirit of the Silverfin"
-msgstr ""
+msgstr "Esprit de la Vif-Argent"
 
 msgctxt "03055.traits"
 msgid "Spirit / Major"
-msgstr ""
+msgstr "Esprit / Majeur"
 
 msgctxt "03055.text"
 msgid ""
 "Persistent. Unique. Spirit.\n"
 "<b>Exhaust:</b> When you would suffer 1 or more fatigue or an injury while this spirit is within reach, discard 3[progress] from it to prevent that fatigue or injury."
 msgstr ""
+"Persistant. Unique. Esprit.\n"
+"<b>Épuisez :</b> Lorsque vous devriez subir 1 Fatigue ou plus, ou une blessure, alors que cet Esprit est À Portée, défaussez 3[progress] de cet Esprit pour ignorer Fatigue ou blessure."
 
 msgctxt "03055.crest_challenge"
 msgid "You may discard 2[progress] from this spirit and choose a path card. If you do, challenge effects on that card do not resolve during this test."
-msgstr ""
+msgstr "Vous pouvez défausser 2[progress] de cet Esprit et choisir une carte Chemin. Si vous le faites, les effets Défi de cette carte ne sont pas résolus pendant ce test."
+
 
 msgctxt "03056.name"
 msgid "The Cats of Elder Atma"
-msgstr ""
+msgstr "Les Chats de la Vénérable Atma"
 
 msgctxt "03056.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "03056.text"
 msgid "<b>Response:</b> When a Ranger performs a test, they dodge 1 card. If that Ranger has 5 or more fatigue, add this moment back to your hand instead of discarding it."
-msgstr ""
+msgstr "<b>Réaction :</b> Lorsqu’un Ranger effectue un test, il esquive 1 carte. Si ce Ranger a 5 Fatigue ou plus, ajoutez cet Instantané à votre main au lieu de le défausser."
 
 msgctxt "03056.flavor"
 msgid "They did as Elder Atma bade and followed the cat as it moved swiftly through the woods until they arrived at a clearing..."
-msgstr ""
+msgstr "Ils firent comme la vénérable Atma l’avait suggéré et suivirent le chat qui se déplaçait rapidement à travers les bois jusqu’à ce qu’ils arrivent à une clairière..."
+
 
 msgctxt "03057.name"
 msgid "Hush Little Critter"
-msgstr ""
+msgstr "Chut, Petite Créature"
 
 msgctxt "03057.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "03057.text"
 msgid ""
@@ -867,30 +1008,35 @@ msgid ""
 "<b>Use 1 hum:</b> When the attached being would ready, it remains exhausted. If its presence is 2 or more, the Ranger who played this attachment suffers 1 fatigue.\n"
 "<b>Response:</b> When the attached being readies, discard this attachment."
 msgstr ""
+"S’associe à un Être Vivant.\n"
+"<b>Utilisez 1 repos :</b> Lorsque l’Être Vivant associé devrait être restauré, il reste épuisé. Si sa Présence est de 2 ou plus, le Ranger ayant joué ce Soutien subit 1 Fatigue.\n"
+"<b>Réaction :</b> Lorsque l’Être Vivant associé est restauré, défaussez ce Soutien."
+
 
 msgctxt "03058.name"
 msgid "The Better Part of Valor"
-msgstr ""
+msgstr "La Meilleure Part du Courage"
 
 msgctxt "03058.traits"
 msgid "Experience / Tale"
-msgstr ""
+msgstr "Expérience / Conte"
 
 msgctxt "03058.text"
 msgid "Choose a being within reach of a Ranger. That being fatigues that Ranger. Shuffle that being into the path deck. That Ranger scouts a number of path cards equal to the chosen being's presence, then draws a path card."
-msgstr ""
+msgstr "Choisissez un Être Vivant à Portée d’un Ranger. Cet Être Vivant  Fatigue ce Ranger. Mélangez cet Être Vivant dans le deck Chemin. Ce Ranger observe autant de cartes Chemin que la Présence de l’Être Vivant choisi, puis pioche 1 carte Chemin."
 
 msgctxt "03058.flavor"
 msgid "Recall the tale of the Ranger who once fled a pack of wolhunds only to fall off a cliff."
-msgstr ""
+msgstr "Rappelez-vousl l'histoire du Ranger qui chuta d'une falaise en fuyant une meute de loups."
+
 
 msgctxt "03059.name"
 msgid "Wonders of the Valley"
-msgstr ""
+msgstr "Merveilles de la Vallée"
 
 msgctxt "03059.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "03059.text"
 msgid ""
@@ -898,122 +1044,142 @@ msgid ""
 "When you play this attachment on a feature, you may move that feature.\n"
 "<b>Exhaust:</b> After a Ranger suffers 1 or more fatigue, add [progress] to the attached card equal to the number of fatigue suffered plus 1."
 msgstr ""
+"S’associe à un lieu ou à une Particularité.\n"
+"Lorsque vous jouez ce Soutien sur une Particularité, vous pouvez déplacer cette Particularité.\n"
+"<b>Épuisez :</b> Après qu’un Ranger a subi 1 Fatigue ou plus, ajoutez autant de [progress] sur la carte associée que le nombre de Fatigue subies plus 1."
+
 
 msgctxt "03060.name"
 msgid "The Buck and the Wolhund"
-msgstr ""
+msgstr "Le Cerf et le Wolhund"
 
 msgctxt "03060.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "03060.text"
 msgid "Add 1[harm] to a prey to exhaust a predator and add 3[harm] to it."
-msgstr ""
+msgstr "Ajoutez 1[harm] à une Proie pour épuiser un Prédateur et lui ajouter 3[harm]."
 
 msgctxt "03060.flavor"
 msgid "...and the buck, when pressed, reared on its haunches, lifting the wolhund high into the air. The wolhund bit and clawed at the antlers, but was thrown to the earth with force. There it lay for many heartbeats, seeming dead..."
-msgstr ""
+msgstr "...et le Cerf, acculé, se cabra violemment, soulevant le loup dans les airs. Le loup mordit et griffa les bois, mais il fut projeté avec force au sol. Il y resta là pendant plusieurs battements de cœur, paraissant mort..."
 
 msgctxt "03061.name"
 msgid "Go Forth, Fearless Ranger"
-msgstr ""
+msgstr "Va, Intrépide Ranger"
 
 msgctxt "03061.traits"
 msgid "Experience / Expert"
-msgstr ""
+msgstr "Expérience / Expert"
 
 msgctxt "03061.text"
 msgid ""
 "Objective (9 feats: [aspiration]).\n"
 "Choose a Ranger to perform a test, doubling its difficulty. If they succeed, they soothe 2 fatigue. Then record feats equal to the test's original difficulty."
 msgstr ""
+"Aspiration (9 exploits : [aspiration]).\n"
+"Choisissez un Ranger pour qu’il effectue un test, en doublant sa difficulté. S’il réussit, il réduit sa Fatigue de 2. Puis inscrivez autant d’exploits que la difficulté initiale du test."
 
 msgctxt "03061.flavor"
 msgid "Sometimes a Ranger needs a little extra encouragement to achieve greatness."
-msgstr ""
+msgstr "Parfois, un Ranger a besoin d’un peu plus d’encouragement pour atteindre l’excellence."
+
 
 msgctxt "03062.name"
 msgid "The Tale of Two Rivers"
-msgstr ""
+msgstr "Le Conte des Deux Rivières"
 
 msgctxt "03062.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "03062.text"
 msgid "<b>Response:</b> When a Ranger resolves an effect that scouts and/or draws cards from their deck, they do so from their fatigue stack instead. Then, if that Ranger has 5 or more fatigue, return this moment to your hand."
 msgstr ""
+"<b>Réaction :</b> Lorsqu’un Ranger résout un effet qui lui permet d’observer et/ou de piocher des cartes de son deck, il le fait dans sa pile de Fatigue à la place. Puis, si ce Ranger a 5 Fatigue ou plus, reprenez cet Instantané en main."
 
 msgctxt "03062.flavor"
 msgid "This tale is one best told with liberal use of onomatopoeia and a few hand props."
-msgstr ""
+msgstr "Cette histoire se raconte mieux en utilisant de nombreuses onomatopées et quelques accessoires."
+
 
 msgctxt "03063.name"
 msgid "Book of Great Deeds"
-msgstr ""
+msgstr "Recueil des Hauts Faits"
 
 msgctxt "03063.traits"
 msgid "Book"
-msgstr ""
+msgstr "Ouvrage"
 
 msgctxt "03063.text"
 msgid ""
 "<b>Response:</b> After a Ranger succeeds at a test with 4 or more effort or suffers 2 or more fatigue, add 1 deed to this gear.\n"
 "<b>[SPI] + [exploration] (use 1 deed): Recount [2]</b> <f>your adventures to</f> shuffle a card from the top of a Ranger's fatigue stack into their deck. Add 2[progress] to each human within reach of them."
 msgstr ""
+"<b>Réaction :</b> Après qu’un Ranger a réussi un test avec 4 Effort ou plus, ou a subi 2 Fatigue ou plus, ajoutez 1 prouesse à cet Accessoire.\n"
+"<b>[SPI] + [exploration] (utilisez 1 prouesse) : Parcourez [2]</b> <f>vos aventures pour</f> mélanger la première carte de la pile de Fatigue d’un Ranger dans son deck. Ajoutez 2[progress] à chaque Humain À Portée de lui."
+
 
 msgctxt "03064.name"
 msgid "Transverse Ocarina"
-msgstr ""
+msgstr "Ocarina Transversal"
 
 msgctxt "03064.traits"
 msgid "Instrument / Aid"
-msgstr ""
+msgstr "Instrument / Aide"
 
 msgctxt "03064.text"
 msgid ""
 "<b>Exhaust (use 1 melody):</b> Ready an attachment or a card with a tale attached to it.\n"
 "<b>Exhaust (use X melodies):</b> After you play an attachment on a path card, exhaust that path card. X is equal to that card's presence."
 msgstr ""
+"<b>Épuisez (utilisez 1 mélodie) :</b> Restaurez un Soutien ou une carte à laquelle un Conte est associé.\n"
+"<b>Épuisez (utilisez X mélodies) :</b> Après avoir joué un Soutien sur une carte Chemin, épuisez cette carte Chemin. X est égal à la Présence de cette carte."
+
 
 msgctxt "03065.name"
 msgid "The Tireless Artisan"
-msgstr ""
+msgstr "L’Infatigable Artisan"
 
 msgctxt "03065.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "03065.text"
 msgid "<b>Response:</b> When a Ranger rests, they soothe 2 fatigue. If that Ranger has 5 or more fatigue, they soothe 4 fatigue instead."
 msgstr ""
+"<b>Réaction :</b> Lorsqu’un Ranger se repose, il réduit sa Fatigue de 2. Si ce Ranger a 5 Fatigues ou plus, il réduit sa Fatigue de 4 à la place."
 
 msgctxt "03065.flavor"
 msgid "...and as the artisan closed her eyes, she understood that everyone must rest from time to time, and that she had earned a break. Then, she slept."
-msgstr ""
+msgstr "...et tandis qu’elle fermait les yeux, l’artisane comprit que tout le monde devait se reposer de temps en temps, et qu’elle avait mérité une pause. Puis, elle s’endormit."
+
 
 msgctxt "03066.name"
 msgid "Songweave Mantle"
-msgstr ""
+msgstr "Manteau Inhibiteur"
 
 msgctxt "03066.traits"
 msgid "Clothing / Aid"
-msgstr ""
+msgstr "Habit / Aide"
 
 msgctxt "03066.text"
 msgid ""
 "You may play this gear equipped to another Ranger.\n"
 "<b>Exhaust (use 1 buffer):</b> When you would suffer 1 or more fatigue, discard a card from your hand. If you do, either prevent 1 of that fatigue or, if you have 5 or more fatigue, prevent all of it."
 msgstr ""
+"Vous pouvez jouer cet Accessoire équipé sur un autre Ranger.\n"
+"<b>Épuisez (utilisez 1 bourre) :</b> Lorsque vous devriez subir 1 Fatigue ou plus, vous pouvez défausser une carte de votre main. Si vous le faites, soit ignorez 1 de cette Fatigue, soit, si vous avez 5 Fatigue ou plus, ignorez‑la entièrement."
+
 
 msgctxt "03067.name"
 msgid "The Stouthearted Guardian"
-msgstr ""
+msgstr "Le Gardien au Grand Cœur"
 
 msgctxt "03067.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "03067.text"
 msgid ""
@@ -1021,158 +1187,168 @@ msgid ""
 "<b>Response:</b> After you exhaust your role, you may soothe 1 fatigue.\n"
 "<b>Response:</b> When you would discard your fatigue stack due to an injury, discard this tale instead."
 msgstr ""
+"S’associe au rôle d’un Ranger.\n"
+"<b>Réaction :</b> Après avoir épuiser votre rôle, vous pouvez réduire votre Fatigue de 1.\n"
+"<b>Réaction :</b> Lorsque vous devriez défausser votre pile de Fatigue à cause d’une blessure, défaussez ce Conte à la place."
+
 
 msgctxt "03068.name"
 msgid "Dolewood Lute"
-msgstr ""
+msgstr "Luth en Durarbre"
 
 msgctxt "03068.traits"
 msgid "Instrument / Aid"
-msgstr ""
+msgstr "Instrument / Aide"
 
 msgctxt "03068.text"
 msgid "<b>Exhaust (use 1 strum):</b> Choose a Ranger. That Ranger soothes 1 fatigue. If there is a tale attached to their role they soothe 1 additional fatigue."
-msgstr ""
+msgstr "<b>Épuisez (utilisez 1 accord) :</b> Choisissez un Ranger. Ce Ranger réduit sa Fatigue de 1. Su un Conte est associé à son rôle, il réduit sa Fatigue de 2 à la place."
 
 msgctxt "03068.flavor"
 msgid "This lute was crafted by none other than master luthier, Vaal Rez. You had to trade your set of traditional Messepian kettledrums to get it, but it was worth it."
-msgstr ""
+msgstr "Ce luth a été fabriqué par le maître luthier Vaal Rez. Pour l’obtenir, vous avez dû échanger vos timbales traditionnelles messepiennes , mais cela en valait la peine."
+
 
 msgctxt "03069.name"
 msgid "Dauntless"
-msgstr ""
+msgstr "Téméraire"
 
 msgctxt "03069.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03069.text"
 msgid "After a test in which you committed this attribute, if your effort was 1 or less, you may place this attribute on top of your fatigue stack."
-msgstr ""
+msgstr "Après un test dans lequel vous avez engagé cet Attribut, si votre Effort était de 1 ou moins, vous pouvez placer cet Attribut au sommet  de votre pile de Fatigue."
 
 msgctxt "03069.flavor"
 msgid "You have faced many challenges in your life, and despite coming up short on many occasions, you're never discouraged. Given time, you know you will succeed."
-msgstr ""
+msgstr "Vous avez relevé de nombreux défis dans votre vie et, bien que vous ayez souvent échoué, vous ne vous découragez jamais. Avec le temps, vous savez que vous réussirez."
+
 
 msgctxt "03070.name"
 msgid "Observant"
-msgstr ""
+msgstr "Observateur"
 
 msgctxt "03070.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03070.text"
 msgid "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [conflict] [reason]."
-msgstr ""
+msgstr "Avant d’engager cet Attribut, vous pouvez subir 1 Fatigue. Si vous le faites, cet Attribut gagne [conflict] [reason]."
 
 msgctxt "03070.flavor"
 msgid "From the intricate grooves of a dolewood's bark to the ominous rustling of an irix's wings as it takes flight, there are few details that escape your notice, and fewer still that you forget."
-msgstr ""
+msgstr "Des sillons complexes de l’écorce d’un durarbre au bruissement inquiétant des ailes d’un irix prenant son envol, il y a peu de détails qui échappent à votre attention, et encore moins que vous oubliez."
+
 
 msgctxt "03071.name"
 msgid "Enthusiastic"
-msgstr ""
+msgstr "Enthousiaste"
 
 msgctxt "03071.traits"
 msgid "Acquired"
-msgstr ""
+msgstr "Acquis"
 
 msgctxt "03071.text"
 msgid "After you succeed at a test in which you committed this attribute, if your effort was 3 or more, move 1 being."
-msgstr ""
+msgstr "Après avoir réussi un test dans lequel vous avez engagé cet Attribut, si votre Effort était de 3 ou plus, déplacez 1 Être Vivant."
 
 msgctxt "03071.flavor"
 msgid "You've always felt that if something was worth doing, then it was worth committing yourself to it wholeheartedly. Others see you as someone who lives life to the fullest and are inspired as a result."
-msgstr ""
+msgstr "Vous avez toujours pensé que si quelque chose valait la peine d’être fait, cela valait la peine de vous y engager à fond. Les autres vous voient comme quelqu’un qui vit pleinement sa vie et s’en inspirent."
 
 msgctxt "03072.name"
 msgid "Steadfast"
-msgstr ""
+msgstr "Inébranlable"
 
 msgctxt "03072.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03072.text"
 msgid "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [exploration] [connection]."
-msgstr ""
+msgstr "Avant d’engager cet Attribut, vous pouvez subir 1 Fatigue. Si vous le faites, cet Attribut gagne [exploration] [connection]."
 
 msgctxt "03072.flavor"
 msgid "While some may see your unwillingness to compromise as rigidity, you see it as a mere practicality. Some ideals need not be challenged; the truth of them having been proven over millennia."
-msgstr ""
+msgstr "Si certains considèrent votre refus de tout compromis comme de la rigidité, vous n’y voyez qu’un simple aspect pratique. Certains idéaux n’ont pas besoin d’être remis en question, leur véracité ayant été prouvée depuis des millénaires."
+
 
 msgctxt "03073.name"
 msgid "Deliberate"
-msgstr ""
+msgstr "Délibéré"
 
 msgctxt "03073.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03073.text"
 msgid "While you have 6 or more other cards in your hand, this attribute gains [reason] [exploration]."
-msgstr ""
+msgstr "Tant que vous avez 6 autres cartes ou plus en main, cet Attribut gagne [reason] [exploration]."
 
 msgctxt "03073.flavor"
 msgid "For you, each task begins with conscious thought, followed by conscious action. While it is common for many to drift in the sea of their thoughts as they perform mundane tasks, you prefer to focus intently upon them, your mind free of distraction."
-msgstr ""
+msgstr "Pour vous, chaque tâche commence par une pensée consciente, suivie d’une action consciente. Alors qu’il est courant pour beaucoup de dériver dans le maelström de leurs pensées en accomplissant des tâches banales, vous préférez vous concentrer pleinement sur celles-ci, l’esprit débarassé de toute distraction."
 
 msgctxt "03074.name"
 msgid "Ingenious"
-msgstr ""
+msgstr "Ingénieux"
 
 msgctxt "03074.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03074.text"
 msgid "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [reason] [exploration]."
-msgstr ""
+msgstr "Avant d’engager cet Attribut, vous pouvez subir 1 Fatigue. Si vous le faites, cet Attribut gagne [reason] [exploration]."
 
 msgctxt "03074.flavor"
 msgid "As a child, your ability to invent and create did not go unnoticed. Because of your natural talent, you were encouraged to play in the workshops of your village many years before your apprenticeship began."
-msgstr ""
+msgstr "Enfant, votre capacité à inventer et à créer n’est pas passée inaperçue. Grâce à votre talent naturel, vous avez été encouragé à jouer dans les ateliers de votre village bien avant le début de votre apprentissage."
+
 
 msgctxt "03075.name"
 msgid "Sensible"
-msgstr ""
+msgstr "Sensible"
 
 msgctxt "03075.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03075.text"
 msgid "After you succeed at a test in which you committed this attribute, you may place a card from your hand on top of your fatigue stack to add this attribute back to your hand."
-msgstr ""
+msgstr "Après avoir réussi un test dans lequel vous avez engagé cet Attribut, vous pouvez placer une carte de votre main au sommet de votre pile de Fatigue pour reprendre cet Attribut dans votre main."
 
 msgctxt "03075.flavor"
 msgid "As a teen, you were praised by your village elder as having a \"good head on your shoulders.\" You still do."
-msgstr ""
+msgstr "Adolescent, vous avez été félicité par le doyen de votre village qui vous a dit que vous aviez « la tête sur les épaules ». C’est toujours le cas"
 
 msgctxt "03076.name"
 msgid "Magnanimous"
-msgstr ""
+msgstr "Magnanime"
 
 msgctxt "03076.traits"
 msgid "Innate"
-msgstr ""
+msgstr "Inné"
 
 msgctxt "03076.text"
 msgid "Before you commit this attribute, you may suffer 1 fatigue. If you do, this attribute gains [connection] [conflict]."
-msgstr ""
+msgstr "Avant d’engager cet Attribut, vous pouvez subir 1 Fatigue. Si vous le faites, cet Attribut gagne [connection] [conflict]."
 
 msgctxt "03076.flavor"
 msgid "You believe firmly that the key to life is to be generous of spirit; for an abundant spirit is ever-blooming and a joy to behold. You make fast friends, and wherever you go you are treated like family."
-msgstr ""
+msgstr "Vous croyez fermement que la clé de la vie est d’être généreux en esprit, car un esprit altruiste est toujours florissantet fait plaisir à voir. Vous vous faites rapidement des amis et, où que vous alliez, vous êtes traité comme un membre de la famille."
+
 
 msgctxt "03201.name"
 msgid "Gratitude of the Valley"
-msgstr ""
+msgstr "Gratitude de la Vallée"
 
 msgctxt "03201.traits"
 msgid "Experience"
-msgstr ""
+msgstr "Expérience"
 
 msgctxt "03201.text"
 msgid ""
@@ -1181,14 +1357,19 @@ msgid ""
 "Add 2 tokens to one of their equipped gear.\n"
 "Equip a gear from their hand without paying its energy cost."
 msgstr ""
+"Récompense Personnelle <i>(Service de Réparation Gracieux).</i>\n"
+"<b>Réaction :</b> Après abvoir atteint un lieu, chaque Ranger peut au choix :\n"
+"Ajoutez 2 jetons sur l’un de ses Accessoires équipés.\n"
+"Équipez un Accessoire de sa main sans payer son coût en énergie."
+
 
 msgctxt "03202.name"
 msgid "Superior Trail"
-msgstr ""
+msgstr "Sentier des Crêtes"
 
 msgctxt "03202.traits"
 msgid "Trail"
-msgstr ""
+msgstr "Sentier"
 
 msgctxt "03202.text"
 msgid ""
@@ -1198,14 +1379,19 @@ msgid ""
 "Add 3[progress] to that feature.\n"
 "Soothe fatigue equal to that feature's presence."
 msgstr ""
+"Récompense Personnelle <i>(Plan Secret de Grell)</i>.\n"
+"<b>Satisfaites [progress] :</b> Pour chaque Particularité en jeu, faites au choix :\n"
+"Épuisez et déplacez cette Particularité.\n"
+"Ajoutez 3[progress] à cette Particularité.\n"
+"Réduisez autant de votre Fatigue que la présence de cette Particularité."
 
 msgctxt "03203.name"
 msgid "Zoological Compendium"
-msgstr ""
+msgstr "Compendium Zoologique"
 
 msgctxt "03203.traits"
 msgid "Book / Tech"
-msgstr ""
+msgstr "Ouvrage / Tech"
 
 msgctxt "03203.text"
 msgid ""
@@ -1213,14 +1399,18 @@ msgid ""
 "<b>Exhaust:</b> Attach a non-human being from the path discard to this gear, facedown.\n"
 "<b>[SPI] + [reason]: Apply</b> <f>the knowledge within to</f> shuffle an attached card into the path deck to choose a being with which it shares a trait. Add 3[progress] to that being and exhaust it."
 msgstr ""
+"Récompense Personnelle <i>(Enregistreur Zoologique)</i>.\n"
+"<b>Épuisez :</b> Associez un Être Vivant non Humain de la défausse de Chemin à cet Accessoire, face cachée.\n"
+"<b>[SPI] + [reason] : Appliquez</b> <f>ses connaissances pour</f> mélanger une carte associée dans le deck de Chemin pour choisir un Être Vivant avec lequel elle partage un trait. Ajoutez 3[progress] à cet Être Vivant et épuisez-le."
+
 
 msgctxt "03204.name"
 msgid "Brightfruit Tree"
-msgstr ""
+msgstr "Lumifruitier"
 
 msgctxt "03204.traits"
 msgid "Flora"
-msgstr ""
+msgstr "Flore"
 
 msgctxt "03204.text"
 msgid ""
@@ -1228,14 +1418,18 @@ msgid ""
 "<b>[AWA] + [reason]: Harvest [2]</b> <f>the luminous fruit to</f> add 2[harm] to this flora, soothe 1 fatigue, and shuffle the top card of your fatigue stack into your Ranger deck.\n"
 "<b>Response:</b> After a Ranger adds 1 or more [harm] to this flora, they gain 1 energy of any type."
 msgstr ""
+"Récompense Personnelle <i>(Le Jardinier Brillant)</i>. Illumination.\n"
+"<b>[AWA] + [reason] : Récoltez [2]</b> <f>les lumifruits pour</f> ajouter 2[harm] à cette Flore, réduire votre Fatigue de 1, et mélanger la prmière carte de votre pile de Fatigue dans votre deck Ranger.\n"
+"<b>Réaction :</b> Après qu’un Ranger a ajouté au moins 1[harm] à cette Flore, il gagne 1 énergie de son choix."
+
 
 msgctxt "03205.name"
 msgid "The Bravest Ranger"
-msgstr ""
+msgstr "Le Plus Brave Ranger"
 
 msgctxt "03205.traits"
 msgid "Tale"
-msgstr ""
+msgstr "Conte"
 
 msgctxt "03205.text"
 msgid ""
@@ -1243,3 +1437,6 @@ msgid ""
 "Attach to a Ranger's role without The Bravest Ranger attached.\n"
 "<b>Exhaust:</b> When you would suffer 1 or more fatigue, you may instead place that many cards from your hand on top of your fatigue stack."
 msgstr ""
+"Récompense Personnelle <i>(Va, Intrépide Ranger)</i>.\n"
+"S’associe au rôle d’un Ranger qui n’est pas déjà associé à cette carte.\n"
+"<b>Épuisez :</b> Lorsque vous devriez subir 1  Fatigue ou plus, vous pouvez à la place placer autant de cartes de votre main au sommet de votre pile de Fatigue."

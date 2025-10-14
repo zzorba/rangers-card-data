@@ -17,16 +17,16 @@ msgstr "Set de base"
 
 msgctxt "loa.name"
 msgid "Legacy of the Ancestors"
-msgstr ""
+msgstr "L’Héritage des Ancêtres"
 
 msgctxt "loa.short_name"
 msgid "LOA"
-msgstr ""
+msgstr "HDA"
 
 msgctxt "sotv.name"
 msgid "Stewards of the Valley"
-msgstr ""
+msgstr "Les Intendants de la Vallée "
 
 msgctxt "sotv.short_name"
 msgid "SOV"
-msgstr ""
+msgstr "IDLV"
