@@ -15,5 +15,11 @@
     "name": "Stewards of the Valley",
     "short_name": "SOV",
     "position": 3
+  },
+  {
+    "id": "sib",
+    "name": "Spire in Bloom",
+    "short_name": "SIB",
+    "position": 4
   }
 ]

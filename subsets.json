@@ -83,5 +83,12 @@
     "size": 5,
     "set_id": "reward",
     "pack_id": "sotv"
+  },
+  {
+    "id": "sib_reward",
+    "name": "Reward",
+    "size": 5,
+    "set_id": "reward",
+    "pack_id": "sib"
   }
 ]
