@@ -56,3 +56,7 @@ msgstr "Личность"
 msgctxt "sotv_reward.name"
 msgid "Reward"
 msgstr "Награда"
+
+msgctxt "sib_reward.name"
+msgid "Reward"
+msgstr ""

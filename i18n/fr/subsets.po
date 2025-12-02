@@ -54,3 +54,7 @@ msgstr "Personnalité"
 msgctxt "sotv_reward.name"
 msgid "Reward"
 msgstr "Récompenses"
+
+msgctxt "sib_reward.name"
+msgid "Reward"
+msgstr ""

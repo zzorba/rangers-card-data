@@ -32,3 +32,11 @@ msgstr ""
 msgctxt "sotv.short_name"
 msgid "SOV"
 msgstr ""
+
+msgctxt "sib.name"
+msgid "Spire in Bloom"
+msgstr ""
+
+msgctxt "sib.short_name"
+msgid "SIB"
+msgstr ""

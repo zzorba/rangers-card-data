@@ -35,6 +35,14 @@ msgctxt "call.plurals"
 msgid "Call,Calls"
 msgstr ""
 
+msgctxt "crack.name"
+msgid "Crack"
+msgstr ""
+
+msgctxt "crack.plurals"
+msgid "Crack,Cracks"
+msgstr ""
+
 msgctxt "charge.name"
 msgid "Charge"
 msgstr ""
@@ -481,6 +489,14 @@ msgstr ""
 
 msgctxt "strum.plurals"
 msgid "Strum,Strums"
+msgstr ""
+
+msgctxt "spray.name"
+msgid "Spray"
+msgstr ""
+
+msgctxt "spray.plurals"
+msgid "Spray,Sprays"
 msgstr ""
 
 msgctxt "hum.name"

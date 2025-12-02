@@ -32,3 +32,11 @@ msgstr "Хранители долины"
 msgctxt "sotv.short_name"
 msgid "SOV"
 msgstr "ХД"
+
+msgctxt "sib.name"
+msgid "Spire in Bloom"
+msgstr ""
+
+msgctxt "sib.short_name"
+msgid "SIB"
+msgstr ""

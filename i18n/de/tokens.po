@@ -355,6 +355,14 @@ msgctxt "tune.plurals"
 msgid "Tune,Tunes"
 msgstr "Stück,Stücke"
 
+msgctxt "crack.name"
+msgid "Crack"
+msgstr ""
+
+msgctxt "crack.plurals"
+msgid "Crack,Cracks"
+msgstr ""
+
 msgctxt "essay.name"
 msgid "Essay"
 msgstr ""
@@ -473,6 +481,14 @@ msgstr ""
 
 msgctxt "strum.plurals"
 msgid "Strum,Strums"
+msgstr ""
+
+msgctxt "spray.name"
+msgid "Spray"
+msgstr ""
+
+msgctxt "spray.plurals"
+msgid "Spray,Sprays"
 msgstr ""
 
 msgctxt "hum.name"

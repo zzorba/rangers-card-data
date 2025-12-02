@@ -285,6 +285,14 @@ msgctxt "needle.plurals"
 msgid "Needle,Needles"
 msgstr "Ago,Aghi"
 
+msgctxt "crack.name"
+msgid "Crack"
+msgstr ""
+
+msgctxt "crack.plurals"
+msgid "Crack,Cracks"
+msgstr ""
+
 msgctxt "graph.name"
 msgid "Graph"
 msgstr ""
@@ -475,6 +483,14 @@ msgstr ""
 
 msgctxt "strum.plurals"
 msgid "Strum,Strums"
+msgstr ""
+
+msgctxt "spray.name"
+msgid "Spray"
+msgstr ""
+
+msgctxt "spray.plurals"
+msgid "Spray,Sprays"
 msgstr ""
 
 msgctxt "hum.name"

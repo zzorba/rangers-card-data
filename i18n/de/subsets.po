@@ -54,3 +54,7 @@ msgstr ""
 msgctxt "sotv_reward.name"
 msgid "Reward"
 msgstr ""
+
+msgctxt "sib_reward.name"
+msgid "Reward"
+msgstr ""

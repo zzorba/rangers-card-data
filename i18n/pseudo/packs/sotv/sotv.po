@@ -812,7 +812,9 @@ msgid "Spirit"
 msgstr ""
 
 msgctxt "03054.text"
-msgid "Persistent. Spirit."
+msgid ""
+"Persistent. Spirit.\n"
+"<b>Response:</b> Before a Romping Lutrinal would move, discard 1[progress] from this spirit to prevent it."
 msgstr ""
 
 msgctxt "03054.sun_challenge"

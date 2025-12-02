@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+
+msgctxt "04201.name"
+msgid "Adaptive Glass Shard"
+msgstr ""
+
+msgctxt "04201.traits"
+msgid "Tool / Weapon"
+msgstr ""
+
+msgctxt "04201.text"
+msgid ""
+"<b>Exhaust:</b> Add 2 [harm] to a feature or being and 1 crack to this gear.\n"
+"<b>Exhaust:</b> When you would suffer an injury, add 2 cracks to this gear instead.\n"
+"<b>Response:</b> After 1 or more cracks are added to this gear, discard cards from the top of the challenge deck equal to the number of cracks on this gear. If 2 or more [crest] symbols are discarded, <f>the glass explodes into thousands of pieces.</f> Suffer 1 injury, return this gear to the collection, and remove a checkmark next to Adaptive Glass Shard on your campaign tracker.."
+msgstr ""
+
+msgctxt "04202.name"
+msgid "True Friendship"
+msgstr ""
+
+msgctxt "04202.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "04202.text"
+msgid "If there is a human in play, add 3 [progress] to that human or add 3 [progress] to the location. If Helping Hand is attached to that human, do both instead."
+msgstr ""
+
+msgctxt "04202.flavor"
+msgid "After helping Olyv and Bo reunite, you've come to appreciate the simple pleasure of sharing space with a friend, even when there's nothing to do but enjoy the company."
+msgstr ""
+
+msgctxt "04203.name"
+msgid "Floral Cloak"
+msgstr ""
+
+msgctxt "04203.traits"
+msgid "Clothing"
+msgstr ""
+
+msgctxt "04203.text"
+msgid ""
+"<b>Response:</b> When you pertorm a test, if your [ranger] is on a flora, you may dodge each card in the same area as that flora.\n"
+"[AWA] + [exploration]<b>: Blend</b> <f>into the environment to</f> move your [ranger] to a flora."
+msgstr ""
+
+msgctxt "04203.flavor"
+msgid "Etra Lash gave you this decorative cloak after you helped save the Blossom Festival."
+msgstr ""
+
+msgctxt "04204.name"
+msgid "Growth Serum"
+msgstr ""
+
+msgctxt "04204.traits"
+msgid "Tech"
+msgstr ""
+
+msgctxt "04204.text"
+msgid "<b>Exhaust (use 1 spray):</b> Discard 1 [harm] from a flora and either exhaust it or resolve its [mountain] effect."
+msgstr ""
+
+msgctxt "04204.flavor"
+msgid "Tiella Jakarra's best guess is that the Estians concocted this serum in order to stimulate plant growth and the spread of pollen. When you spray it on vegetation, the effects are nearly instantaneous."
+msgstr ""
+
+msgctxt "04205.name"
+msgid "Rousing Speech"
+msgstr ""
+
+msgctxt "04205.traits"
+msgid "Skill / Tale"
+msgstr ""
+
+msgctxt "04205.text"
+msgid "Each Ranger may spend any amount of energy of one aspect to gain that much energy of another aspect."
+msgstr ""
+
+msgctxt "04205.flavor"
+msgid "You've always had a way with words, but after listening to the way Etra Lash was able to motivate others with his eloquence, you ve come to realize just how powerful the spoken word can be."
+msgstr ""

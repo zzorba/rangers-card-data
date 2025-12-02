@@ -397,7 +397,7 @@ msgstr "Émetteur,Émetteurs"
 
 msgctxt "strain.name"
 msgid "Strain"
-msgstr "Stress
+msgstr "Stress"
 
 msgctxt "strain.plurals"
 msgid "Strain,Strains"
@@ -482,3 +482,19 @@ msgstr "Repos"
 msgctxt "hum.plurals"
 msgid "Hum,Hums"
 msgstr "Repos,Repos"
+
+msgctxt "crack.name"
+msgid "Crack"
+msgstr ""
+
+msgctxt "crack.plurals"
+msgid "Crack,Cracks"
+msgstr ""
+
+msgctxt "spray.name"
+msgid "Spray"
+msgstr ""
+
+msgctxt "spray.plurals"
+msgid "Spray,Sprays"
+msgstr ""

@@ -484,3 +484,19 @@ msgstr "Напев"
 msgctxt "hum.plurals"
 msgid "Hum,Hums"
 msgstr "Напев,Напева,Напевов"
+
+msgctxt "crack.name"
+msgid "Crack"
+msgstr ""
+
+msgctxt "crack.plurals"
+msgid "Crack,Cracks"
+msgstr ""
+
+msgctxt "spray.name"
+msgid "Spray"
+msgstr ""
+
+msgctxt "spray.plurals"
+msgid "Spray,Sprays"
+msgstr ""
