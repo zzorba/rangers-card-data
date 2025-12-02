@@ -309,51 +309,51 @@ msgstr "Klecks,Kleckse"
 
 msgctxt "flash.name"
 msgid "Flash"
-msgstr ""
+msgstr "Blitz"
 
 msgctxt "flash.plurals"
 msgid "Flash,Flashes"
-msgstr ""
+msgstr "Blitz,Blitze"
 
 msgctxt "filter.name"
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 msgctxt "filter.plurals"
 msgid "Filter,Filters"
-msgstr ""
+msgstr "Filter,Filter"
 
 msgctxt "cell.name"
 msgid "Cell"
-msgstr ""
+msgstr "Zelle"
 
 msgctxt "cell.plurals"
 msgid "Cell,Cells"
-msgstr ""
+msgstr "Zelle,Zellen"
 
 msgctxt "gleam.name"
 msgid "Gleam"
-msgstr ""
+msgstr "Schimmer"
 
 msgctxt "gleam.plurals"
 msgid "Gleam,Gleams"
-msgstr ""
+msgstr "Schimmer,Schimmer"
 
 msgctxt "puff.name"
 msgid "Puff"
-msgstr ""
+msgstr "Stoß"
 
 msgctxt "puff.plurals"
 msgid "Puff,Puffs"
-msgstr ""
+msgstr "Stoß,Stöße"
 
 msgctxt "tune.name"
 msgid "Tune"
-msgstr ""
+msgstr "Stück"
 
 msgctxt "tune.plurals"
 msgid "Tune,Tunes"
-msgstr ""
+msgstr "Stück,Stücke"
 
 msgctxt "essay.name"
 msgid "Essay"
