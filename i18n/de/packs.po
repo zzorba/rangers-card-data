@@ -17,16 +17,16 @@ msgstr "Grundspiel"
 
 msgctxt "loa.name"
 msgid "Legacy of the Ancestors"
-msgstr ""
+msgstr "Das Vermächtnis der Ahnen"
 
 msgctxt "loa.short_name"
 msgid "LOA"
-msgstr ""
+msgstr "VDA"
 
 msgctxt "sotv.name"
 msgid "Stewards of the Valley"
-msgstr ""
+msgstr "Die Hüter des Tals"
 
 msgctxt "sotv.short_name"
 msgid "SOV"
-msgstr ""
+msgstr "HDT"
