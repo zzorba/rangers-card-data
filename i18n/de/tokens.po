@@ -365,75 +365,75 @@ msgstr ""
 
 msgctxt "essay.name"
 msgid "Essay"
-msgstr ""
+msgstr "Aufsatz"
 
 msgctxt "essay.plurals"
 msgid "Essay,Essays"
-msgstr ""
+msgstr "Aufsatz,Aufsätze"
 
 msgctxt "record.name"
 msgid "Record"
-msgstr ""
+msgstr "Eintrag"
 
 msgctxt "record.plurals"
 msgid "Record,Records"
-msgstr ""
+msgstr "Eintrag,Einträge"
 
 msgctxt "story.name"
 msgid "Story"
-msgstr ""
+msgstr "Bericht"
 
 msgctxt "story.plurals"
 msgid "Story,Stories"
-msgstr ""
+msgstr "Bericht,Berichte"
 
 msgctxt "reading.name"
 msgid "Reading"
-msgstr ""
+msgstr "Messwert"
 
 msgctxt "reading.plurals"
 msgid "Reading,Readings"
-msgstr ""
+msgstr "Messwert,Messwerte"
 
 msgctxt "remote.name"
 msgid "Remote"
-msgstr ""
+msgstr "Drohne"
 
 msgctxt "remote.plurals"
 msgid "Remote,Remotes"
-msgstr ""
+msgstr "Drohne,Drohnen"
 
 msgctxt "strain.name"
 msgid "Strain"
-msgstr ""
+msgstr "Formung"
 
 msgctxt "strain.plurals"
 msgid "Strain,Strains"
-msgstr ""
+msgstr "Formung,Formungen"
 
 msgctxt "beat.name"
 msgid "Beat"
-msgstr ""
+msgstr "Schlag"
 
 msgctxt "beat.plurals"
 msgid "Beat,Beats"
-msgstr ""
+msgstr "Schlag,Schläge"
 
 msgctxt "insight.name"
 msgid "Insight"
-msgstr ""
+msgstr "Einblick"
 
 msgctxt "insight.plurals"
 msgid "Insight,Insights"
-msgstr ""
+msgstr "Einblick,Einblicke"
 
 msgctxt "hunch.name"
 msgid "Hunch"
-msgstr ""
+msgstr "Route"
 
 msgctxt "hunch.plurals"
 msgid "Hunch,Hunches"
-msgstr ""
+msgstr "Route,Routen"
 
 msgctxt "lesson.name"
 msgid "Lesson"
@@ -453,35 +453,35 @@ msgstr ""
 
 msgctxt "journey.name"
 msgid "Journey"
-msgstr ""
+msgstr "Reise"
 
 msgctxt "journey.plurals"
 msgid "Journey,Journeys"
-msgstr ""
+msgstr "Reise,Reisen"
 
 msgctxt "deed.name"
 msgid "Deed"
-msgstr ""
+msgstr "Tat"
 
 msgctxt "deed.plurals"
 msgid "Deed,Deeds"
-msgstr ""
+msgstr "Tat,Taten"
 
 msgctxt "melody.name"
 msgid "Melody"
-msgstr ""
+msgstr "Melodie"
 
 msgctxt "melody.plurals"
 msgid "Melody,Melodies"
-msgstr ""
+msgstr "Melodie,Melodien"
 
 msgctxt "strum.name"
 msgid "Strum"
-msgstr ""
+msgstr "Akkord"
 
 msgctxt "strum.plurals"
 msgid "Strum,Strums"
-msgstr ""
+msgstr "Akkord,Akkorde"
 
 msgctxt "spray.name"
 msgid "Spray"
@@ -493,8 +493,8 @@ msgstr ""
 
 msgctxt "hum.name"
 msgid "Hum"
-msgstr ""
+msgstr "Summen"
 
 msgctxt "hum.plurals"
 msgid "Hum,Hums"
-msgstr ""
+msgstr "Summen,Summen"

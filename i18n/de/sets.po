@@ -91,11 +91,11 @@ msgstr "Fluss"
 
 msgctxt "talespinner.name"
 msgid "Talespinner"
-msgstr ""
+msgstr "Sagenweber"
 
 msgctxt "spirit_speaker.name"
 msgid "Spirit Speaker"
-msgstr ""
+msgstr "Geistsprecher"
 
 msgctxt "the_valley.name"
 msgid "The Valley"
