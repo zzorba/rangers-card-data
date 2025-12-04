@@ -552,7 +552,7 @@ msgstr "Fähigkeit"
 
 msgctxt "01039.text"
 msgid "<b>Response:</b> When you Traverse, dodge up to 3 cards."
-msgstr "<b>Reaktion:</b> Wenn du einen <b>Durchquere</b>-Test ausführst, darfst du bis zu 3 Karten ausweichen."
+msgstr "<b>Reaktion:</b> Wenn du einen <b>Durchquere-</b>Test ausführst, darfst du bis zu 3 Karten ausweichen."
 
 msgctxt "01040.name"
 msgid "Hydrolens Goggles"
@@ -588,7 +588,7 @@ msgstr "High-Tech"
 
 msgctxt "01042.text"
 msgid "<b>Exhaust (use 1 sensor):</b> When a Ranger performs a <b>Traverse</b> test, commit 1 effort."
-msgstr "<b>Erschöpfen (verwende 1 Hinweis):</b> Wenn ein Ranger einen <b>Durchquere</b>-Test ausführt, investiert dies 1 Mühe."
+msgstr "<b>Erschöpfen (verwende 1 Hinweis):</b> Wenn ein Ranger einen <b>Durchquere-</b>Test ausführt, investiert dies 1 Mühe."
 
 msgctxt "01043.name"
 msgid "Orlin Hiking Stave"
@@ -672,7 +672,7 @@ msgstr "Erfahrung"
 
 msgctxt "01048.text"
 msgid "<b>Response:</b> After you succeed at a <b>Traverse</b> test, add [progress] to a being equal to your effort. This is in addition to the test’s standard effect."
-msgstr "<b>Reaktion:</b> Nach deinem erfolgreichen <b>Durchquere</b>-Test, lege zusätzlich X[progress] auf 1 ¬Wesen (X= Leistung)."
+msgstr "<b>Reaktion:</b> Nach deinem erfolgreichen <b>Durchquere-</b>Test, lege zusätzlich X[progress] auf 1 ¬Wesen (X= Leistung)."
 
 msgctxt "01049.name"
 msgid "Breathe Into It"
@@ -724,7 +724,7 @@ msgstr "Buch / High-Tech"
 
 msgctxt "01053.text"
 msgid "<b>Exhaust (use 1 profile):</b> When a Ranger performs an <b>Avoid</b> test, commit 1 effort."
-msgstr "<b>Erschöpfen (verwende 1 Profil):</b> Wenn ein Ranger einen <b>Schleiche</b>-Test ausführt, investiert dies 1 Mühe."
+msgstr "<b>Erschöpfen (verwende 1 Profil):</b> Wenn ein Ranger einen <b>Schleiche-</b>Test ausführt, investiert dies 1 Mühe."
 
 msgctxt "01054.name"
 msgid "Carbonforged Cable"
@@ -758,7 +758,7 @@ msgid ""
 "<b>Response:</b> After you succeed at an <b>Avoid</b> test, add 1 charge to this gear."
 msgstr ""
 "Wirf diese ausgerüstete ¬Ausstattung ab, um X ¬Wesen zu erschöpfen (X= Anzahl der Ladungen hier).\n"
-"<b>Reaktion:</b> Nach deinem erfolgreichen <b>Schleiche</b>-Test, platziere 1 Ladung hier."
+"<b>Reaktion:</b> Nach deinem erfolgreichen <b>Schleiche-</b>Test, platziere 1 Ladung hier."
 
 msgctxt "01056.name"
 msgid "Trail Markers"
@@ -848,7 +848,7 @@ msgstr "Gerät / High-Tech"
 
 msgctxt "01061.text"
 msgid "<b>Exhaust (use 1 charge):</b> When you perform a <b>Traverse</b> test, use [FOC] instead of [FIT]."
-msgstr "<b>Erschöpfen (verwende 1 Ladung):</b> Wenn du einen <b>Durchquere</b>-Test ausführst, verwendest du [FOC] anstelle von [FIT]."
+msgstr "<b>Erschöpfen (verwende 1 Ladung):</b> Wenn du einen <b>Durchquere-</b>Test ausführst, verwendest du [FOC] anstelle von [FIT]."
 
 msgctxt "01062.name"
 msgid "A Stone in the River"
@@ -860,7 +860,7 @@ msgstr "Weisheit"
 
 msgctxt "01062.text"
 msgid "<b>Response:</b> After you succeed at an <b>Avoid</b> test, exhaust 1 additional being"
-msgstr "<b>Reaktion:</b> Nach deinem erfolgreichen <b>Schleiche</b>-Test erschöpfe 1 zusätzliches ¬Wesen."
+msgstr "<b>Reaktion:</b> Nach deinem erfolgreichen <b>Schleiche-</b>Test erschöpfe 1 zusätzliches ¬Wesen."
 
 msgctxt "01063.name"
 msgid "Camoweave Cloak"
@@ -956,7 +956,7 @@ msgstr "Fähigkeit"
 
 msgctxt "01070.text"
 msgid "<b>Response:</b> After you succeed at a <b>Connect</b> test, add [progress] to a feature equal to your effort. This is in addition to the test’s standard effect."
-msgstr "<b>Reaktion:</b> Nach deinem erfolgreichen <b>Fühle</b>-Test, lege zusätzlich X[progress] auf 1 ¬Besonderheit (X= Leistung)."
+msgstr "<b>Reaktion:</b> Nach deinem erfolgreichen <b>Fühle-</b>Test, lege zusätzlich X[progress] auf 1 ¬Besonderheit (X= Leistung)."
 
 msgctxt "01071.name"
 msgid "Orlin Thumper"
@@ -998,7 +998,7 @@ msgstr "High-Tech / Hilfe"
 
 msgctxt "01073.text"
 msgid "<b>Exhaust (use 1 charge):</b> When a Ranger performs a <b>Connect</b> test, commit 1 effort."
-msgstr "<b>Erschöpfen (verwende 1 Ladung):</b> Wenn ein Ranger einen <b>Fühle</b>-Test ausführt, investiert dies 1 Mühe."
+msgstr "<b>Erschöpfen (verwende 1 Ladung):</b> Wenn ein Ranger einen <b>Fühle-</b>Test ausführt, investiert dies 1 Mühe."
 
 msgctxt "01074.name"
 msgid "Safeguard"
@@ -1187,7 +1187,7 @@ msgid ""
 "<b>Exhaust (use X strides):</b> Add X[progress] to a trail."
 msgstr ""
 "Kanalisator. Aufbau.\n"
-"<b>Reaktion:</b> Nach deinem erfolgreichen <b>Durchquere</b>-Test, platziere 1 Schritt hier.\n"
+"<b>Reaktion:</b> Nach deinem erfolgreichen <b>Durchquere-</b>Test, platziere 1 Schritt hier.\n"
 "<b>Erschöpfen (verwende X Schritte):</b> Lege X[progress] auf 1 ¬Wanderweg."
 
 msgctxt "01087.name"
@@ -2201,7 +2201,7 @@ msgstr "Kleidung"
 
 msgctxt "01229.text"
 msgid "<b>Exhaust:</b> When a Ranger performs a <b>Connect</b> test that interacts with a human, commit 2 effort."
-msgstr "<b>Erschöpfen:</b> Wenn ein Ranger einen <b>Fühle</b>-Test ausführt, der mit einem ¬Mensch interagiert, investiert dies 2 Mühe."
+msgstr "<b>Erschöpfen:</b> Wenn ein Ranger einen <b>Fühle-</b>Test ausführt, der mit einem ¬Mensch interagiert, investiert dies 2 Mühe."
 
 msgctxt "01229.flavor"
 msgid "An adornment of great honor, the harvest crown is rewarded only to those who embody the spirit of Meadow Harvest Festival, an annual tradition cherished by all those who attend."
