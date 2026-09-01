@@ -42,7 +42,7 @@
     "approach_reason": 1,
     "type_id": "moment",
     "traits": "Experience",
-    "text": "Choose a Ranger. That Ranger may search their Ranger deck or discard for a gear and play it <i>(paying its cost)</i>.",
+    "text": "Choose a Ranger. That Ranger may search their Ranger deck or discard for a gear and play it <f>(paying its cost)</f>.",
     "spoiler": true,
     "subset_id": "itm_reward",
     "subset_position": 2
@@ -65,7 +65,7 @@
     "traits": "Compansion / Crustacean",
     "presence": 1,
     "harm": 1,
-    "text": "Friendly. Persistent. Unique.\n<b>[AWA] + [exploration]: Scavenge [2]</b> <f>as Lunn might, to</f> shuffle your discard and choose 1 card at random from it. You may attach that card facedown to this being.\n<b>Exhaust:</b> Play one of your facedown cards attached to this being <i>(paying its cost)</i>.",
+    "text": "Friendly. Persistent. Unique.\n<b>[AWA] + [exploration]: Scavenge [2]</b> <f>as Lunn might, to</f> shuffle your discard and choose 1 card at random from it. You may attach that card facedown to this being.\n<b>Exhaust:</b> Play one of your facedown cards attached to this being <f>(paying its cost)</f>.",
     "spoiler": true,
     "subset_id": "itm_reward",
     "subset_position": 3
