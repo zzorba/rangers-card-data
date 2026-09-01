@@ -62,3 +62,7 @@ msgstr ""
 msgctxt "sos_reward.name"
 msgid "Reward"
 msgstr ""
+
+msgctxt "itm_reward.name"
+msgid "Reward"
+msgstr ""

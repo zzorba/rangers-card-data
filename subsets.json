@@ -97,5 +97,12 @@
     "size": 5,
     "set_id": "reward",
     "pack_id": "sos"
+  },
+  {
+    "id": "itm_reward",
+    "name": "Reward",
+    "size": 5,
+    "set_id": "reward",
+    "pack_id": "itm"
   }
 ]

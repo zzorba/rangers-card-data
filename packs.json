@@ -27,5 +27,11 @@
     "name": "Shadow of the Storm",
     "short_name": "SOS",
     "position": 5
+  },
+  {
+    "id": "itm",
+    "name": "Into the Maw",
+    "short_name": "ITM",
+    "position": 6
   }
 ]

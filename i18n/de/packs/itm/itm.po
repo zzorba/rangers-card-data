@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "06201.name"
+msgid "Symbiotic Dendrite"
+msgstr ""
+
+msgctxt "06201.traits"
+msgid "Nature / Aid"
+msgstr ""
+
+msgctxt "06201.text"
+msgid "<b>[FOC] + [exploration] (use 1 vine): Detect [X]</b> <f>hazards in the environment to</f> exhaust a feature. X is that feature's presence."
+msgstr ""
+
+msgctxt "06201.flavor"
+msgid "This dendritic vine somehow connects with your physiology, aiding you in surviving hostile environments. The vines also react to a multitude of factors, warning the wearer of impending danger."
+msgstr ""
+
+msgctxt "06202.name"
+msgid "Timely Delivery"
+msgstr ""
+
+msgctxt "06202.traits"
+msgid "Experience"
+msgstr ""
+
+msgctxt "06202.text"
+msgid "Choose a Ranger. That Ranger may search their Ranger deck or discard for a gear and play it <i>(paying its cost)</i>."
+msgstr ""
+
+msgctxt "06202.flavor"
+msgid "Elder Thrush sometimes sends care packages to Rangers on patrol—you never know when a courier might turn up carrying just what you need."
+msgstr ""
+
+msgctxt "06203.name"
+msgid "Lil' Lunn the Crayfish"
+msgstr ""
+
+msgctxt "06203.traits"
+msgid "Compansion / Crustacean"
+msgstr ""
+
+msgctxt "06203.text"
+msgid ""
+"Friendly. Persistent. Unique.\n"
+"<b>[AWA] + [exploration]: Scavenge [2]</b> <f>as Lunn might, to</f> shuffle your discard and choose 1 card at random from it. You may attach that card facedown to this being.\n"
+"<b>Exhaust:</b> Play one of your facedown cards attached to this being <i>(paying its cost)</i>."
+msgstr ""
+
+msgctxt "06204.name"
+msgid "Acidic Bile"
+msgstr ""
+
+msgctxt "06204.traits"
+msgid "Nature / Weapon"
+msgstr ""
+
+msgctxt "06204.text"
+msgid ""
+"Attach to a being or feature.\n"
+"<b>Refresh:</b> Add 2[harm] to the attached card."
+msgstr ""
+
+msgctxt "06204.flavor"
+msgid "Acidic enough to burn through almost anything, the bile spewed by the being in the terravore's liver seems to have been concentrated in this gallbladder. The sac quivers rhythmically within its container."
+msgstr ""
+
+msgctxt "06205.name"
+msgid "Electrostatic Bug Net"
+msgstr ""
+
+msgctxt "06205.traits"
+msgid "Tool / Food"
+msgstr ""
+
+msgctxt "06205.text"
+msgid ""
+"<b>[FIT] + [conflict]: Catch</b> <f>a nearby bug to</f> add 1 grub to this gear. You may also discard 1 unique token from a swarm.\n"
+"<b>Exhaust (use 1 grub):</b> When you perform a test, <f>release a distracting bug to</f> dodge 1 being."
+msgstr ""

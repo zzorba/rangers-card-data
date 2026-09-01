@@ -514,3 +514,19 @@ msgstr ""
 msgctxt "piton.plurals"
 msgid "Piton,Pitons"
 msgstr ""
+
+msgctxt "vine.name"
+msgid "Vine"
+msgstr ""
+
+msgctxt "vine.plurals"
+msgid "Vine,Vines"
+msgstr ""
+
+msgctxt "grub.name"
+msgid "Grub"
+msgstr ""
+
+msgctxt "grub.plurals"
+msgid "Grub,Grubs"
+msgstr ""

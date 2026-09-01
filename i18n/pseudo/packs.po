@@ -46,3 +46,11 @@ msgstr ""
 msgctxt "sos.short_name"
 msgid "SOS"
 msgstr ""
+
+msgctxt "itm.name"
+msgid "Into the Maw"
+msgstr ""
+
+msgctxt "itm.short_name"
+msgid "ITM"
+msgstr ""
